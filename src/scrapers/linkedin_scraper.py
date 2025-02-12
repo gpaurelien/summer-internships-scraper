@@ -14,6 +14,8 @@ logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 class LinkedInScraper:
+    """Entry point for LinkedIn job offers scraping"""
+
     def __init__(self, host: str, logger: logging.Logger = logger) -> None:
         self.host = host
         self.logger = logger

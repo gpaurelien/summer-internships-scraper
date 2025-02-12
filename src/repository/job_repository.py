@@ -29,7 +29,7 @@ class JobRepository:
         try:
             return json.loads(self.storage_path.read_text())
         except json.JSONDecodeError:
-            logger.error("Corrupted storage file")
+            self.logger.error("Corrupted storage file")
             return {}
             
     def _save_jobs(self, jobs: dict):
