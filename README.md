@@ -1,6 +1,10 @@
 # Summer 2025 job opportunities
 > Last updated: 2025-02-12
 
+This tool provides a list of software engieneering internships across Western Europe. 
+
+Feel free to contribute or suggest improvements!
+
 ## Available positions (13 offers)
 
 ### SingleStore
