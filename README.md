@@ -1,9 +1,13 @@
 # Summer 2025 job opportunities
 > Last updated: 2025-02-13
 
-Offers are stored from the most recent to oldest.
+## Available positions (30 offers)
 
-## Available positions (17 offers)
+### Dynatrace
+- **Position:** Software Engineering Internship for University Students - Summer 2025
+- **Location:** Gdańsk, Pomorskie, Poland
+- **Posted on:** 2025-02-13
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-internship-for-university-students-summer-2025-at-dynatrace-4149492032?position=12&pageNum=0&refId=DqQDF%2Fg3y3sv%2BKyK6mj8Sg%3D%3D&trackingId=%2FKhzeiXehIc8nzeXUmjR8Q%3D%3D)
 
 ### SingleStore
 - **Position:** Software Engineer, Platform Intern (Summer 2025)
@@ -65,6 +69,24 @@ Offers are stored from the most recent to oldest.
 - **Posted on:** 2025-02-07
 - [Apply here](https://es.linkedin.com/jobs/view/2025-summer-internship-developer-intern-ai-interest-at-king-4146101066?position=11&pageNum=0&refId=qIdkhhdEs0%2BhpoZYxJ%2F0JA%3D%3D&trackingId=K502PRr4Dn0Xuc8yYVbqBQ%3D%3D)
 
+### King
+- **Position:** 2025 Summer Internship - QA Specialist Intern
+- **Location:** Barcelona, Catalonia, Spain
+- **Posted on:** 2025-02-07
+- [Apply here](https://es.linkedin.com/jobs/view/2025-summer-internship-qa-specialist-intern-at-king-4145999361?position=37&pageNum=0&refId=OeZ3CFw0fRcmrIJmnGffxA%3D%3D&trackingId=Ca92yeIL0hGLbIiEewpetw%3D%3D)
+
+### ActiveCampaign
+- **Position:** Summer 2025 Software Engineering Internship
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-02-07
+- [Apply here](https://pl.linkedin.com/jobs/view/summer-2025-software-engineering-internship-at-activecampaign-4066442261?position=6&pageNum=0&refId=DqQDF%2Fg3y3sv%2BKyK6mj8Sg%3D%3D&trackingId=He8pTcz6Whb7nCQUiSrqmQ%3D%3D)
+
+### Equinix
+- **Position:** 2025 Customer Engineering  Summer Intern
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-02-07
+- [Apply here](https://pl.linkedin.com/jobs/view/2025-customer-engineering-summer-intern-at-equinix-4104447276?position=40&pageNum=0&refId=DqQDF%2Fg3y3sv%2BKyK6mj8Sg%3D%3D&trackingId=ZWwqeDvMNiBvR%2BIo9X47kQ%3D%3D)
+
 ### Undelucram.ro
 - **Position:** Cloud Engineer Intern - GenAI  - Summer 2025 (Remote, ROU)
 - **Location:** Romania
@@ -83,6 +105,18 @@ Offers are stored from the most recent to oldest.
 - **Posted on:** 2025-02-05
 - [Apply here](https://ro.linkedin.com/jobs/view/cloud-engineer-intern-genai-summer-2025-remote-rou-at-crowdstrike-4144012297?position=16&pageNum=0&refId=fbundtAbPDto%2BA27%2Br%2BWYg%3D%3D&trackingId=izjdmCHacRY7uW7VIBg5pQ%3D%3D)
 
+### Splunk
+- **Position:** Software Engineering Intern (Backend/Fullstack)
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-02-05
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-intern-backend-fullstack-at-splunk-4047076407?position=13&pageNum=0&refId=DqQDF%2Fg3y3sv%2BKyK6mj8Sg%3D%3D&trackingId=1jpspZAHaTJnbyFKtaw%2BGA%3D%3D)
+
+### Splunk
+- **Position:** Software Engineer Intern (Frontend)
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-02-05
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineer-intern-frontend-at-splunk-4047074646?position=21&pageNum=0&refId=DqQDF%2Fg3y3sv%2BKyK6mj8Sg%3D%3D&trackingId=R7LVAyrjg5a5ox8Bp8MHjw%3D%3D)
+
 ### King
 - **Position:** 2025 Summer Internship - Developer Intern
 - **Location:** Barcelona, Catalonia, Spain
@@ -95,15 +129,57 @@ Offers are stored from the most recent to oldest.
 - **Posted on:** 2025-02-03
 - [Apply here](https://es.linkedin.com/jobs/view/2025-summer-internship-developer-intern-barcelona-at-king-4143006366?position=21&pageNum=0&refId=qIdkhhdEs0%2BhpoZYxJ%2F0JA%3D%3D&trackingId=kg6ZYdxfbu8WPrcBJkD94Q%3D%3D)
 
+### Box
+- **Position:** Software Engineering Intern (Warsaw - Summer 2025)
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-02-03
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-intern-warsaw-summer-2025-at-box-4142203117?position=7&pageNum=0&refId=DqQDF%2Fg3y3sv%2BKyK6mj8Sg%3D%3D&trackingId=yylnc1VAGEnzYdn82%2FezBw%3D%3D)
+
 ### Salesforce
 - **Position:** Solution Engineering Internship (Madrid)
 - **Location:** Madrid, Community of Madrid, Spain
 - **Posted on:** 2025-01-31
 - [Apply here](https://es.linkedin.com/jobs/view/solution-engineering-internship-madrid-at-salesforce-4140184163?position=28&pageNum=0&refId=qIdkhhdEs0%2BhpoZYxJ%2F0JA%3D%3D&trackingId=wjdsuJwsV1kfFiwyZZqPFQ%3D%3D)
 
+### Visa
+- **Position:** Software Engineer Intern - Genesys Cloud
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-01-27
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineer-intern-genesys-cloud-at-visa-4115449946?position=17&pageNum=0&refId=DqQDF%2Fg3y3sv%2BKyK6mj8Sg%3D%3D&trackingId=4BNfc3h%2BvMscqcvgla4WXQ%3D%3D)
+
+### Qualtrics
+- **Position:** Software Engineering Intern - Summer 2025 Kraków
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-01-24
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-intern-summer-2025-krak%C3%B3w-at-qualtrics-4133610979?position=30&pageNum=0&refId=DqQDF%2Fg3y3sv%2BKyK6mj8Sg%3D%3D&trackingId=IkzhgKQCGOKdI0v26xZLHQ%3D%3D)
+
+### Asana
+- **Position:** Warsaw Summer Software Engineering Internship
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-01-14
+- [Apply here](https://pl.linkedin.com/jobs/view/warsaw-summer-software-engineering-internship-at-asana-4122691727?position=4&pageNum=0&refId=DqQDF%2Fg3y3sv%2BKyK6mj8Sg%3D%3D&trackingId=z8c9uJW9vxw0%2F6uub9iidg%3D%3D)
+
+### Westinghouse Electric Company
+- **Position:** Poland Global Nuclear Fuel Engineering Intern Program
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-01-13
+- [Apply here](https://pl.linkedin.com/jobs/view/poland-global-nuclear-fuel-engineering-intern-program-at-westinghouse-electric-company-4122799747?position=47&pageNum=0&refId=DqQDF%2Fg3y3sv%2BKyK6mj8Sg%3D%3D&trackingId=YRl07380oEUBgINJ7230DQ%3D%3D)
+
+### Westinghouse Electric Company
+- **Position:** International Engineering Internship - United States - Summer 2025
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-01-10
+- [Apply here](https://pl.linkedin.com/jobs/view/international-engineering-internship-united-states-summer-2025-at-westinghouse-electric-company-4120746059?position=42&pageNum=0&refId=DqQDF%2Fg3y3sv%2BKyK6mj8Sg%3D%3D&trackingId=JoNbI3xS55LUxXEgJSFk3w%3D%3D)
+
 ### Amazon Web Services (AWS)
 - **Position:** Technical Business Developer Intern, AWS
 - **Location:** Madrid, Community of Madrid, Spain
 - **Posted on:** 2024-12-05
 - [Apply here](https://es.linkedin.com/jobs/view/technical-business-developer-intern-aws-at-amazon-web-services-aws-4055976299?position=34&pageNum=0&refId=qIdkhhdEs0%2BhpoZYxJ%2F0JA%3D%3D&trackingId=pHrjZRylFUk%2FpL65uRNZ8w%3D%3D)
+
+### BNY
+- **Position:** 2025 BNY Summer Internship Program - Engineering (Poland)
+- **Location:** Wrocław, Dolnośląskie, Poland
+- **Posted on:** 2024-09-20
+- [Apply here](https://pl.linkedin.com/jobs/view/2025-bny-summer-internship-program-engineering-poland-at-bny-4027621546?position=26&pageNum=0&refId=DqQDF%2Fg3y3sv%2BKyK6mj8Sg%3D%3D&trackingId=67ddouJyEy4t1AxE6l6h%2Fw%3D%3D)
 

@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "A LinkedIn job scraper for internship opportunities"
 readme = "README.md"
 packages = [
-    { include = "src" }
+    { include = "summer_internships_scraper" }
 ]
 
 [tool.poetry.dependencies]
@@ -25,7 +25,7 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-scrape = "src.scraper:main"
+scrape = "summer_internships_scraper.scraper:main"
 
 [tool.black]
 line-length = 100

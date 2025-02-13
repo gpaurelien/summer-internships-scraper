@@ -5,11 +5,11 @@ import requests
 from bs4 import BeautifulSoup
 from bs4.element import Tag
 
-from src.models.offers import JobOffer
-from src.repository.jobs import JobRepository
-from src.utils import LOCATIONS
-from src.utils.exceptions import ParsingError, ScrapingError
-from src.utils.markdown_export import export_to_markdown
+from summer_internships_scraper.models.offers import JobOffer
+from summer_internships_scraper.repository.jobs import JobRepository
+from summer_internships_scraper.utils import LOCATIONS
+from summer_internships_scraper.utils.exceptions import ParsingError, ScrapingError
+from summer_internships_scraper.utils.markdown_export import export_to_markdown
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)

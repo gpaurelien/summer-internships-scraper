@@ -4,7 +4,7 @@ import typing as t
 from datetime import datetime
 from pathlib import Path
 
-from src.models.offers import JobOffer
+from summer_internships_scraper.models.offers import JobOffer
 
 logger = logging.getLogger(__name__)
 
