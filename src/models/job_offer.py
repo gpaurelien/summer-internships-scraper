@@ -1,7 +1,7 @@
+import hashlib
+import typing as t
 from dataclasses import dataclass
 from datetime import datetime
-import typing as t
-import hashlib
 
 
 @dataclass

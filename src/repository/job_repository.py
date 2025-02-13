@@ -1,10 +1,10 @@
 import json
-from pathlib import Path
+import logging
 import typing as t
 from datetime import datetime
-from src.models.job_offer import JobOffer
-import logging
+from pathlib import Path
 
+from src.models.job_offer import JobOffer
 
 logger = logging.getLogger(__name__)
 

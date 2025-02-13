@@ -1,14 +1,15 @@
+import logging
+import typing as t
+
 import requests
 from bs4 import BeautifulSoup
 from bs4.element import Tag
-import typing as t
-from src.models.job_offer import JobOffer
-from src.utils.exceptions import ParsingError, ScrapingError
-import logging
-from src.repository.job_repository import JobRepository
-from src.utils.markdown_export import export_to_markdown
-from src.utils import LOCATIONS
 
+from src.models.job_offer import JobOffer
+from src.repository.job_repository import JobRepository
+from src.utils import LOCATIONS
+from src.utils.exceptions import ParsingError, ScrapingError
+from src.utils.markdown_export import export_to_markdown
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
