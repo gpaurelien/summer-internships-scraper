@@ -26,7 +26,7 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-scrape = "src.scrapers.linkedin_scraper:main"
+scrape = "src.scraper:main"
 
 [tool.black]
 line-length = 100
