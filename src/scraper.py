@@ -105,12 +105,13 @@ class LinkedInScraper:
             "frontend",
             "fullstack",
             "full-stack",
-            "web",
-            "cloud",
-            "devops",
             "development",
             "engineering",
             "mobile",
+            "qa",
+            "security" "web",
+            "cloud",
+            "devops",
         }
 
         title = card.find("h3", class_="base-search-card__title")

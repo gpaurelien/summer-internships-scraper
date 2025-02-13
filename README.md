@@ -1,7 +1,7 @@
 # Summer 2025 job opportunities
 > Last updated: 2025-02-13
 
-## Available positions (14 offers)
+## Available positions (17 offers)
 
 ### SingleStore
 - **Position:** Software Engineer, Platform Intern (Summer 2025)
@@ -62,6 +62,24 @@
 - **Location:** Barcelona, Catalonia, Spain
 - **Posted on:** 2025-02-07
 - [Apply here](https://es.linkedin.com/jobs/view/2025-summer-internship-developer-intern-ai-interest-at-king-4146101066?position=11&pageNum=0&refId=qIdkhhdEs0%2BhpoZYxJ%2F0JA%3D%3D&trackingId=K502PRr4Dn0Xuc8yYVbqBQ%3D%3D)
+
+### Undelucram.ro
+- **Position:** Cloud Engineer Intern - GenAI  - Summer 2025 (Remote, ROU)
+- **Location:** Romania
+- **Posted on:** 2025-02-05
+- [Apply here](https://ro.linkedin.com/jobs/view/cloud-engineer-intern-genai-summer-2025-remote-rou-at-undelucram-ro-4144997159?position=2&pageNum=0&refId=fbundtAbPDto%2BA27%2Br%2BWYg%3D%3D&trackingId=wVaMcy3x1xBkKiSHyvMTYQ%3D%3D)
+
+### Alchemy
+- **Position:** Engineering Internship, Summer 2025 (Bucharest)
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-02-05
+- [Apply here](https://ro.linkedin.com/jobs/view/engineering-internship-summer-2025-bucharest-at-alchemy-4083488060?position=4&pageNum=0&refId=fbundtAbPDto%2BA27%2Br%2BWYg%3D%3D&trackingId=DWKm5a20AmllbnsMr14AHg%3D%3D)
+
+### CrowdStrike
+- **Position:** Cloud Engineer Intern - GenAI - Summer 2025 (Remote, ROU)
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-02-05
+- [Apply here](https://ro.linkedin.com/jobs/view/cloud-engineer-intern-genai-summer-2025-remote-rou-at-crowdstrike-4144012297?position=16&pageNum=0&refId=fbundtAbPDto%2BA27%2Br%2BWYg%3D%3D&trackingId=izjdmCHacRY7uW7VIBg5pQ%3D%3D)
 
 ### King
 - **Position:** 2025 Summer Internship - Developer Intern
