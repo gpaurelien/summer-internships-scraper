@@ -1,8 +1,6 @@
 # Summer 2025 job opportunities
 > Last updated: 2025-02-13
 
-Offers are sorted from the most recent to the oldest.
-
 ## Available positions (30 offers)
 
 ### Dynatrace
