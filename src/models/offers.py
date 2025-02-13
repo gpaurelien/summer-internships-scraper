@@ -10,7 +10,7 @@ class JobOffer:
     company_name: str
     location: str
     posted_date: datetime
-    description: t.Optional[str | None]
+    description: t.Optional[str]
     url: str
 
     def to(self):
