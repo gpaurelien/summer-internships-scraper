@@ -1,6 +1,8 @@
 # Summer 2025 job opportunities
 > Last updated: 2025-02-13
 
+Offers are stored from the most recent to oldest.
+
 ## Available positions (17 offers)
 
 ### SingleStore
