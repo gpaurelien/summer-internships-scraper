@@ -1,11 +1,7 @@
 # Summer 2025 job opportunities
-> Last updated: 2025-02-12
+> Last updated: 2025-02-13
 
-This tool provides a list of software engineering internships across Western Europe. 
-
-Feel free to contribute or suggest improvements!
-
-## Available positions (13 offers)
+## Available positions (14 offers)
 
 ### SingleStore
 - **Position:** Software Engineer, Platform Intern (Summer 2025)
@@ -30,6 +26,12 @@ Feel free to contribute or suggest improvements!
 - **Location:** Lisbon, Lisbon, Portugal
 - **Posted on:** 2025-02-12
 - [Apply here](https://pt.linkedin.com/jobs/view/software-engineer-db-engine-intern-lisbon-summer-2025-at-singlestore-4150949935?position=20&pageNum=0&refId=nzOKMMDSUSY2x5aG4CF0VQ%3D%3D&trackingId=evFhrS1FnUAamZDjLX9H%2FQ%3D%3D)
+
+### Cisco
+- **Position:** Cisco Network Engineer (Intern) - Lisbon
+- **Location:** Oeiras, Lisbon, Portugal
+- **Posted on:** 2025-02-12
+- [Apply here](https://pt.linkedin.com/jobs/view/cisco-network-engineer-intern-lisbon-at-cisco-4150531741?position=1&pageNum=0&refId=fWsxCyJdmMt7oDf2tkFu0A%3D%3D&trackingId=Cc9PgTFUurLHjbi2w9IlXQ%3D%3D)
 
 ### King
 - **Position:** 2025 Summer Internship - Software Engineer/Developer Intern (C++/Java)

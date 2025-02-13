@@ -3,7 +3,6 @@ name = "linkedin-job-scraper"
 version = "0.1.0"
 description = "A LinkedIn job scraper for internship opportunities"
 readme = "README.md"
-package-mode = false
 packages = [
     { include = "src" }
 ]

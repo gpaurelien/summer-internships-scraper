@@ -5,8 +5,8 @@ import requests
 from bs4 import BeautifulSoup
 from bs4.element import Tag
 
-from models.offers import JobOffer
-from repository.jobs import JobRepository
+from src.models.offers import JobOffer
+from src.repository.jobs import JobRepository
 from src.utils import LOCATIONS
 from src.utils.exceptions import ParsingError, ScrapingError
 from src.utils.markdown_export import export_to_markdown
