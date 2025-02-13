@@ -24,7 +24,7 @@ class LinkedInScraper:
 
     def fetch_jobs(
         self, geo_id: str, keywords: str = "Summer 2025"
-    ) -> t.Union[t.List[JobOffer] | None]:
+    ) -> t.Optional[t.List[JobOffer]]:
         """
         Retrieves jobs, parses them, and returns a list containing offers.
 
