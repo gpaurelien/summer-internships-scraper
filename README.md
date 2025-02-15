@@ -1,5 +1,8 @@
 # Summer 2025 job opportunities
-> Last updated: 2025-02-15
+
+This list gets updated daily.
+
+Posted on refers to the date when the offer was posted on LinkedIn.
 
 ## Available positions (33 offers)
 

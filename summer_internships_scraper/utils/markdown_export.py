@@ -6,7 +6,10 @@ def export_to_markdown(jobs: t.List[dict], output_file: str = "README.md"):
     """Generate a simple markdown file with job listings"""
 
     content = f"""# Summer 2025 job opportunities
-> Last updated: {datetime.now().strftime('%Y-%m-%d')}
+
+    This list gets updated daily.
+
+    Posted on refers to the date when the offer was posted on LinkedIn.
 
 ## Available positions ({len(jobs)} offers)
 
