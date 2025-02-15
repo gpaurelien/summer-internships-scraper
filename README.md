@@ -1,10 +1,10 @@
 # Summer 2025 job opportunities
 
-This list gets updated daily.
+    This list gets updated daily.
 
-Posted on refers to the date when the offer was posted on LinkedIn.
+    Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (33 offers)
+## Available positions (36 offers)
 
 ### Dow Jones Factiva
 - **Position:** Summer 2025 Internship - Machine Learning Engineer Intern
@@ -60,6 +60,18 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-02-12
 - [Apply here](https://pt.linkedin.com/jobs/view/cisco-network-engineer-intern-lisbon-at-cisco-4150531741?position=1&pageNum=0&refId=fWsxCyJdmMt7oDf2tkFu0A%3D%3D&trackingId=Cc9PgTFUurLHjbi2w9IlXQ%3D%3D)
 
+### Cloudflare
+- **Position:** Cybersecurity Technical Program Manager Intern (Summer 2025)
+- **Location:** Lisbon, Portugal
+- **Posted on:** 2025-02-12
+- [Apply here](https://pt.linkedin.com/jobs/view/cybersecurity-technical-program-manager-intern-summer-2025-at-cloudflare-4148903130?position=6&pageNum=0&refId=NGizzZ4KkONWZqAfAfYbPQ%3D%3D&trackingId=RrzdXC6QO7SAVhc5Tok5tg%3D%3D)
+
+### Cloudflare
+- **Position:** Cybersecurity Business Analyst Intern (Summer 2025)
+- **Location:** Lisbon, Portugal
+- **Posted on:** 2025-02-12
+- [Apply here](https://pt.linkedin.com/jobs/view/cybersecurity-business-analyst-intern-summer-2025-at-cloudflare-4148440717?position=7&pageNum=0&refId=NGizzZ4KkONWZqAfAfYbPQ%3D%3D&trackingId=86JK9Sec%2BDbQK%2B3IN7diGw%3D%3D)
+
 ### King
 - **Position:** 2025 Summer Internship - Software Engineer/Developer Intern (C++/Java)
 - **Location:** Barcelona, Catalonia, Spain
@@ -71,6 +83,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Barcelona, Catalonia, Spain
 - **Posted on:** 2025-02-11
 - [Apply here](https://es.linkedin.com/jobs/view/2025-summer-internship-software-engineer-intern-at-king-4149687965?position=10&pageNum=0&refId=qIdkhhdEs0%2BhpoZYxJ%2F0JA%3D%3D&trackingId=REzbmHWhR4cJvGfL8Da4Ww%3D%3D)
+
+### Cloudflare
+- **Position:** Security Compliance Intern (Summer 2025)
+- **Location:** Lisbon, Portugal
+- **Posted on:** 2025-02-10
+- [Apply here](https://pt.linkedin.com/jobs/view/security-compliance-intern-summer-2025-at-cloudflare-4146735242?position=31&pageNum=0&refId=NGizzZ4KkONWZqAfAfYbPQ%3D%3D&trackingId=tMQO%2BLXEav%2BOmlxAw%2BtYiA%3D%3D)
 
 ### Cloudflare
 - **Position:** Software Engineer Intern, Business Intelligence (Summer 2025)
