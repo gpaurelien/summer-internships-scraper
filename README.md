@@ -1,7 +1,25 @@
 # Summer 2025 job opportunities
-> Last updated: 2025-02-14
+> Last updated: 2025-02-15
 
-## Available positions (30 offers)
+## Available positions (33 offers)
+
+### Dow Jones Factiva
+- **Position:** Summer 2025 Internship - Machine Learning Engineer Intern
+- **Location:** Barcelona, Catalonia, Spain
+- **Posted on:** 2025-02-14
+- [Apply here](https://es.linkedin.com/jobs/view/summer-2025-internship-machine-learning-engineer-intern-at-dow-jones-factiva-4153178063?position=14&pageNum=0&refId=srO0wdrocMDEfpQkYqlN9g%3D%3D&trackingId=rPb4t9SAFbkeqb0gGoJqtQ%3D%3D)
+
+### Dow Jones
+- **Position:** Summer 2025 Internship - Machine Learning Engineer Intern
+- **Location:** Barcelona, Catalonia, Spain
+- **Posted on:** 2025-02-14
+- [Apply here](https://es.linkedin.com/jobs/view/summer-2025-internship-machine-learning-engineer-intern-at-dow-jones-4153163874?position=21&pageNum=0&refId=srO0wdrocMDEfpQkYqlN9g%3D%3D&trackingId=C5TFD1RlkBYVFhN1wPZxgA%3D%3D)
+
+### UiPath
+- **Position:** Software Engineering Intern
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-02-14
+- [Apply here](https://ro.linkedin.com/jobs/view/software-engineering-intern-at-uipath-4153173864?position=1&pageNum=0&refId=I7PxTwtuJx5ifzegvaCLOw%3D%3D&trackingId=Yunla%2B1hgEOom5A9JP73AQ%3D%3D)
 
 ### Dynatrace
 - **Position:** Software Engineering Internship for University Students - Summer 2025
