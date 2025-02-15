@@ -1,4 +1,4 @@
-from summer_internships_scraper.utils.constants import HOST, LOCATIONS
+from summer_internships_scraper.utils.constants import HOST, LOCATIONS, HEADERS
 from summer_internships_scraper.utils.exceptions import ParsingError, ScrapingError
 from summer_internships_scraper.utils.markdown_export import export_to_markdown
 

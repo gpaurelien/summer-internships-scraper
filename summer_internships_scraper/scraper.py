@@ -7,7 +7,7 @@ from bs4.element import Tag
 
 from summer_internships_scraper.models.offers import JobOffer
 from summer_internships_scraper.repository.jobs import JobRepository
-from summer_internships_scraper.utils import LOCATIONS
+from summer_internships_scraper.utils import LOCATIONS, HEADERS, HOST
 from summer_internships_scraper.utils.exceptions import ParsingError, ScrapingError
 from summer_internships_scraper.utils.markdown_export import export_to_markdown
 
@@ -38,9 +38,9 @@ class LinkedInScraper:
         self.logger.info("Fetching jobs at %s with following pattern: '%s'" % (geo_id, keywords))
         keywords = self._format_keywords(keywords)
         url = f"{self.host}/?keywords={keywords}&geoId={geo_id}"
-        response = requests.get(url)
+        response = requests.get(url, headers=HEADERS)
         if response.status_code != 200:
-            raise ScrapingError("An error occured while requesting % s" % url)
+            raise ScrapingError("An error occured while requesting %s" % url)
 
         soup = BeautifulSoup(response.content, "html.parser")
         cards = soup.find_all("div", class_="job-search-card")
@@ -78,8 +78,8 @@ class LinkedInScraper:
         location = card.find("span", class_="job-search-card__location").text.strip()
         link = card.find("a", class_="base-card__full-link")
         url = link.get("href") if link else None
-        datetime_elements = card.find("time")
-        posted_date = datetime_elements.get("datetime") if datetime_elements else None
+        datetime_element = card.find("time")
+        posted_date = datetime_element.get("datetime") if datetime_element else None
 
         return JobOffer(
             title=title,
@@ -87,7 +87,7 @@ class LinkedInScraper:
             location=location,
             url=url,
             posted_date=posted_date,
-            description=None,
+            description=None,  # TODO: retrieve dev-related keywords in description
         )
 
     def _filter_cards(self, card: Tag) -> bool:
@@ -109,7 +109,8 @@ class LinkedInScraper:
             "engineering",
             "mobile",
             "qa",
-            "security" "web",
+            "security",
+            "web",
             "cloud",
             "devops",
         }
@@ -126,7 +127,7 @@ class LinkedInScraper:
 
 
 def main():
-    scraper = LinkedInScraper("https://www.linkedin.com/jobs/search")
+    scraper = LinkedInScraper(HOST)
     repo = JobRepository()
 
     for location, geo_id in LOCATIONS.items():
