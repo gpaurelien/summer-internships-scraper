@@ -30,7 +30,8 @@ jobs:
       run: poetry install
         
     - name: Run scraper
-      run: poetry run scrape
+      run: |
+        poetry run python -c "import asyncio; from summer_internships_scraper.scraper import main; asyncio.run(main())"
         
     - name: Commit and push if there are changes
       run: |
