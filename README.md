@@ -1,4 +1,4 @@
-# Summer 2025 internships opportunities
+# Summer 2025 internship opportunities
 
 This list gets updated daily.
 
