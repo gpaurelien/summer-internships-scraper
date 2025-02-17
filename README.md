@@ -1,10 +1,16 @@
-# Summer 2025 job opportunities
+# Summer 2025 internships opportunities
 
 This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (36 offers)
+## Available positions (37 offers)
+
+### Aether Energy (YC W24)
+- **Position:** Machine Learning Engineer (Internship)
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2025-02-16
+- [Apply here](https://fr.linkedin.com/jobs/view/machine-learning-engineer-internship-at-aether-energy-yc-w24-4156771905?position=52&pageNum=0&refId=ruEIm7M420wvbRB8tF%2BXlw%3D%3D&trackingId=kxDwDLbZ6wGXPlIRQwbySQ%3D%3D)
 
 ### Dow Jones Factiva
 - **Position:** Summer 2025 Internship - Machine Learning Engineer Intern

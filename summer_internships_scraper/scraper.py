@@ -1,6 +1,8 @@
+import asyncio
 import logging
 import typing as t
 
+import aiohttp
 import requests
 from bs4 import BeautifulSoup
 from bs4.element import Tag
@@ -22,8 +24,8 @@ class LinkedInScraper:
         self.host = host
         self.logger = logger
 
-    def fetch_jobs(
-        self, geo_id: str, keywords: str = "Summer 2025"
+    async def fetch_jobs(
+        self, geo_id: str, keywords: str = "Summer 2025", session: aiohttp.ClientSession = None
     ) -> t.Optional[t.List[JobOffer]]:
         """
         Retrieves jobs, parses them, and returns a list containing offers.
@@ -38,34 +40,36 @@ class LinkedInScraper:
         self.logger.info("Fetching jobs at %s with following pattern: '%s'" % (geo_id, keywords))
         keywords = self._format_keywords(keywords)
         url = f"{self.host}/?keywords={keywords}&geoId={geo_id}"
-        response = requests.get(url, headers=HEADERS)
-        if response.status_code != 200:
-            raise ScrapingError("An error occured while requesting %s" % url)
 
-        soup = BeautifulSoup(response.content, "html.parser")
-        cards = soup.find_all("div", class_="job-search-card")
+        async with session.get(url, headers=HEADERS) as response:
+            if response.status != 200:
+                raise ScrapingError(f"Error while requesting {url}")
 
-        jobs = []
-        filtered_count = 0
-        total_count = len(cards)
+            content = await response.text()
+            soup = BeautifulSoup(content, "html.parser")
+            cards = soup.find_all("div", class_="job-search-card")
 
-        for card in cards:
-            if not self._filter_cards(card):
-                filtered_count += 1
-                continue
+            jobs = []
+            filtered_count = 0
+            total_count = len(cards)
 
-            try:
-                job = self._parse_job_card(card)
-                jobs.append(job)
-            except Exception as e:
-                raise ParsingError("Error while parsing job card") from e
+            for card in cards:
+                if not self._filter_cards(card):
+                    filtered_count += 1
+                    continue
 
-        self.logger.info(
-            f"Found {len(jobs)} dev jobs out of {total_count} total jobs "
-            f"(filtered out {filtered_count})"
-        )
+                try:
+                    job = self._parse_job_card(card)
+                    jobs.append(job)
+                except Exception as e:
+                    raise ParsingError("Error while parsing job card") from e
 
-        return jobs
+            self.logger.info(
+                f"Found {len(jobs)} dev jobs out of {total_count} total jobs "
+                f"(filtered out {filtered_count})"
+            )
+
+            return jobs
 
     def _format_keywords(self, keywords: str) -> str:
         return keywords.replace(" ", "%20")
@@ -105,6 +109,7 @@ class LinkedInScraper:
             "frontend",
             "fullstack",
             "full-stack",
+            "data"
             "development",
             "engineering",
             "mobile",
@@ -126,20 +131,29 @@ class LinkedInScraper:
         return any(keyword in title_text for keyword in dev_keywords)
 
 
-def main():
+async def main():
     scraper = LinkedInScraper(HOST)
     repo = JobRepository()
 
-    for location, geo_id in LOCATIONS.items():
-        logger.info(f"Fetching jobs for {location}")
-        jobs = scraper.fetch_jobs(geo_id=geo_id, keywords="Summer 2025")
-        new_jobs, total_jobs = repo.add_jobs(jobs)
-        logger.info(f"Added {new_jobs} new jobs. Total jobs in storage: {total_jobs}")
+    async with aiohttp.ClientSession() as session:
+        tasks = []
+        for location, geo_id in LOCATIONS.items():
+            logger.info(f"Fetching jobs for {location}")
+            tasks.append(scraper.fetch_jobs(geo_id=geo_id, keywords="Summer 2025", session=session))
 
-    all_jobs = repo.get_all_jobs()
-    export_to_markdown(all_jobs)
-    logger.info(f"Generated markdown file with {len(all_jobs)} jobs")
+        results = await asyncio.gather(*tasks)
+
+        total_new_jobs = 0
+        for jobs in results:
+            if jobs is not None:
+                new_jobs, total_jobs = repo.add_jobs(jobs)
+                total_new_jobs += new_jobs
+                logger.info(f"Added {new_jobs} new jobs. Total jobs in storage: {total_jobs}")
+
+        all_jobs = repo.get_all_jobs()
+        export_to_markdown(all_jobs)
+        logger.info(f"Generated markdown file with {len(all_jobs)} jobs")
 
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
