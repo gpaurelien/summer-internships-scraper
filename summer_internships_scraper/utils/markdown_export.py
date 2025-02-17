@@ -4,7 +4,7 @@ import typing as t
 def export_to_markdown(jobs: t.List[dict], output_file: str = "README.md"):
     """Generate a simple markdown file with job listings"""
 
-    content = f"""# Summer 2025 internships opportunities
+    content = f"""# Summer 2025 internship opportunities
 
 This list gets updated daily.
 
