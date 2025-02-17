@@ -10,6 +10,7 @@ LOCATIONS = {
     "Danemark": "104514075",
     "Norway": "103819153",
     "France": "105015875",
+    "Czech Republic": "104508036",
 }
 
 HOST = "https://www.linkedin.com/jobs/search/?"
