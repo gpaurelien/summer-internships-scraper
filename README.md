@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (38 offers)
+## Available positions (39 offers)
 
 ### Aether Energy (YC W24)
 - **Position:** Machine Learning Engineer (Internship)
@@ -17,6 +17,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Lautzenhausen, Rhineland-Palatinate, Germany
 - **Posted on:** 2025-02-15
 - [Apply here](https://de.linkedin.com/jobs/view/data-analyst-internship-m-w-d-at-hangar-901-aircraft-maintenance-gmbh-4154183949?position=43&pageNum=0&refId=Despfmehtm0XlIKJvw3VTg%3D%3D&trackingId=uGNE98Ax%2FEkCUIFoSPyIOQ%3D%3D)
+
+### Ardian Jobs & Internships
+- **Position:** Data Scientist Intern - Février 2025 I Paris (M/F)
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2025-02-15
+- [Apply here](https://fr.linkedin.com/jobs/view/data-scientist-intern-f%C3%A9vrier-2025-i-paris-m-f-at-ardian-jobs-internships-4156266003?position=35&pageNum=0&refId=1jMrR%2F71p3JBp%2Bd5VtaEAQ%3D%3D&trackingId=bJUBnbFKy%2BoD%2B3GsB%2BmdaQ%3D%3D)
 
 ### Dow Jones Factiva
 - **Position:** Summer 2025 Internship - Machine Learning Engineer Intern
