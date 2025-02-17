@@ -24,7 +24,10 @@ class LinkedInScraper:
         self.logger = logger
 
     async def fetch_jobs(
-        self, geo_id: str, keywords: str = "Summer 2025", session: aiohttp.ClientSession = None
+        self,
+        geo_id: str,
+        keywords: str = "Summer 2025",
+        session: aiohttp.ClientSession = None,
     ) -> t.Optional[t.List[JobOffer]]:
         """
         Retrieves jobs, parses them, and returns a list containing offers.
@@ -36,15 +39,23 @@ class LinkedInScraper:
         if not isinstance(geo_id, str) or not isinstance(keywords, str):
             raise TypeError("'geo_id' and 'keywords' have to be str")
 
-        self.logger.info("Fetching jobs at %s with following pattern: '%s'" % (geo_id, keywords))
+        self.logger.info(
+            "Fetching jobs at %s with following pattern: '%s'" % (geo_id, keywords)
+        )
         keywords = self._format_keywords(keywords)
         url = f"{self.host}/?keywords={keywords}&geoId={geo_id}"
 
-        async with session.get(url, headers=HEADERS) as response:
+        async with session.get(
+            url,
+            headers=HEADERS,
+            allow_redirects=True,
+            timeout=aiohttp.ClientTimeout(total=30),
+        ) as response:
             if response.status != 200:
                 raise ScrapingError(f"Error while requesting {url}")
 
-            content = await response.text()
+            content = await response.text(encoding="utf-8")
+
             soup = BeautifulSoup(content, "html.parser")
             cards = soup.find_all("div", class_="job-search-card")
 
@@ -52,23 +63,23 @@ class LinkedInScraper:
             filtered_count = 0
             total_count = len(cards)
 
-            for card in cards:
-                if not self._filter_cards(card):
-                    filtered_count += 1
-                    continue
+        for card in cards:
+            if not self._filter_cards(card):
+                filtered_count += 1
+                continue
 
-                try:
-                    job = self._parse_job_card(card)
-                    jobs.append(job)
-                except Exception as e:
-                    raise ParsingError("Error while parsing job card") from e
+            try:
+                job = self._parse_job_card(card)
+                jobs.append(job)
+            except Exception as e:
+                raise ParsingError("Error while parsing job card") from e
 
-            self.logger.info(
-                f"Found {len(jobs)} dev jobs out of {total_count} total jobs "
-                f"(filtered out {filtered_count})"
-            )
+        self.logger.info(
+            f"Found {len(jobs)} dev jobs out of {total_count} total jobs "
+            f"(filtered out {filtered_count})"
+        )
 
-            return jobs
+        return jobs
 
     def _format_keywords(self, keywords: str) -> str:
         return keywords.replace(" ", "%20")
@@ -96,7 +107,7 @@ class LinkedInScraper:
     def _filter_cards(self, card: Tag) -> bool:
         """
         Filter job cards based on development-related keywords in the title.
-        Must contain 'intern' and at least one dev-related keyword.
+        Must contain 'intern' and at least one tech-related keyword.
         Returns True if the card should be kept, False otherwise.
         """
 
@@ -109,7 +120,6 @@ class LinkedInScraper:
             "fullstack",
             "full-stack",
             "data",
-            "development",
             "engineering",
             "mobile",
             "qa",
@@ -119,12 +129,35 @@ class LinkedInScraper:
             "devops",
         }
 
+        excluded_keywords = {
+            "marketing",
+            "sales",
+            "business",
+            "finance",
+            "accounting",
+            "hr",
+            "human resources",
+            "recruiter",
+            "customer",
+            "support",
+            "service",
+            "content",
+            "design",
+            "product manager",
+            "project manager",
+            "operations",
+        }
+
         title = card.find("h3", class_="base-search-card__title")
         if not title:
             return False
 
         title_text = title.text.strip().lower()
-        if "intern" not in title_text:
+
+        if "intern" not in title_text and "internship" not in title_text:
+            return False
+
+        if any(keyword in title_text for keyword in excluded_keywords):
             return False
 
         return any(keyword in title_text for keyword in dev_keywords)
@@ -138,7 +171,11 @@ async def main():
         tasks = []
         for location, geo_id in LOCATIONS.items():
             logger.info(f"Fetching jobs for {location}")
-            tasks.append(scraper.fetch_jobs(geo_id=geo_id, keywords="Summer 2025", session=session))
+            tasks.append(
+                scraper.fetch_jobs(
+                    geo_id=geo_id, keywords="Summer 2025", session=session
+                )
+            )
 
         results = await asyncio.gather(*tasks)
 
@@ -147,11 +184,13 @@ async def main():
             if jobs is not None:
                 new_jobs, total_jobs = repo.add_jobs(jobs)
                 total_new_jobs += new_jobs
-                logger.info(f"Added {new_jobs} new jobs. Total jobs in storage: {total_jobs}")
+                logger.info(
+                    f"Added {new_jobs} new jobs. Total jobs in storage: {total_jobs}"
+                )
 
-        all_jobs = repo.get_all_jobs()
-        export_to_markdown(all_jobs)
-        logger.info(f"Generated markdown file with {len(all_jobs)} jobs")
+    all_jobs = repo.get_all_jobs()
+    export_to_markdown(all_jobs)
+    logger.info(f"Generated markdown file with {len(all_jobs)} jobs")
 
 
 if __name__ == "__main__":
