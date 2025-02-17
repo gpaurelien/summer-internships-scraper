@@ -1,5 +1,4 @@
 import typing as t
-from datetime import datetime
 
 
 def export_to_markdown(jobs: t.List[dict], output_file: str = "README.md"):

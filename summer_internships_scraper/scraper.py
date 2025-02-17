@@ -3,13 +3,12 @@ import logging
 import typing as t
 
 import aiohttp
-import requests
 from bs4 import BeautifulSoup
 from bs4.element import Tag
 
 from summer_internships_scraper.models.offers import JobOffer
 from summer_internships_scraper.repository.jobs import JobRepository
-from summer_internships_scraper.utils import LOCATIONS, HEADERS, HOST
+from summer_internships_scraper.utils import HEADERS, HOST, LOCATIONS
 from summer_internships_scraper.utils.exceptions import ParsingError, ScrapingError
 from summer_internships_scraper.utils.markdown_export import export_to_markdown
 
@@ -109,8 +108,7 @@ class LinkedInScraper:
             "frontend",
             "fullstack",
             "full-stack",
-            "data"
-            "development",
+            "data" "development",
             "engineering",
             "mobile",
             "qa",
