@@ -5,7 +5,7 @@ from datetime import datetime
 def export_to_markdown(jobs: t.List[dict], output_file: str = "README.md"):
     """Generate a simple markdown file with job listings"""
 
-    content = f"""# Summer 2025 job opportunities
+    content = f"""# Summer 2025 internships opportunities
 
 This list gets updated daily.
 
