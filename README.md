@@ -4,13 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (74 offers)
+## Available positions (77 offers)
 
 ### Corify
 - **Position:** Field Technical Engineer Internship
 - **Location:** Barcelona, Catalonia, Spain
 - **Posted on:** 2025-02-18
 - [Apply here](https://es.linkedin.com/jobs/view/field-technical-engineer-internship-at-corify-4153677930?position=53&pageNum=0&refId=BULbVJKjaCfT6EyRXQeVlQ%3D%3D&trackingId=eX7Zvs%2BmGT4DPVlsKJkzJg%3D%3D)
+
+### Roku
+- **Position:** Software Engineer Intern, QA
+- **Location:** Aarhus, Central Denmark Region, Denmark
+- **Posted on:** 2025-02-18
+- [Apply here](https://dk.linkedin.com/jobs/view/software-engineer-intern-qa-at-roku-4153884855?position=11&pageNum=0&refId=vhVG0Eb9tk%2FIMzO7TS7ydA%3D%3D&trackingId=EWIrDAQNNBqmUSfah5GKbg%3D%3D)
+
+### Mastercard Processing S.A.
+- **Position:** Software Engineer Summer Internship 2025 – Prague, Czech Republic
+- **Location:** Prague, Prague, Czechia
+- **Posted on:** 2025-02-18
+- [Apply here](https://cz.linkedin.com/jobs/view/software-engineer-summer-internship-2025-%E2%80%93-prague-czech-republic-at-mastercard-processing-s-a-4157934425?position=1&pageNum=0&refId=dSIC8jAlLgJ6ayMYw98hIg%3D%3D&trackingId=Ek30sJuOb9%2BB%2FP%2BQbFHmSg%3D%3D)
 
 ### Tripadvisor
 - **Position:** Software Engineering Intern (Viator)
@@ -29,6 +41,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Iași, Braşov, Romania
 - **Posted on:** 2025-02-17
 - [Apply here](https://ro.linkedin.com/jobs/view/software-development-intern-summer-2025-at-bandwidth-inc-4156603651?position=2&pageNum=0&refId=OSXxyK036b%2FCIfTQuDrmgw%3D%3D&trackingId=pYyezo3C3VlpDOL5qwEGhQ%3D%3D)
+
+### Remitly
+- **Position:** Poland Summer Data Internship 2025
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-02-17
+- [Apply here](https://pl.linkedin.com/jobs/view/poland-summer-data-internship-2025-at-remitly-4152777781?position=23&pageNum=0&refId=T0X9zA00LRopydQsVTyOCg%3D%3D&trackingId=8HTw9hDQ76SGK69DaGC0vw%3D%3D)
 
 ### Aether Energy (YC W24)
 - **Position:** Machine Learning Engineer (Internship)
