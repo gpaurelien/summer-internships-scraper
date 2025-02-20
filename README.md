@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (77 offers)
+## Available positions (80 offers)
+
+### Cisco
+- **Position:** Cisco Network Engineer (Intern) - Cracow, Poland
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-02-19
+- [Apply here](https://pl.linkedin.com/jobs/view/cisco-network-engineer-intern-cracow-poland-at-cisco-4158637741?position=7&pageNum=0&refId=F3fSVBanTXsknizgjFMB2Q%3D%3D&trackingId=aJr2waAvw%2Fi6m4A8XglCug%3D%3D)
 
 ### Corify
 - **Position:** Field Technical Engineer Internship
@@ -23,6 +29,18 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Prague, Prague, Czechia
 - **Posted on:** 2025-02-18
 - [Apply here](https://cz.linkedin.com/jobs/view/software-engineer-summer-internship-2025-%E2%80%93-prague-czech-republic-at-mastercard-processing-s-a-4157934425?position=1&pageNum=0&refId=dSIC8jAlLgJ6ayMYw98hIg%3D%3D&trackingId=Ek30sJuOb9%2BB%2FP%2BQbFHmSg%3D%3D)
+
+### Cloudflare
+- **Position:** Red Team Engineer Intern (Summer 2025)
+- **Location:** Lisbon, Portugal
+- **Posted on:** 2025-02-18
+- [Apply here](https://pt.linkedin.com/jobs/view/red-team-engineer-intern-summer-2025-at-cloudflare-4153855406?position=17&pageNum=0&refId=9JCpViukI5o3%2FD0dCMTsJA%3D%3D&trackingId=x5097Fk3NzjFNw1OCO9UGg%3D%3D)
+
+### Mastercard
+- **Position:** Software Engineer Summer Internship 2025 – Prague, Czech Republic-R-226689
+- **Location:** Praha 17, Prague, Czechia
+- **Posted on:** 2025-02-18
+- [Apply here](https://cz.linkedin.com/jobs/view/software-engineer-summer-internship-2025-%E2%80%93-prague-czech-republic-r-226689-at-mastercard-4153869721?position=9&pageNum=0&refId=LQwarjpGBTiszjhxG9hzZA%3D%3D&trackingId=N6EQxd5FCqRIEIjwXtGVKg%3D%3D)
 
 ### Tripadvisor
 - **Position:** Software Engineering Intern (Viator)
