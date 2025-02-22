@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (80 offers)
+## Available positions (81 offers)
 
 ### Cisco
 - **Position:** Cisco Network Engineer (Intern) - Cracow, Poland
@@ -239,6 +239,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Copenhagen, Capital Region of Denmark, Denmark
 - **Posted on:** 2025-02-11
 - [Apply here](https://dk.linkedin.com/jobs/view/client-software-supporter-associate-internship-at-relesys-4149944989?position=31&pageNum=0&refId=6EFDz7C5qvrq5F6nMqMq8Q%3D%3D&trackingId=lMLXOq8%2B1yQiILwXYZahRw%3D%3D)
+
+### Westinghouse Electric Company
+- **Position:** International Engineering Intern Program
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-02-11
+- [Apply here](https://pl.linkedin.com/jobs/view/international-engineering-intern-program-at-westinghouse-electric-company-4102556967?position=40&pageNum=0&refId=9I88G5am%2BTe80RZr5xBLDA%3D%3D&trackingId=pOh6usK6bE%2FjGsJTS3k2pg%3D%3D)
 
 ### Cloudflare
 - **Position:** Security Compliance Intern (Summer 2025)
