@@ -4,7 +4,31 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (81 offers)
+## Available positions (86 offers)
+
+### Relativity
+- **Position:** Software Engineering Intern
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-02-25
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-intern-at-relativity-4167825150?position=8&pageNum=0&refId=ArnOfQxxp6oPoZ%2BKyVvveQ%3D%3D&trackingId=%2BeZE57I0b%2BRE1P0N6UGO8w%3D%3D)
+
+### Relativity
+- **Position:** Intern, Software Engineering - Enrichment
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-02-25
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-software-engineering-enrichment-at-relativity-4167816788?position=32&pageNum=0&refId=ArnOfQxxp6oPoZ%2BKyVvveQ%3D%3D&trackingId=9qReez9e3Al0hWgLq45jqQ%3D%3D)
+
+### Verisk
+- **Position:** Data Science - 2025 Summer Internship Program
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-02-25
+- [Apply here](https://pl.linkedin.com/jobs/view/data-science-2025-summer-internship-program-at-verisk-4164127531?position=41&pageNum=0&refId=ArnOfQxxp6oPoZ%2BKyVvveQ%3D%3D&trackingId=NZHK%2FCJ8nMYSUD0OzoMQ3Q%3D%3D)
+
+### Relativity
+- **Position:** Software Engineering Intern - Automation
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-02-25
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-intern-automation-at-relativity-4167826018?position=46&pageNum=0&refId=ArnOfQxxp6oPoZ%2BKyVvveQ%3D%3D&trackingId=yy9GpCFg9oF%2FYrIyJiozTw%3D%3D)
 
 ### Cisco
 - **Position:** Cisco Network Engineer (Intern) - Cracow, Poland
@@ -377,6 +401,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Madrid, Community of Madrid, Spain
 - **Posted on:** 2025-01-31
 - [Apply here](https://es.linkedin.com/jobs/view/solution-engineering-internship-madrid-at-salesforce-4140184163?position=28&pageNum=0&refId=qIdkhhdEs0%2BhpoZYxJ%2F0JA%3D%3D&trackingId=wjdsuJwsV1kfFiwyZZqPFQ%3D%3D)
+
+### Winnow
+- **Position:** Summer intern - Backend Developer (2025/2026 graduates)
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2025-01-31
+- [Apply here](https://ro.linkedin.com/jobs/view/summer-intern-backend-developer-2025-2026-graduates-at-winnow-4163577727?position=4&pageNum=0&refId=UMKdZjYtghPwqcaXL2uXYw%3D%3D&trackingId=bJQITEYHc1zzReDXcJU77g%3D%3D)
 
 ### Amazon Web Services (AWS)
 - **Position:** 2025 Security Specialist Intern, DC Security
