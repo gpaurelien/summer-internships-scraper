@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (86 offers)
+## Available positions (88 offers)
 
 ### Relativity
 - **Position:** Software Engineering Intern
@@ -29,6 +29,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Cracow, Małopolskie, Poland
 - **Posted on:** 2025-02-25
 - [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-intern-automation-at-relativity-4167826018?position=46&pageNum=0&refId=ArnOfQxxp6oPoZ%2BKyVvveQ%3D%3D&trackingId=yy9GpCFg9oF%2FYrIyJiozTw%3D%3D)
+
+### Zeekr Technology Europe
+- **Position:** Summer Internship HIL Web Application
+- **Location:** Gothenburg, Västra Götaland County, Sweden
+- **Posted on:** 2025-02-25
+- [Apply here](https://se.linkedin.com/jobs/view/summer-internship-hil-web-application-at-zeekr-technology-europe-4167604223?position=10&pageNum=0&refId=aSiHY6MGiBvfw%2FPO5o7YFQ%3D%3D&trackingId=m4SrDANdu9aWPs%2BuZGlJyg%3D%3D)
 
 ### Cisco
 - **Position:** Cisco Network Engineer (Intern) - Cracow, Poland
@@ -65,6 +71,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Praha 17, Prague, Czechia
 - **Posted on:** 2025-02-18
 - [Apply here](https://cz.linkedin.com/jobs/view/software-engineer-summer-internship-2025-%E2%80%93-prague-czech-republic-r-226689-at-mastercard-4153869721?position=9&pageNum=0&refId=LQwarjpGBTiszjhxG9hzZA%3D%3D&trackingId=N6EQxd5FCqRIEIjwXtGVKg%3D%3D)
+
+### Amazon Web Services (AWS)
+- **Position:** 2025 Security Specialist Intern, DC Security
+- **Location:** Zaragoza, Aragon, Spain
+- **Posted on:** 2025-02-18
+- [Apply here](https://es.linkedin.com/jobs/view/2025-security-specialist-intern-dc-security-at-amazon-web-services-aws-4063833266?position=59&pageNum=0&refId=os1VYUEYd5sbaevs3Ky8QQ%3D%3D&trackingId=%2FkgPVa%2FAV55HR21lDtHU4w%3D%3D)
 
 ### Tripadvisor
 - **Position:** Software Engineering Intern (Viator)
