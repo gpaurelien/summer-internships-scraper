@@ -4,7 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (88 offers)
+## Available positions (91 offers)
+
+### Zebra Technologies
+- **Position:** 2025 Summer Internship (Brno)- Information Technology, Data Science
+- **Location:** Brno, South Moravia, Czechia
+- **Posted on:** 2025-02-28
+- [Apply here](https://cz.linkedin.com/jobs/view/2025-summer-internship-brno-information-technology-data-science-at-zebra-technologies-4168119940?position=4&pageNum=0&refId=4YF9hsuy%2F%2BhqstKbpi5vdw%3D%3D&trackingId=Mtau9aeKVNvuwtnCeSJAIQ%3D%3D)
+
+### Zebra Technologies
+- **Position:** 2025 Summer Internship (Brno)- Information Technology, Data Engineering and BI
+- **Location:** Brno, South Moravia, Czechia
+- **Posted on:** 2025-02-27
+- [Apply here](https://cz.linkedin.com/jobs/view/2025-summer-internship-brno-information-technology-data-engineering-and-bi-at-zebra-technologies-4168122749?position=10&pageNum=0&refId=4YF9hsuy%2F%2BhqstKbpi5vdw%3D%3D&trackingId=vc4j%2BzE2XuBHzXi0RqpSBA%3D%3D)
+
+### Zebra Technologies
+- **Position:** 2025 Summer Internship (CZ) - Quality Data Analyst
+- **Location:** Brno, South Moravia, Czechia
+- **Posted on:** 2025-02-27
+- [Apply here](https://cz.linkedin.com/jobs/view/2025-summer-internship-cz-quality-data-analyst-at-zebra-technologies-4168118994?position=28&pageNum=0&refId=4YF9hsuy%2F%2BhqstKbpi5vdw%3D%3D&trackingId=KvLshztHb5a8jNER5bODAw%3D%3D)
 
 ### Relativity
 - **Position:** Software Engineering Intern
