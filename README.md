@@ -4,13 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (91 offers)
+## Available positions (96 offers)
+
+### CrowdStrike
+- **Position:** Cloud AI Engineering Intern (Remote, ROU)
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-03-01
+- [Apply here](https://ro.linkedin.com/jobs/view/cloud-ai-engineering-intern-remote-rou-at-crowdstrike-4169670166?position=13&pageNum=0&refId=JKcBRCp4WsbbkCOH%2FrCzuA%3D%3D&trackingId=LhJfl9%2B3o7YBIeG7CRw%2F9A%3D%3D)
 
 ### Zebra Technologies
 - **Position:** 2025 Summer Internship (Brno)- Information Technology, Data Science
 - **Location:** Brno, South Moravia, Czechia
 - **Posted on:** 2025-02-28
 - [Apply here](https://cz.linkedin.com/jobs/view/2025-summer-internship-brno-information-technology-data-science-at-zebra-technologies-4168119940?position=4&pageNum=0&refId=4YF9hsuy%2F%2BhqstKbpi5vdw%3D%3D&trackingId=Mtau9aeKVNvuwtnCeSJAIQ%3D%3D)
+
+### Amazon
+- **Position:** 2025 Security Specialist Intern, DC Security
+- **Location:** Västerås, Västmanland County, Sweden
+- **Posted on:** 2025-02-28
+- [Apply here](https://se.linkedin.com/jobs/view/2025-security-specialist-intern-dc-security-at-amazon-4145144341?position=59&pageNum=0&refId=ZfjatG7SmKHh2Uyv0OWpDg%3D%3D&trackingId=ITeDKS39SP20TDsJ9Kv3PQ%3D%3D)
 
 ### Zebra Technologies
 - **Position:** 2025 Summer Internship (Brno)- Information Technology, Data Engineering and BI
@@ -23,6 +35,18 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Brno, South Moravia, Czechia
 - **Posted on:** 2025-02-27
 - [Apply here](https://cz.linkedin.com/jobs/view/2025-summer-internship-cz-quality-data-analyst-at-zebra-technologies-4168118994?position=28&pageNum=0&refId=4YF9hsuy%2F%2BhqstKbpi5vdw%3D%3D&trackingId=KvLshztHb5a8jNER5bODAw%3D%3D)
+
+### Relativity
+- **Position:** Intern - Cyber Security
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-02-27
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-cyber-security-at-relativity-4169758384?position=30&pageNum=0&refId=BeSk1VAsANCfaFqsvxi%2Bfw%3D%3D&trackingId=0e8eBTJmScf7CzA3jOuZng%3D%3D)
+
+### Relativity
+- **Position:** Intern - Product Security
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-02-27
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-product-security-at-relativity-4169756487?position=54&pageNum=0&refId=BeSk1VAsANCfaFqsvxi%2Bfw%3D%3D&trackingId=DfdSTOaUEM3PX%2FHjdwtdCw%3D%3D)
 
 ### Relativity
 - **Position:** Software Engineering Intern
@@ -53,6 +77,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Gothenburg, Västra Götaland County, Sweden
 - **Posted on:** 2025-02-25
 - [Apply here](https://se.linkedin.com/jobs/view/summer-internship-hil-web-application-at-zeekr-technology-europe-4167604223?position=10&pageNum=0&refId=aSiHY6MGiBvfw%2FPO5o7YFQ%3D%3D&trackingId=m4SrDANdu9aWPs%2BuZGlJyg%3D%3D)
+
+### Relativity
+- **Position:** Sfotware Engineering Intern
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-02-25
+- [Apply here](https://pl.linkedin.com/jobs/view/sfotware-engineering-intern-at-relativity-4167816890?position=60&pageNum=0&refId=BeSk1VAsANCfaFqsvxi%2Bfw%3D%3D&trackingId=7QLDDWhrx7aNpw0Daa2h6g%3D%3D)
 
 ### Cisco
 - **Position:** Cisco Network Engineer (Intern) - Cracow, Poland
