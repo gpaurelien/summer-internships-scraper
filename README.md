@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (96 offers)
+## Available positions (97 offers)
 
 ### CrowdStrike
 - **Position:** Cloud AI Engineering Intern (Remote, ROU)
@@ -329,6 +329,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Cracow, Małopolskie, Poland
 - **Posted on:** 2025-02-11
 - [Apply here](https://pl.linkedin.com/jobs/view/international-engineering-intern-program-at-westinghouse-electric-company-4102556967?position=40&pageNum=0&refId=9I88G5am%2BTe80RZr5xBLDA%3D%3D&trackingId=pOh6usK6bE%2FjGsJTS3k2pg%3D%3D)
+
+### Amazon
+- **Position:** 2025 Security Specialist Intern, DC Security
+- **Location:** Berlin, Berlin, Germany
+- **Posted on:** 2025-02-11
+- [Apply here](https://de.linkedin.com/jobs/view/2025-security-specialist-intern-dc-security-at-amazon-4063835289?position=33&pageNum=0&refId=zRdl%2FKspVDTFfUl95iqtxA%3D%3D&trackingId=xqZca%2B9NXWZZdwh0IA8X1A%3D%3D)
 
 ### Cloudflare
 - **Position:** Security Compliance Intern (Summer 2025)
