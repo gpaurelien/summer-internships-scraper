@@ -4,7 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (97 offers)
+## Available positions (100 offers)
+
+### fme Romania
+- **Position:** Software Development Internship - Summer 2025
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2025-03-03
+- [Apply here](https://ro.linkedin.com/jobs/view/software-development-internship-summer-2025-at-fme-romania-4171864313?position=1&pageNum=0&refId=hc7Eta021Qf57oL8dVtBEQ%3D%3D&trackingId=%2B4HISvCGwQ%2B%2Fd%2FRs8xFi8w%3D%3D)
+
+### Maschinenfabrik Reinhausen
+- **Position:** Intern (m/f/d) Electrical Engineering - summer term 2025
+- **Location:** Regensburg, Bavaria, Germany
+- **Posted on:** 2025-03-03
+- [Apply here](https://de.linkedin.com/jobs/view/intern-m-f-d-electrical-engineering-summer-term-2025-at-maschinenfabrik-reinhausen-4172312970?position=13&pageNum=0&refId=dzcKdwWhIGUEY9a64Vp4ZQ%3D%3D&trackingId=N2xj%2F3eed8l9F3Q31aH0QQ%3D%3D)
 
 ### CrowdStrike
 - **Position:** Cloud AI Engineering Intern (Remote, ROU)
@@ -47,6 +59,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Cracow, Małopolskie, Poland
 - **Posted on:** 2025-02-27
 - [Apply here](https://pl.linkedin.com/jobs/view/intern-product-security-at-relativity-4169756487?position=54&pageNum=0&refId=BeSk1VAsANCfaFqsvxi%2Bfw%3D%3D&trackingId=DfdSTOaUEM3PX%2FHjdwtdCw%3D%3D)
+
+### Zebra Technologies
+- **Position:** 2025 Summer Internship (CZ)- Information Technology, Data Engineering and BI
+- **Location:** Brno, South Moravia, Czechia
+- **Posted on:** 2025-02-27
+- [Apply here](https://cz.linkedin.com/jobs/view/2025-summer-internship-cz-information-technology-data-engineering-and-bi-at-zebra-technologies-4168122749?position=3&pageNum=0&refId=iTueX%2FdRF1s2PODUI6nQKw%3D%3D&trackingId=qEPkS94RNCL6W7btFNq47A%3D%3D)
 
 ### Relativity
 - **Position:** Software Engineering Intern
