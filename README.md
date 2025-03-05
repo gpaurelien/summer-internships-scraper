@@ -4,7 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (100 offers)
+## Available positions (104 offers)
+
+### Point72
+- **Position:** 2025 Warsaw MI Data – Web Scraping Summer Internship
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-03-05
+- [Apply here](https://pl.linkedin.com/jobs/view/2025-warsaw-mi-data-%E2%80%93-web-scraping-summer-internship-at-point72-4173810282?position=37&pageNum=0&refId=1pvgsOGR%2BptXQj3KMPIUpQ%3D%3D&trackingId=fEt4N2TaxEBuu60RO3QacQ%3D%3D)
+
+### UiPath
+- **Position:** Software Engineer Intern
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-03-04
+- [Apply here](https://ro.linkedin.com/jobs/view/software-engineer-intern-at-uipath-4173655738?position=2&pageNum=0&refId=2AIhsGqMh4pb2qPBdjG%2FXA%3D%3D&trackingId=dvDCaXEgLnL5HKDgFPxllw%3D%3D)
+
+### Uber
+- **Position:** 2025 UberSTAR Summer Internship Program, Software Engineering - Aarhus
+- **Location:** Aarhus, Central Denmark Region, Denmark
+- **Posted on:** 2025-03-04
+- [Apply here](https://dk.linkedin.com/jobs/view/2025-uberstar-summer-internship-program-software-engineering-aarhus-at-uber-4173147597?position=6&pageNum=0&refId=2CTBzh1pcj%2F%2FcfxeGv8DDA%3D%3D&trackingId=FNsoC3MbNYmkNsS7EYwwOQ%3D%3D)
 
 ### fme Romania
 - **Position:** Software Development Internship - Summer 2025
@@ -35,6 +53,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Västerås, Västmanland County, Sweden
 - **Posted on:** 2025-02-28
 - [Apply here](https://se.linkedin.com/jobs/view/2025-security-specialist-intern-dc-security-at-amazon-4145144341?position=59&pageNum=0&refId=ZfjatG7SmKHh2Uyv0OWpDg%3D%3D&trackingId=ITeDKS39SP20TDsJ9Kv3PQ%3D%3D)
+
+### Zebra Technologies
+- **Position:** 2025 Summer Internship (CZ)- Information Technology, Data Science
+- **Location:** Brno, South Moravia, Czechia
+- **Posted on:** 2025-02-28
+- [Apply here](https://cz.linkedin.com/jobs/view/2025-summer-internship-cz-information-technology-data-science-at-zebra-technologies-4168119940?position=4&pageNum=0&refId=r7oOaSmIZN1fqBNcN%2FVd1w%3D%3D&trackingId=9G8BmEnX95Y0NizKUK0vWw%3D%3D)
 
 ### Zebra Technologies
 - **Position:** 2025 Summer Internship (Brno)- Information Technology, Data Engineering and BI
