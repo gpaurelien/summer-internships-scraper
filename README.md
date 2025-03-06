@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (104 offers)
+## Available positions (105 offers)
 
 ### Point72
 - **Position:** 2025 Warsaw MI Data – Web Scraping Summer Internship
@@ -35,6 +35,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Regensburg, Bavaria, Germany
 - **Posted on:** 2025-03-03
 - [Apply here](https://de.linkedin.com/jobs/view/intern-m-f-d-electrical-engineering-summer-term-2025-at-maschinenfabrik-reinhausen-4172312970?position=13&pageNum=0&refId=dzcKdwWhIGUEY9a64Vp4ZQ%3D%3D&trackingId=N2xj%2F3eed8l9F3Q31aH0QQ%3D%3D)
+
+### Undelucram.ro
+- **Position:** Software Development Internship - Summer 2025 - Cluj-Napoca
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2025-03-03
+- [Apply here](https://ro.linkedin.com/jobs/view/software-development-internship-summer-2025-cluj-napoca-at-undelucram-ro-4174693084?position=3&pageNum=0&refId=CkfRSfDHcthc%2By0Xz9SA0Q%3D%3D&trackingId=b7dSFJp1BvT9i9JAQbaJBw%3D%3D)
 
 ### CrowdStrike
 - **Position:** Cloud AI Engineering Intern (Remote, ROU)
