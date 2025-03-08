@@ -4,7 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (105 offers)
+## Available positions (111 offers)
+
+### Visa
+- **Position:** Software Engineer Intern
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-03-07
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineer-intern-at-visa-4178603470?position=1&pageNum=0&refId=Vofn9nlkhu37B0ydCsX3Ag%3D%3D&trackingId=1bwoKRDRRel9vVezvYi83w%3D%3D)
+
+### Zeekr Technology Europe
+- **Position:** Summer Internship - Cloud-Native Software Development
+- **Location:** Gothenburg, Västra Götaland County, Sweden
+- **Posted on:** 2025-03-07
+- [Apply here](https://se.linkedin.com/jobs/view/summer-internship-cloud-native-software-development-at-zeekr-technology-europe-4178606627?position=7&pageNum=0&refId=geCS0TF9BSjOaz7jeoo3ug%3D%3D&trackingId=kfVq7jID8kcgdeM3jv1VfA%3D%3D)
 
 ### Point72
 - **Position:** 2025 Warsaw MI Data – Web Scraping Summer Internship
@@ -41,6 +53,24 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Cluj-Napoca, Cluj, Romania
 - **Posted on:** 2025-03-03
 - [Apply here](https://ro.linkedin.com/jobs/view/software-development-internship-summer-2025-cluj-napoca-at-undelucram-ro-4174693084?position=3&pageNum=0&refId=CkfRSfDHcthc%2By0Xz9SA0Q%3D%3D&trackingId=b7dSFJp1BvT9i9JAQbaJBw%3D%3D)
+
+### fme Romania
+- **Position:** Data Migration Internship - Summer 2025
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2025-03-03
+- [Apply here](https://ro.linkedin.com/jobs/view/data-migration-internship-summer-2025-at-fme-romania-4171861751?position=6&pageNum=0&refId=VIp4jDXQzJql%2Brvs3VrrDg%3D%3D&trackingId=BJXQEyimdgDWhGsNj2i3sQ%3D%3D)
+
+### Undelucram.ro
+- **Position:** Cloud AI Engineering Intern (Remote, ROU)
+- **Location:** Romania
+- **Posted on:** 2025-03-03
+- [Apply here](https://ro.linkedin.com/jobs/view/cloud-ai-engineering-intern-remote-rou-at-undelucram-ro-4174693085?position=12&pageNum=0&refId=VIp4jDXQzJql%2Brvs3VrrDg%3D%3D&trackingId=UOzlARyHZos5A%2Fo7%2BshpPg%3D%3D)
+
+### Undelucram.ro
+- **Position:** Data Migration Internship - Summer 2025 - Cluj-Napoca
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2025-03-03
+- [Apply here](https://ro.linkedin.com/jobs/view/data-migration-internship-summer-2025-cluj-napoca-at-undelucram-ro-4174689467?position=16&pageNum=0&refId=VIp4jDXQzJql%2Brvs3VrrDg%3D%3D&trackingId=pwYVoribFFnZtOrkNucFhw%3D%3D)
 
 ### CrowdStrike
 - **Position:** Cloud AI Engineering Intern (Remote, ROU)
@@ -95,6 +125,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Brno, South Moravia, Czechia
 - **Posted on:** 2025-02-27
 - [Apply here](https://cz.linkedin.com/jobs/view/2025-summer-internship-cz-information-technology-data-engineering-and-bi-at-zebra-technologies-4168122749?position=3&pageNum=0&refId=iTueX%2FdRF1s2PODUI6nQKw%3D%3D&trackingId=qEPkS94RNCL6W7btFNq47A%3D%3D)
+
+### Wärtsilä
+- **Position:** Summer Internship - Hybrid Engineering & Technology
+- **Location:** Stord, Vestland, Norway
+- **Posted on:** 2025-02-26
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-hybrid-engineering-technology-at-w%C3%A4rtsil%C3%A4-4168394113?position=16&pageNum=0&refId=p72lZgyhv079bcRTxeiNHQ%3D%3D&trackingId=hAevLmdhvHwh4A77f1uaJw%3D%3D)
 
 ### Relativity
 - **Position:** Software Engineering Intern
