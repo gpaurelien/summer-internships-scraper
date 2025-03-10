@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (111 offers)
+## Available positions (115 offers)
 
 ### Visa
 - **Position:** Software Engineer Intern
@@ -17,6 +17,30 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Gothenburg, Västra Götaland County, Sweden
 - **Posted on:** 2025-03-07
 - [Apply here](https://se.linkedin.com/jobs/view/summer-internship-cloud-native-software-development-at-zeekr-technology-europe-4178606627?position=7&pageNum=0&refId=geCS0TF9BSjOaz7jeoo3ug%3D%3D&trackingId=kfVq7jID8kcgdeM3jv1VfA%3D%3D)
+
+### Commerzbank Digital Technology Centre Poland
+- **Position:** Frontend Developer Intern - Big Data - Młodzi w Łodzi 2025
+- **Location:** Łódź, Łódzkie, Poland
+- **Posted on:** 2025-03-07
+- [Apply here](https://pl.linkedin.com/jobs/view/frontend-developer-intern-big-data-m%C5%82odzi-w-%C5%82odzi-2025-at-commerzbank-digital-technology-centre-poland-4175863343?position=45&pageNum=0&refId=kipv5YCquw2IfDp7z3%2FRvA%3D%3D&trackingId=8Fw78veUXE60baZvlaVhtw%3D%3D)
+
+### Commerzbank Digital Technology Centre Poland
+- **Position:** Java Developer Intern - Payment Transactions - Młodzi w Łodzi 2025
+- **Location:** Łódź, Łódzkie, Poland
+- **Posted on:** 2025-03-07
+- [Apply here](https://pl.linkedin.com/jobs/view/java-developer-intern-payment-transactions-m%C5%82odzi-w-%C5%82odzi-2025-at-commerzbank-digital-technology-centre-poland-4176305723?position=48&pageNum=0&refId=kipv5YCquw2IfDp7z3%2FRvA%3D%3D&trackingId=AUIzS9J0oe2f1a3uD0ct6g%3D%3D)
+
+### Commerzbank Digital Technology Centre Poland
+- **Position:** Fullstack Developer Intern - Digital Architecture - Młodzi w Łodzi 2025
+- **Location:** Łódź, Łódzkie, Poland
+- **Posted on:** 2025-03-07
+- [Apply here](https://pl.linkedin.com/jobs/view/fullstack-developer-intern-digital-architecture-m%C5%82odzi-w-%C5%82odzi-2025-at-commerzbank-digital-technology-centre-poland-4176301858?position=58&pageNum=0&refId=kipv5YCquw2IfDp7z3%2FRvA%3D%3D&trackingId=jHxdJfGEzLDknOEiXx8O5Q%3D%3D)
+
+### S&P Global
+- **Position:** Summer Intern, Platform Engineering
+- **Location:** Gdańsk, Pomorskie, Poland
+- **Posted on:** 2025-03-06
+- [Apply here](https://pl.linkedin.com/jobs/view/summer-intern-platform-engineering-at-s-p-global-4175716310?position=59&pageNum=0&refId=kipv5YCquw2IfDp7z3%2FRvA%3D%3D&trackingId=HRIOW6xjRwI9CT1aqiJQsg%3D%3D)
 
 ### Point72
 - **Position:** 2025 Warsaw MI Data – Web Scraping Summer Internship
