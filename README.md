@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (115 offers)
+## Available positions (116 offers)
+
+### Winnow
+- **Position:** Summer intern - Frontend Developer (2025/2026 graduates)
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2025-03-10
+- [Apply here](https://ro.linkedin.com/jobs/view/summer-intern-frontend-developer-2025-2026-graduates-at-winnow-4181098054?position=7&pageNum=0&refId=3GBS%2BRCjaNye8XXm2OPJXg%3D%3D&trackingId=wHjvKhWk1sdiK1T7ENFz8g%3D%3D)
 
 ### Visa
 - **Position:** Software Engineer Intern
