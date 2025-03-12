@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (116 offers)
+## Available positions (117 offers)
+
+### Halliburton
+- **Position:** Norway - Stavanger, Intern Engineer
+- **Location:** Stavanger, Rogaland, Norway
+- **Posted on:** 2025-03-12
+- [Apply here](https://no.linkedin.com/jobs/view/norway-stavanger-intern-engineer-at-halliburton-4180074499?position=9&pageNum=0&refId=Ms0ZccwH6JcnfRJ7ki2T2Q%3D%3D&trackingId=M7iNyrVcph%2Bb%2FX5tuPaQCQ%3D%3D)
 
 ### Winnow
 - **Position:** Summer intern - Frontend Developer (2025/2026 graduates)
