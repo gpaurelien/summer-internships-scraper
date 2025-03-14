@@ -4,7 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (118 offers)
+## Available positions (122 offers)
+
+### Lightsource bp
+- **Position:** Internship, Engineering Centre of Excellence (Madrid)
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2025-03-13
+- [Apply here](https://es.linkedin.com/jobs/view/internship-engineering-centre-of-excellence-madrid-at-lightsource-bp-4181585702?position=17&pageNum=0&refId=k4wAtuiO9rhtV7pFKrWA1A%3D%3D&trackingId=oU9uo4lgh7Lnn8u40L80zA%3D%3D)
+
+### Seqana
+- **Position:** Solutions Engineering Internship
+- **Location:** Berlin, Berlin, Germany
+- **Posted on:** 2025-03-13
+- [Apply here](https://de.linkedin.com/jobs/view/solutions-engineering-internship-at-seqana-4180295677?position=15&pageNum=0&refId=9U016s00ElQ5p1nLeBEcjw%3D%3D&trackingId=5Ak2KEfrpa6uRzZjXwOIug%3D%3D)
+
+### IAR
+- **Position:** Summer Engineering Intern
+- **Location:** Uppsala, Uppsala County, Sweden
+- **Posted on:** 2025-03-13
+- [Apply here](https://se.linkedin.com/jobs/view/summer-engineering-intern-at-iar-4180266215?position=5&pageNum=0&refId=KNtcJpkT30iEqzSM54RZxw%3D%3D&trackingId=zgyAdGebgZdxc89DGdmECQ%3D%3D)
 
 ### Halliburton
 - **Position:** Norway - Stavanger, Intern Engineer
@@ -17,6 +35,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Stavanger, Rogaland, Norway
 - **Posted on:** 2025-03-12
 - [Apply here](https://no.linkedin.com/jobs/view/engineer-intern-at-halliburton-4180074499?position=6&pageNum=0&refId=fU9pGGmoENpWJSbCxU4zig%3D%3D&trackingId=cdagM%2FSWpCfGYCqpwQDkDA%3D%3D)
+
+### Halliburton
+- **Position:** Summer internship Engineering
+- **Location:** Stavanger, Rogaland, Norway
+- **Posted on:** 2025-03-12
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-engineering-at-halliburton-4180074499?position=8&pageNum=0&refId=%2F39%2F%2BRlQuOJMhSKq0XXc7g%3D%3D&trackingId=NHCpGVDYNd%2FLoY4NfpF8XA%3D%3D)
 
 ### Winnow
 - **Position:** Summer intern - Frontend Developer (2025/2026 graduates)
