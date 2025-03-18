@@ -4,7 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (122 offers)
+## Available positions (124 offers)
+
+### EY
+- **Position:** Full-Stack Web Development Summer Internship
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2025-03-17
+- [Apply here](https://ro.linkedin.com/jobs/view/full-stack-web-development-summer-internship-at-ey-4184402361?position=2&pageNum=0&refId=w7VwJ52EW0PpFRCJZobgmA%3D%3D&trackingId=l%2FLeuadJJISXZcOYV0r5Nw%3D%3D)
+
+### EY
+- **Position:** QA Summer Internship
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2025-03-17
+- [Apply here](https://ro.linkedin.com/jobs/view/qa-summer-internship-at-ey-4184403234?position=11&pageNum=0&refId=w7VwJ52EW0PpFRCJZobgmA%3D%3D&trackingId=jW73ahV5qUBTfDyAKCa9Pg%3D%3D)
 
 ### Lightsource bp
 - **Position:** Internship, Engineering Centre of Excellence (Madrid)
