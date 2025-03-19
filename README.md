@@ -4,7 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (124 offers)
+## Available positions (128 offers)
+
+### COERA
+- **Position:** Software Engineer Intern – Summer 2025 (UI/Mobile)
+- **Location:** Braşov, Braşov, Romania
+- **Posted on:** 2025-03-18
+- [Apply here](https://ro.linkedin.com/jobs/view/software-engineer-intern-%E2%80%93-summer-2025-ui-mobile-at-coera-4187899460?position=2&pageNum=0&refId=OyRGT%2FOPiY0o4MaMe%2FaVuw%3D%3D&trackingId=nPTg%2FL8HZkdDD3Yj7V3XMw%3D%3D)
+
+### Zebra Technologies
+- **Position:** 2025 Summer Internship (CZ) - Software Engineering
+- **Location:** Brno, South Moravia, Czechia
+- **Posted on:** 2025-03-18
+- [Apply here](https://cz.linkedin.com/jobs/view/2025-summer-internship-cz-software-engineering-at-zebra-technologies-4185683771?position=2&pageNum=0&refId=5vldrR0sPx3%2F3JYkY%2BR2YQ%3D%3D&trackingId=3HawYbyzAsq%2F%2BW46CnWK4w%3D%3D)
 
 ### EY
 - **Position:** Full-Stack Web Development Summer Internship
@@ -17,6 +29,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Cluj-Napoca, Cluj, Romania
 - **Posted on:** 2025-03-17
 - [Apply here](https://ro.linkedin.com/jobs/view/qa-summer-internship-at-ey-4184403234?position=11&pageNum=0&refId=w7VwJ52EW0PpFRCJZobgmA%3D%3D&trackingId=jW73ahV5qUBTfDyAKCa9Pg%3D%3D)
+
+### Relativity
+- **Position:** User Experience Engineer Intern
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-03-17
+- [Apply here](https://pl.linkedin.com/jobs/view/user-experience-engineer-intern-at-relativity-4187450299?position=36&pageNum=0&refId=Gy7TFO2PFoX39GSFW5OiUg%3D%3D&trackingId=VJhyJqqeqmRPPYjcHuYsRQ%3D%3D)
 
 ### Lightsource bp
 - **Position:** Internship, Engineering Centre of Excellence (Madrid)
@@ -203,6 +221,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Brno, South Moravia, Czechia
 - **Posted on:** 2025-02-27
 - [Apply here](https://cz.linkedin.com/jobs/view/2025-summer-internship-cz-information-technology-data-engineering-and-bi-at-zebra-technologies-4168122749?position=3&pageNum=0&refId=iTueX%2FdRF1s2PODUI6nQKw%3D%3D&trackingId=qEPkS94RNCL6W7btFNq47A%3D%3D)
+
+### Relativity
+- **Position:** Cyber Security Intern
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-02-27
+- [Apply here](https://pl.linkedin.com/jobs/view/cyber-security-intern-at-relativity-4169758384?position=38&pageNum=0&refId=Gy7TFO2PFoX39GSFW5OiUg%3D%3D&trackingId=iDdsvKXG3SXk%2FYmKugxKdQ%3D%3D)
 
 ### Wärtsilä
 - **Position:** Summer Internship - Hybrid Engineering & Technology
