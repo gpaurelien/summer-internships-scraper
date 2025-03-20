@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (128 offers)
+## Available positions (135 offers)
 
 ### COERA
 - **Position:** Software Engineer Intern – Summer 2025 (UI/Mobile)
@@ -35,6 +35,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Cracow, Małopolskie, Poland
 - **Posted on:** 2025-03-17
 - [Apply here](https://pl.linkedin.com/jobs/view/user-experience-engineer-intern-at-relativity-4187450299?position=36&pageNum=0&refId=Gy7TFO2PFoX39GSFW5OiUg%3D%3D&trackingId=VJhyJqqeqmRPPYjcHuYsRQ%3D%3D)
+
+### Commerzbank Digital Technology Centre Poland
+- **Position:** Database developer Intern - Loan & Restructuring Solutions - Młodzi w Łodzi 2025
+- **Location:** Łódź, Łódzkie, Poland
+- **Posted on:** 2025-03-14
+- [Apply here](https://pl.linkedin.com/jobs/view/database-developer-intern-loan-restructuring-solutions-m%C5%82odzi-w-%C5%82odzi-2025-at-commerzbank-digital-technology-centre-poland-4181386149?position=10&pageNum=0&refId=AB5tdQ8YYLy7xnf8DT0mQA%3D%3D&trackingId=XpCLx79yA3ymyb2FQkxsag%3D%3D)
 
 ### Lightsource bp
 - **Position:** Internship, Engineering Centre of Excellence (Madrid)
@@ -72,11 +78,35 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-03-12
 - [Apply here](https://no.linkedin.com/jobs/view/summer-internship-engineering-at-halliburton-4180074499?position=8&pageNum=0&refId=%2F39%2F%2BRlQuOJMhSKq0XXc7g%3D%3D&trackingId=NHCpGVDYNd%2FLoY4NfpF8XA%3D%3D)
 
+### Siemens Digital Industries Software
+- **Position:** DFT Product Engineering Intern
+- **Location:** Poznań, Wielkopolskie, Poland
+- **Posted on:** 2025-03-12
+- [Apply here](https://pl.linkedin.com/jobs/view/dft-product-engineering-intern-at-siemens-digital-industries-software-4178772898?position=14&pageNum=0&refId=AB5tdQ8YYLy7xnf8DT0mQA%3D%3D&trackingId=VVz5pKQgISth%2FleZ%2FJGQGw%3D%3D)
+
+### Siemens Digital Industries Software
+- **Position:** Quality Assurance Engineer Intern
+- **Location:** Poznań, Wielkopolskie, Poland
+- **Posted on:** 2025-03-12
+- [Apply here](https://pl.linkedin.com/jobs/view/quality-assurance-engineer-intern-at-siemens-digital-industries-software-4178776681?position=52&pageNum=0&refId=AB5tdQ8YYLy7xnf8DT0mQA%3D%3D&trackingId=XGhbn3FWSIyNXTUA0%2FRs%2Bg%3D%3D)
+
+### Commerzbank Digital Technology Centre Poland
+- **Position:** Fullstack Developer Intern - Risk Models & Calculations - Młodzi w Łodzi 2025
+- **Location:** Łódź, Łódzkie, Poland
+- **Posted on:** 2025-03-11
+- [Apply here](https://pl.linkedin.com/jobs/view/fullstack-developer-intern-risk-models-calculations-m%C5%82odzi-w-%C5%82odzi-2025-at-commerzbank-digital-technology-centre-poland-4178247274?position=31&pageNum=0&refId=AB5tdQ8YYLy7xnf8DT0mQA%3D%3D&trackingId=f%2BER0RSTUNG%2BCSTDMubv%2Fg%3D%3D)
+
 ### Winnow
 - **Position:** Summer intern - Frontend Developer (2025/2026 graduates)
 - **Location:** Cluj-Napoca, Cluj, Romania
 - **Posted on:** 2025-03-10
 - [Apply here](https://ro.linkedin.com/jobs/view/summer-intern-frontend-developer-2025-2026-graduates-at-winnow-4181098054?position=7&pageNum=0&refId=3GBS%2BRCjaNye8XXm2OPJXg%3D%3D&trackingId=wHjvKhWk1sdiK1T7ENFz8g%3D%3D)
+
+### Dolby Laboratories
+- **Position:** Intern, QA in Dolby Vision (Summer 2025)
+- **Location:** Wrocław, Dolnośląskie, Poland
+- **Posted on:** 2025-03-10
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-qa-in-dolby-vision-summer-2025-at-dolby-laboratories-4181073390?position=46&pageNum=0&refId=AB5tdQ8YYLy7xnf8DT0mQA%3D%3D&trackingId=IrkI2rr%2Blfwuz7ti3OYdCQ%3D%3D)
 
 ### Visa
 - **Position:** Software Engineer Intern
@@ -107,6 +137,18 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Łódź, Łódzkie, Poland
 - **Posted on:** 2025-03-07
 - [Apply here](https://pl.linkedin.com/jobs/view/fullstack-developer-intern-digital-architecture-m%C5%82odzi-w-%C5%82odzi-2025-at-commerzbank-digital-technology-centre-poland-4176301858?position=58&pageNum=0&refId=kipv5YCquw2IfDp7z3%2FRvA%3D%3D&trackingId=jHxdJfGEzLDknOEiXx8O5Q%3D%3D)
+
+### Commerzbank Digital Technology Centre Poland
+- **Position:** Developer Intern - Cost Processing & Transactions - Młodzi w Łodzi 2025
+- **Location:** Łódź, Łódzkie, Poland
+- **Posted on:** 2025-03-07
+- [Apply here](https://pl.linkedin.com/jobs/view/developer-intern-cost-processing-transactions-m%C5%82odzi-w-%C5%82odzi-2025-at-commerzbank-digital-technology-centre-poland-4175863341?position=4&pageNum=0&refId=AB5tdQ8YYLy7xnf8DT0mQA%3D%3D&trackingId=JllJr3WIshX7ENpRzTF17Q%3D%3D)
+
+### Commerzbank Digital Technology Centre Poland
+- **Position:** Model Developer Intern -Risk Models & Calculations - Młodzi w Łodzi 2025
+- **Location:** Łódź, Łódzkie, Poland
+- **Posted on:** 2025-03-07
+- [Apply here](https://pl.linkedin.com/jobs/view/model-developer-intern-risk-models-calculations-m%C5%82odzi-w-%C5%82odzi-2025-at-commerzbank-digital-technology-centre-poland-4175866459?position=43&pageNum=0&refId=AB5tdQ8YYLy7xnf8DT0mQA%3D%3D&trackingId=EpjXFNtKxx3jAQSpkiVRJQ%3D%3D)
 
 ### S&P Global
 - **Position:** Summer Intern, Platform Engineering
