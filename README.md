@@ -4,7 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (135 offers)
+## Available positions (137 offers)
+
+### Relativity
+- **Position:** Product Security Intern
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-03-21
+- [Apply here](https://pl.linkedin.com/jobs/view/product-security-intern-at-relativity-4169756487?position=46&pageNum=0&refId=MMbnM2CL02fH4eDVpmmCrw%3D%3D&trackingId=56g8rher3iOlzY0c9Xg2Zw%3D%3D)
+
+### Varenne Partners
+- **Position:** Full-Stack Developer Intern (React, Python & Redis)
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2025-03-20
+- [Apply here](https://fr.linkedin.com/jobs/view/full-stack-developer-intern-react-python-redis-at-varenne-partners-4187183963?position=1&pageNum=0&refId=PFpN7MqTIQneP%2B5UQUy6aQ%3D%3D&trackingId=3MgI7IXaS7pOPtrWRSq%2BeA%3D%3D)
 
 ### COERA
 - **Position:** Software Engineer Intern – Summer 2025 (UI/Mobile)
