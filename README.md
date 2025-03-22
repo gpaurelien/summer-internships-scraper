@@ -4,13 +4,31 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (137 offers)
+## Available positions (140 offers)
 
 ### Relativity
 - **Position:** Product Security Intern
 - **Location:** Cracow, Małopolskie, Poland
 - **Posted on:** 2025-03-21
 - [Apply here](https://pl.linkedin.com/jobs/view/product-security-intern-at-relativity-4169756487?position=46&pageNum=0&refId=MMbnM2CL02fH4eDVpmmCrw%3D%3D&trackingId=56g8rher3iOlzY0c9Xg2Zw%3D%3D)
+
+### IPC Systems
+- **Position:** IT Security Engineer Intern
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2025-03-21
+- [Apply here](https://es.linkedin.com/jobs/view/it-security-engineer-intern-at-ipc-systems-4190482351?position=17&pageNum=0&refId=auGH%2BsJcaFlEi3dGM92z7A%3D%3D&trackingId=UPZ54Okn1df1RyACAW6T%2Fg%3D%3D)
+
+### SoundCloud
+- **Position:** Data Analytics Intern
+- **Location:** Berlin, Berlin, Germany
+- **Posted on:** 2025-03-21
+- [Apply here](https://de.linkedin.com/jobs/view/data-analytics-intern-at-soundcloud-4190601759?position=1&pageNum=0&refId=T%2BlNBnIIKNMy3szx5U5H5g%3D%3D&trackingId=NXLfZRQ3qkoCI8luQaYJ9A%3D%3D)
+
+### SoundCloud
+- **Position:** Machine Learning Engineer Intern
+- **Location:** Berlin, Berlin, Germany
+- **Posted on:** 2025-03-21
+- [Apply here](https://de.linkedin.com/jobs/view/machine-learning-engineer-intern-at-soundcloud-4190601761?position=3&pageNum=0&refId=T%2BlNBnIIKNMy3szx5U5H5g%3D%3D&trackingId=y5rOgUsNewqe3g35WnvfSA%3D%3D)
 
 ### Varenne Partners
 - **Position:** Full-Stack Developer Intern (React, Python & Redis)
