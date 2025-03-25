@@ -4,7 +4,31 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (141 offers)
+## Available positions (146 offers)
+
+### Qualcomm
+- **Position:** FY25 Intern - Unlock the quality of Data with AI powered tooling and datamining - Summer Worker, Linkoping
+- **Location:** Linköping, Östergötland County, Sweden
+- **Posted on:** 2025-03-25
+- [Apply here](https://se.linkedin.com/jobs/view/fy25-intern-unlock-the-quality-of-data-with-ai-powered-tooling-and-datamining-summer-worker-linkoping-at-qualcomm-4189756352?position=13&pageNum=0&refId=nZylTsa%2B%2B2vNegS2UqrJyA%3D%3D&trackingId=%2FkYM2zyZrfGj6FTiclKiXg%3D%3D)
+
+### Tricentis
+- **Position:** Summer Internship - Software Engineer (Typescript, Playwright)
+- **Location:** Brno, South Moravia, Czechia
+- **Posted on:** 2025-03-25
+- [Apply here](https://cz.linkedin.com/jobs/view/summer-internship-software-engineer-typescript-playwright-at-tricentis-4192665301?position=1&pageNum=0&refId=noD6yPl%2Bxc65gzKzxBKWmw%3D%3D&trackingId=55mNdB107oHirTui7m4%2FtQ%3D%3D)
+
+### Tricentis
+- **Position:** Summer Internship - Software Engineer
+- **Location:** Brno, South Moravia, Czechia
+- **Posted on:** 2025-03-25
+- [Apply here](https://cz.linkedin.com/jobs/view/summer-internship-software-engineer-at-tricentis-4192665300?position=2&pageNum=0&refId=noD6yPl%2Bxc65gzKzxBKWmw%3D%3D&trackingId=O377wCxY7T2GHxZSO5WHpQ%3D%3D)
+
+### Commerzbank Digital Technology Centre Poland
+- **Position:** Java Developer Intern in Compliance Team - Młodzi w Łodzi 2025
+- **Location:** Łódź, Łódzkie, Poland
+- **Posted on:** 2025-03-24
+- [Apply here](https://pl.linkedin.com/jobs/view/java-developer-intern-in-compliance-team-m%C5%82odzi-w-%C5%82odzi-2025-at-commerzbank-digital-technology-centre-poland-4189958037?position=38&pageNum=0&refId=mLGtdD6UWpg9X3e7GFMt2Q%3D%3D&trackingId=b3Z03LcMiFxPCegHv0pnrg%3D%3D)
 
 ### Relativity
 - **Position:** Product Security Intern
@@ -143,6 +167,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Wrocław, Dolnośląskie, Poland
 - **Posted on:** 2025-03-10
 - [Apply here](https://pl.linkedin.com/jobs/view/intern-qa-in-dolby-vision-summer-2025-at-dolby-laboratories-4181073390?position=46&pageNum=0&refId=AB5tdQ8YYLy7xnf8DT0mQA%3D%3D&trackingId=IrkI2rr%2Blfwuz7ti3OYdCQ%3D%3D)
+
+### Siemens EDA (Siemens Digital Industries Software)
+- **Position:** Software Developer Internship : Silicon Monitoring Solutions
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-03-08
+- [Apply here](https://pl.linkedin.com/jobs/view/software-developer-internship-silicon-monitoring-solutions-at-siemens-eda-siemens-digital-industries-software-4128316377?position=48&pageNum=0&refId=mLGtdD6UWpg9X3e7GFMt2Q%3D%3D&trackingId=xrBHlTJgwj59uwd%2F2tal4Q%3D%3D)
 
 ### Visa
 - **Position:** Software Engineer Intern
