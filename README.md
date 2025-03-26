@@ -4,7 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (146 offers)
+## Available positions (150 offers)
+
+### Velory
+- **Position:** Data and Analytics summer intern 2025
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2025-03-26
+- [Apply here](https://se.linkedin.com/jobs/view/data-and-analytics-summer-intern-2025-at-velory-4190906079?position=1&pageNum=0&refId=doPHv6igfDChFXP85sk1Vw%3D%3D&trackingId=6dcq5hCZGWUywDZ5BAjk8g%3D%3D)
+
+### Tricentis
+- **Position:** Summer Internship - Software Engineer (Java)
+- **Location:** Prague, Czechia
+- **Posted on:** 2025-03-26
+- [Apply here](https://cz.linkedin.com/jobs/view/summer-internship-software-engineer-java-at-tricentis-4193668650?position=1&pageNum=0&refId=FVBQGY5X9MTbiPvoYKi%2FBQ%3D%3D&trackingId=CFklfhLb8qxE4ESb%2Fb8asA%3D%3D)
+
+### Tricentis
+- **Position:** Summer Internship - Software Engineer (Typescript, Playwright)
+- **Location:** Prague, Czechia
+- **Posted on:** 2025-03-26
+- [Apply here](https://cz.linkedin.com/jobs/view/summer-internship-software-engineer-typescript-playwright-at-tricentis-4193668651?position=3&pageNum=0&refId=FVBQGY5X9MTbiPvoYKi%2FBQ%3D%3D&trackingId=eRcQQpWoipP5Ot%2BqtAjapw%3D%3D)
 
 ### Qualcomm
 - **Position:** FY25 Intern - Unlock the quality of Data with AI powered tooling and datamining - Summer Worker, Linkoping
@@ -23,6 +41,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Brno, South Moravia, Czechia
 - **Posted on:** 2025-03-25
 - [Apply here](https://cz.linkedin.com/jobs/view/summer-internship-software-engineer-at-tricentis-4192665300?position=2&pageNum=0&refId=noD6yPl%2Bxc65gzKzxBKWmw%3D%3D&trackingId=O377wCxY7T2GHxZSO5WHpQ%3D%3D)
+
+### GTS
+- **Position:** Quantitative Developer / Data Engineer Internship - Summer 2025 (Warsaw/London)
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-03-25
+- [Apply here](https://pl.linkedin.com/jobs/view/quantitative-developer-data-engineer-internship-summer-2025-warsaw-london-at-gts-4190324009?position=34&pageNum=0&refId=OdP1JCM48VxSpTVTPVTHQw%3D%3D&trackingId=bpPfeMtJtSsicxep2Sf%2BjQ%3D%3D)
 
 ### Commerzbank Digital Technology Centre Poland
 - **Position:** Java Developer Intern in Compliance Team - Młodzi w Łodzi 2025
