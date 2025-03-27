@@ -4,7 +4,31 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (150 offers)
+## Available positions (155 offers)
+
+### Lofty
+- **Position:** Intern Backend Developer
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-03-27
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-backend-developer-at-lofty-4191647711?position=1&pageNum=0&refId=nFNv5iCN%2BAIX5E1%2FcGkm%2Fw%3D%3D&trackingId=tzPqtAuBcW2he5RJTdXyZw%3D%3D)
+
+### Lofty
+- **Position:** Intern Frontend Developer
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-03-27
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-frontend-developer-at-lofty-4191650519?position=2&pageNum=0&refId=nFNv5iCN%2BAIX5E1%2FcGkm%2Fw%3D%3D&trackingId=0NpYD3M6xVYHrH4J221jMg%3D%3D)
+
+### LoftyWorks
+- **Position:** Intern Backend Developer
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-03-27
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-backend-developer-at-loftyworks-4194523445?position=3&pageNum=0&refId=nFNv5iCN%2BAIX5E1%2FcGkm%2Fw%3D%3D&trackingId=G2aG58mKn7MQYbqNfVTtqg%3D%3D)
+
+### LoftyWorks
+- **Position:** Intern Frontend Developer
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-03-27
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-frontend-developer-at-loftyworks-4194521676?position=5&pageNum=0&refId=nFNv5iCN%2BAIX5E1%2FcGkm%2Fw%3D%3D&trackingId=lW4yF%2BWbH68z8uWAjo0xRg%3D%3D)
 
 ### Velory
 - **Position:** Data and Analytics summer intern 2025
@@ -47,6 +71,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Warsaw, Mazowieckie, Poland
 - **Posted on:** 2025-03-25
 - [Apply here](https://pl.linkedin.com/jobs/view/quantitative-developer-data-engineer-internship-summer-2025-warsaw-london-at-gts-4190324009?position=34&pageNum=0&refId=OdP1JCM48VxSpTVTPVTHQw%3D%3D&trackingId=bpPfeMtJtSsicxep2Sf%2BjQ%3D%3D)
+
+### Gen
+- **Position:** QA Summer Intern (Software Product Delivery)
+- **Location:** Prague, Prague, Czechia
+- **Posted on:** 2025-03-25
+- [Apply here](https://cz.linkedin.com/jobs/view/qa-summer-intern-software-product-delivery-at-gen-4193131406?position=7&pageNum=0&refId=TCi5I6Ofrb84pOGI6Oi%2BmA%3D%3D&trackingId=bbkP4Qey8EmAEvLPK880jQ%3D%3D)
 
 ### Commerzbank Digital Technology Centre Poland
 - **Position:** Java Developer Intern in Compliance Team - Młodzi w Łodzi 2025
