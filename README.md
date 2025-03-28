@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (155 offers)
+## Available positions (158 offers)
+
+### Dropbox
+- **Position:** Software Engineer Intern (Summer 2025)
+- **Location:** Poland
+- **Posted on:** 2025-03-28
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineer-intern-summer-2025-at-dropbox-4191889947?position=7&pageNum=0&refId=mwRFMZdBWywg%2FwTN8uwldg%3D%3D&trackingId=pidu7PBigaUwbJCLIY5vOA%3D%3D)
 
 ### Lofty
 - **Position:** Intern Backend Developer
@@ -29,6 +35,18 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Cracow, Małopolskie, Poland
 - **Posted on:** 2025-03-27
 - [Apply here](https://pl.linkedin.com/jobs/view/intern-frontend-developer-at-loftyworks-4194521676?position=5&pageNum=0&refId=nFNv5iCN%2BAIX5E1%2FcGkm%2Fw%3D%3D&trackingId=lW4yF%2BWbH68z8uWAjo0xRg%3D%3D)
+
+### Pico
+- **Position:** C Engineer - Summer Intern 2025
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-03-27
+- [Apply here](https://pl.linkedin.com/jobs/view/c-engineer-summer-intern-2025-at-pico-4192778127?position=14&pageNum=0&refId=mwRFMZdBWywg%2FwTN8uwldg%3D%3D&trackingId=ABW0eGdF1I8Y7nvrHWe1HQ%3D%3D)
+
+### Accenture Nordics
+- **Position:** Summer Internship 2025 Technology Security - Oslo
+- **Location:** Oslo, Oslo, Norway
+- **Posted on:** 2025-03-27
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2025-technology-security-oslo-at-accenture-nordics-4192754832?position=7&pageNum=0&refId=vMYReNamApEPeoKUTbV4EA%3D%3D&trackingId=LyQIEKOUJn9k7GVTj7D11A%3D%3D)
 
 ### Velory
 - **Position:** Data and Analytics summer intern 2025
