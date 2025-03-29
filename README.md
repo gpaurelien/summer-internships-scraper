@@ -4,13 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (158 offers)
+## Available positions (159 offers)
 
 ### Dropbox
 - **Position:** Software Engineer Intern (Summer 2025)
 - **Location:** Poland
 - **Posted on:** 2025-03-28
 - [Apply here](https://pl.linkedin.com/jobs/view/software-engineer-intern-summer-2025-at-dropbox-4191889947?position=7&pageNum=0&refId=mwRFMZdBWywg%2FwTN8uwldg%3D%3D&trackingId=pidu7PBigaUwbJCLIY5vOA%3D%3D)
+
+### Siemens Digital Industries Software
+- **Position:** Software Development Intern
+- **Location:** Poznań, Wielkopolskie, Poland
+- **Posted on:** 2025-03-28
+- [Apply here](https://pl.linkedin.com/jobs/view/software-development-intern-at-siemens-digital-industries-software-4193444419?position=10&pageNum=0&refId=cxc2omLh2N18pImHmd0BSw%3D%3D&trackingId=RxDiH7JAKnYSL08MBDXNbA%3D%3D)
 
 ### Lofty
 - **Position:** Intern Backend Developer
