@@ -4,7 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (160 offers)
+## Available positions (162 offers)
+
+### Moatable
+- **Position:** Intern Java Developer
+- **Location:** Krakowski, Małopolskie, Poland
+- **Posted on:** 2025-04-01
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-java-developer-at-moatable-4196272460?position=3&pageNum=0&refId=qKf1DBglFp%2B3Ua2u8AJlXQ%3D%3D&trackingId=Ojn3oHwVjiowS8RxR0Yh7Q%3D%3D)
+
+### Moatable
+- **Position:** Intern Front-end developer
+- **Location:** Krakowski, Małopolskie, Poland
+- **Posted on:** 2025-04-01
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-front-end-developer-at-moatable-4196276694?position=9&pageNum=0&refId=qKf1DBglFp%2B3Ua2u8AJlXQ%3D%3D&trackingId=iRtsgV%2BDdkEkEDaNa2J6EA%3D%3D)
 
 ### Dropbox
 - **Position:** Software Engineer Intern (Summer 2025)
