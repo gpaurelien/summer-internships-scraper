@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (159 offers)
+## Available positions (160 offers)
 
 ### Dropbox
 - **Position:** Software Engineer Intern (Summer 2025)
@@ -101,6 +101,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Prague, Prague, Czechia
 - **Posted on:** 2025-03-25
 - [Apply here](https://cz.linkedin.com/jobs/view/qa-summer-intern-software-product-delivery-at-gen-4193131406?position=7&pageNum=0&refId=TCi5I6Ofrb84pOGI6Oi%2BmA%3D%3D&trackingId=bbkP4Qey8EmAEvLPK880jQ%3D%3D)
+
+### SABIC
+- **Position:** Internship - Creating the basis of a Data Warehouse for MTO (Summer Internship)
+- **Location:** Cartagena, Región de Murcia, Spain
+- **Posted on:** 2025-03-25
+- [Apply here](https://es.linkedin.com/jobs/view/internship-creating-the-basis-of-a-data-warehouse-for-mto-summer-internship-at-sabic-4190875422?position=60&pageNum=0&refId=hwtZ3%2FsYRAAROVuLBbzHQQ%3D%3D&trackingId=uDjxYDCgB0Es2rQASoFqTQ%3D%3D)
 
 ### Commerzbank Digital Technology Centre Poland
 - **Position:** Java Developer Intern in Compliance Team - Młodzi w Łodzi 2025
