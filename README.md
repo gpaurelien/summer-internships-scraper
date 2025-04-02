@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (162 offers)
+## Available positions (164 offers)
 
 ### Moatable
 - **Position:** Intern Java Developer
@@ -18,6 +18,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-04-01
 - [Apply here](https://pl.linkedin.com/jobs/view/intern-front-end-developer-at-moatable-4196276694?position=9&pageNum=0&refId=qKf1DBglFp%2B3Ua2u8AJlXQ%3D%3D&trackingId=iRtsgV%2BDdkEkEDaNa2J6EA%3D%3D)
 
+### DraftKings Inc.
+- **Position:** Software Engineer Intern
+- **Location:** Sofia, Sofia City, Bulgaria
+- **Posted on:** 2025-04-01
+- [Apply here](https://bg.linkedin.com/jobs/view/software-engineer-intern-at-draftkings-inc-4196510138?position=1&pageNum=0&refId=%2B0NyBxHPun1JU0Z6Ku0QUQ%3D%3D&trackingId=hKwcK8Mp7VpviXXGJqoPRQ%3D%3D)
+
 ### Dropbox
 - **Position:** Software Engineer Intern (Summer 2025)
 - **Location:** Poland
@@ -29,6 +35,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Poznań, Wielkopolskie, Poland
 - **Posted on:** 2025-03-28
 - [Apply here](https://pl.linkedin.com/jobs/view/software-development-intern-at-siemens-digital-industries-software-4193444419?position=10&pageNum=0&refId=cxc2omLh2N18pImHmd0BSw%3D%3D&trackingId=RxDiH7JAKnYSL08MBDXNbA%3D%3D)
+
+### Siemens Digital Industries Software
+- **Position:** Software Developer, Internship
+- **Location:** Poznań, Wielkopolskie, Poland
+- **Posted on:** 2025-03-28
+- [Apply here](https://pl.linkedin.com/jobs/view/software-developer-internship-at-siemens-digital-industries-software-4193444419?position=9&pageNum=0&refId=5HYBhjvqasb6kg0Synp2Sg%3D%3D&trackingId=3WRWFGrZVXttV2ZXK%2BLMLw%3D%3D)
 
 ### Lofty
 - **Position:** Intern Backend Developer
