@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (164 offers)
+## Available positions (165 offers)
 
 ### Moatable
 - **Position:** Intern Java Developer
@@ -77,6 +77,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Oslo, Oslo, Norway
 - **Posted on:** 2025-03-27
 - [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2025-technology-security-oslo-at-accenture-nordics-4192754832?position=7&pageNum=0&refId=vMYReNamApEPeoKUTbV4EA%3D%3D&trackingId=LyQIEKOUJn9k7GVTj7D11A%3D%3D)
+
+### Pico
+- **Position:** C++ Engineer - Summer Intern 2025
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-03-27
+- [Apply here](https://pl.linkedin.com/jobs/view/c%2B%2B-engineer-summer-intern-2025-at-pico-4192778127?position=7&pageNum=0&refId=idcLVc2uctYrk609zWf%2ByQ%3D%3D&trackingId=px2eppJ6XHAz9dU6SkGCaQ%3D%3D)
 
 ### Velory
 - **Position:** Data and Analytics summer intern 2025
