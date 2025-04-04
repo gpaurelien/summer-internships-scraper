@@ -4,7 +4,31 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (165 offers)
+## Available positions (169 offers)
+
+### Anchorage Digital
+- **Position:** Masters Software Engineering Internship
+- **Location:** Portugal
+- **Posted on:** 2025-04-03
+- [Apply here](https://pt.linkedin.com/jobs/view/masters-software-engineering-internship-at-anchorage-digital-4200149082?position=14&pageNum=0&refId=JR5ejSIv9klLXhUUWwm8oQ%3D%3D&trackingId=cyIUpRfnnRctnF%2BnLh529A%3D%3D)
+
+### Austin Engineering, a member of BBA
+- **Position:** Structural Engineering Intern (Summer 2025)
+- **Location:** Sector 2, Bucharest, Romania
+- **Posted on:** 2025-04-03
+- [Apply here](https://ro.linkedin.com/jobs/view/structural-engineering-intern-summer-2025-at-austin-engineering-a-member-of-bba-4198836943?position=36&pageNum=0&refId=Hg5XdMOBW%2ByeYg9FfcMBoA%3D%3D&trackingId=i1tzf%2BdpCAdS7PbyQTGWeQ%3D%3D)
+
+### Luleå University of Technology
+- **Position:** Research Engineers, summer internship, Robotics and Artificial Intelligence
+- **Location:** Luleå, Norrbotten County, Sweden
+- **Posted on:** 2025-04-03
+- [Apply here](https://se.linkedin.com/jobs/view/research-engineers-summer-internship-robotics-and-artificial-intelligence-at-lule%C3%A5-university-of-technology-4200127249?position=13&pageNum=0&refId=%2BlV2QvVuo6DqEgGPDF2y%2BA%3D%3D&trackingId=5hg99lYx0KUcGzwc996LEg%3D%3D)
+
+### Gen
+- **Position:** Summer Intern Junior QA Engineer
+- **Location:** Brno, South Moravia, Czechia
+- **Posted on:** 2025-04-03
+- [Apply here](https://cz.linkedin.com/jobs/view/summer-intern-junior-qa-engineer-at-gen-4200188183?position=10&pageNum=0&refId=j%2FOaAXA4yQ4XQc7KWZ8Tag%3D%3D&trackingId=WOjXs%2FsFXfps%2Bph3OnIJIw%3D%3D)
 
 ### Moatable
 - **Position:** Intern Java Developer
