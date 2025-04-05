@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (169 offers)
+## Available positions (171 offers)
+
+### Cloudflare
+- **Position:** Product Security Intern (Summer 2025)
+- **Location:** Lisbon, Portugal
+- **Posted on:** 2025-04-04
+- [Apply here](https://pt.linkedin.com/jobs/view/product-security-intern-summer-2025-at-cloudflare-4180614784?position=6&pageNum=0&refId=NKUZM7ddR9i5NPz5AOjAgQ%3D%3D&trackingId=OQHj%2BIZifmXH%2Ft3jUM67Kg%3D%3D)
 
 ### Anchorage Digital
 - **Position:** Masters Software Engineering Internship
@@ -65,6 +71,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Poznań, Wielkopolskie, Poland
 - **Posted on:** 2025-03-28
 - [Apply here](https://pl.linkedin.com/jobs/view/software-developer-internship-at-siemens-digital-industries-software-4193444419?position=9&pageNum=0&refId=5HYBhjvqasb6kg0Synp2Sg%3D%3D&trackingId=3WRWFGrZVXttV2ZXK%2BLMLw%3D%3D)
+
+### Siemens Digital Industries Software
+- **Position:** Software Developer, Internship - Strategic Student Program Poland
+- **Location:** Poznań, Wielkopolskie, Poland
+- **Posted on:** 2025-03-28
+- [Apply here](https://pl.linkedin.com/jobs/view/software-developer-internship-strategic-student-program-poland-at-siemens-digital-industries-software-4193444419?position=48&pageNum=0&refId=aZiMXUdTM8CjbyTJvcnk9A%3D%3D&trackingId=H5zjRQ1gzjTVA7Xb%2BucPkg%3D%3D)
 
 ### Lofty
 - **Position:** Intern Backend Developer
