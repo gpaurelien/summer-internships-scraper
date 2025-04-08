@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (171 offers)
+## Available positions (176 offers)
+
+### Vantel (YC W25)
+- **Position:** Software Engineer - Intern
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2025-04-07
+- [Apply here](https://se.linkedin.com/jobs/view/software-engineer-intern-at-vantel-yc-w25-4201215258?position=2&pageNum=0&refId=gApybPGcoV5PesZNRGrQkg%3D%3D&trackingId=lV1UtpzaOXIzkQZMhKB1Mw%3D%3D)
 
 ### Cloudflare
 - **Position:** Product Security Intern (Summer 2025)
@@ -119,6 +125,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Cracow, Małopolskie, Poland
 - **Posted on:** 2025-03-27
 - [Apply here](https://pl.linkedin.com/jobs/view/c%2B%2B-engineer-summer-intern-2025-at-pico-4192778127?position=7&pageNum=0&refId=idcLVc2uctYrk609zWf%2ByQ%3D%3D&trackingId=px2eppJ6XHAz9dU6SkGCaQ%3D%3D)
+
+### Sabre Poland
+- **Position:** Summer Internship 2025 - QA
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-03-27
+- [Apply here](https://pl.linkedin.com/jobs/view/summer-internship-2025-qa-at-sabre-poland-4191556121?position=33&pageNum=0&refId=HaPDaSkiSUI%2F1LWjMN4cVg%3D%3D&trackingId=LUhILoh%2FQOKhymZxwBiTMw%3D%3D)
 
 ### Velory
 - **Position:** Data and Analytics summer intern 2025
@@ -270,6 +282,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-03-13
 - [Apply here](https://se.linkedin.com/jobs/view/summer-engineering-intern-at-iar-4180266215?position=5&pageNum=0&refId=KNtcJpkT30iEqzSM54RZxw%3D%3D&trackingId=zgyAdGebgZdxc89DGdmECQ%3D%3D)
 
+### Commerzbank Digital Technology Centre Poland
+- **Position:** Cloud Engineer Intern - Big Data CCoE - Młodzi w Łodzi 2025
+- **Location:** Łódź, Łódzkie, Poland
+- **Posted on:** 2025-03-13
+- [Apply here](https://pl.linkedin.com/jobs/view/cloud-engineer-intern-big-data-ccoe-m%C5%82odzi-w-%C5%82odzi-2025-at-commerzbank-digital-technology-centre-poland-4180299824?position=13&pageNum=0&refId=HaPDaSkiSUI%2F1LWjMN4cVg%3D%3D&trackingId=aIgBmAyTl6PWF%2FtDm4YRLQ%3D%3D)
+
 ### Halliburton
 - **Position:** Norway - Stavanger, Intern Engineer
 - **Location:** Stavanger, Rogaland, Norway
@@ -318,6 +336,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-03-10
 - [Apply here](https://pl.linkedin.com/jobs/view/intern-qa-in-dolby-vision-summer-2025-at-dolby-laboratories-4181073390?position=46&pageNum=0&refId=AB5tdQ8YYLy7xnf8DT0mQA%3D%3D&trackingId=IrkI2rr%2Blfwuz7ti3OYdCQ%3D%3D)
 
+### Commerzbank Digital Technology Centre Poland
+- **Position:** Application Operation Intern - Market Data - Młodzi w Łodzi 2025
+- **Location:** Łódź, Łódzkie, Poland
+- **Posted on:** 2025-03-10
+- [Apply here](https://pl.linkedin.com/jobs/view/application-operation-intern-market-data-m%C5%82odzi-w-%C5%82odzi-2025-at-commerzbank-digital-technology-centre-poland-4176305726?position=49&pageNum=0&refId=HaPDaSkiSUI%2F1LWjMN4cVg%3D%3D&trackingId=jT5GSID0N2xJbTi1kUXapA%3D%3D)
+
 ### Siemens EDA (Siemens Digital Industries Software)
 - **Position:** Software Developer Internship : Silicon Monitoring Solutions
 - **Location:** Warsaw, Mazowieckie, Poland
@@ -365,6 +389,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Łódź, Łódzkie, Poland
 - **Posted on:** 2025-03-07
 - [Apply here](https://pl.linkedin.com/jobs/view/model-developer-intern-risk-models-calculations-m%C5%82odzi-w-%C5%82odzi-2025-at-commerzbank-digital-technology-centre-poland-4175866459?position=43&pageNum=0&refId=AB5tdQ8YYLy7xnf8DT0mQA%3D%3D&trackingId=EpjXFNtKxx3jAQSpkiVRJQ%3D%3D)
+
+### Commerzbank Digital Technology Centre Poland
+- **Position:** DevOps Intern - Big Data - Młodzi w Łodzi 2025
+- **Location:** Łódź, Łódzkie, Poland
+- **Posted on:** 2025-03-07
+- [Apply here](https://pl.linkedin.com/jobs/view/devops-intern-big-data-m%C5%82odzi-w-%C5%82odzi-2025-at-commerzbank-digital-technology-centre-poland-4175867416?position=42&pageNum=0&refId=HaPDaSkiSUI%2F1LWjMN4cVg%3D%3D&trackingId=C0P59z4uqc34f%2BxKQTYgVQ%3D%3D)
 
 ### S&P Global
 - **Position:** Summer Intern, Platform Engineering
