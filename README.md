@@ -4,7 +4,43 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (176 offers)
+## Available positions (182 offers)
+
+### Lofty
+- **Position:** Intern Backend Developer with Node.JS
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-04-09
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-backend-developer-with-node-js-at-lofty-4203322467?position=7&pageNum=0&refId=rT5DpZ8FlZ6XKJsxgFtHdA%3D%3D&trackingId=BaH13XKOIJJl2FoWPcNkGQ%3D%3D)
+
+### LoftyWorks
+- **Position:** Intern Backend Developer with Node.JS
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-04-09
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-backend-developer-with-node-js-at-loftyworks-4204577721?position=17&pageNum=0&refId=rT5DpZ8FlZ6XKJsxgFtHdA%3D%3D&trackingId=Y4Upn5Gd%2BSr4qJ2Io3kRcQ%3D%3D)
+
+### Cisco
+- **Position:** Software Development Intern
+- **Location:** Oeiras, Lisbon, Portugal
+- **Posted on:** 2025-04-08
+- [Apply here](https://pt.linkedin.com/jobs/view/software-development-intern-at-cisco-4204285745?position=1&pageNum=0&refId=izgV%2BTHzhIFRW5xLa%2BJixA%3D%3D&trackingId=E51Oh2ifvxlXClr8uAdoVQ%3D%3D)
+
+### Salesforce
+- **Position:** Solution Engineering Internship (Milan)
+- **Location:** Milan, Lombardy, Italy
+- **Posted on:** 2025-04-08
+- [Apply here](https://it.linkedin.com/jobs/view/solution-engineering-internship-milan-at-salesforce-4204451334?position=9&pageNum=0&refId=FSTMBJwJoBYFKEDl40KA8w%3D%3D&trackingId=uTG%2BvMQ5SCLmODA%2FGFUdNA%3D%3D)
+
+### Salesforce
+- **Position:** Solution Engineering Internship (Rome)
+- **Location:** Rome, Latium, Italy
+- **Posted on:** 2025-04-08
+- [Apply here](https://it.linkedin.com/jobs/view/solution-engineering-internship-rome-at-salesforce-4204451322?position=16&pageNum=0&refId=FSTMBJwJoBYFKEDl40KA8w%3D%3D&trackingId=g0N%2FLASP2XJgAcqoIU6bEA%3D%3D)
+
+### Salesforce Developers
+- **Position:** Solution Engineering Internship (Rome)
+- **Location:** Rome, Latium, Italy
+- **Posted on:** 2025-04-08
+- [Apply here](https://it.linkedin.com/jobs/view/solution-engineering-internship-rome-at-salesforce-developers-4204506420?position=20&pageNum=0&refId=FSTMBJwJoBYFKEDl40KA8w%3D%3D&trackingId=gpu98EpehgUTlZa0jodnXA%3D%3D)
 
 ### Vantel (YC W25)
 - **Position:** Software Engineer - Intern
