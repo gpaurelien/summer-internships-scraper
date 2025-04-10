@@ -4,7 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (182 offers)
+## Available positions (188 offers)
+
+### Lofty
+- **Position:** Intern Java Developer
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-04-10
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-java-developer-at-lofty-4204043002?position=3&pageNum=0&refId=rgVPqOJBk2TWCrj8sofPmw%3D%3D&trackingId=tXCZuha5fW1zRmc5TheIJg%3D%3D)
+
+### Lofty
+- **Position:** Intern Front-end Developer
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-04-10
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-front-end-developer-at-lofty-4204043001?position=9&pageNum=0&refId=rgVPqOJBk2TWCrj8sofPmw%3D%3D&trackingId=S8ECI3BCQK9ZLIOH%2Fj7oKA%3D%3D)
+
+### Le Collectionist
+- **Position:** CRM Data Analyst Assistant (F/H/X) - Internship - Paris
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2025-04-10
+- [Apply here](https://fr.linkedin.com/jobs/view/crm-data-analyst-assistant-f-h-x-internship-paris-at-le-collectionist-4205798060?position=16&pageNum=0&refId=BtMNnnIOpMt1ysoPUNZNEQ%3D%3D&trackingId=8LpPS00O%2Fb%2FOUZ7f%2BgR3oQ%3D%3D)
 
 ### Lofty
 - **Position:** Intern Backend Developer with Node.JS
@@ -17,6 +35,24 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Cracow, Małopolskie, Poland
 - **Posted on:** 2025-04-09
 - [Apply here](https://pl.linkedin.com/jobs/view/intern-backend-developer-with-node-js-at-loftyworks-4204577721?position=17&pageNum=0&refId=rT5DpZ8FlZ6XKJsxgFtHdA%3D%3D&trackingId=Y4Upn5Gd%2BSr4qJ2Io3kRcQ%3D%3D)
+
+### LoftyWorks
+- **Position:** Intern Java Developer
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-04-09
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-java-developer-at-loftyworks-4205247600?position=13&pageNum=0&refId=rgVPqOJBk2TWCrj8sofPmw%3D%3D&trackingId=%2FvZdq7QxRttzoapG%2FC29ZQ%3D%3D)
+
+### LoftyWorks
+- **Position:** Intern Front-end Developer
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-04-09
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-front-end-developer-at-loftyworks-4205253043?position=45&pageNum=0&refId=rgVPqOJBk2TWCrj8sofPmw%3D%3D&trackingId=fnDHzzUKwluRnciDfRWAkw%3D%3D)
+
+### TGS
+- **Position:** Data Science Intern (Data Management)
+- **Location:** Oslo, Oslo, Norway
+- **Posted on:** 2025-04-09
+- [Apply here](https://no.linkedin.com/jobs/view/data-science-intern-data-management-at-tgs-4205141863?position=3&pageNum=0&refId=LiCU5gt8O%2BkV8xH8RAbpbw%3D%3D&trackingId=bp31ra9DCbe5dfXYCJaN%2Bw%3D%3D)
 
 ### Cisco
 - **Position:** Software Development Intern
