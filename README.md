@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (188 offers)
+## Available positions (189 offers)
 
 ### Lofty
 - **Position:** Intern Java Developer
@@ -221,6 +221,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Prague, Czechia
 - **Posted on:** 2025-03-26
 - [Apply here](https://cz.linkedin.com/jobs/view/summer-internship-software-engineer-typescript-playwright-at-tricentis-4193668651?position=3&pageNum=0&refId=FVBQGY5X9MTbiPvoYKi%2FBQ%3D%3D&trackingId=eRcQQpWoipP5Ot%2BqtAjapw%3D%3D)
+
+### Amazon
+- **Position:** 2025 Security Specialist Intern, DC Security
+- **Location:** Frankfurt Rhine-Main Metropolitan Area
+- **Posted on:** 2025-03-26
+- [Apply here](https://de.linkedin.com/jobs/view/2025-security-specialist-intern-dc-security-at-amazon-4194480285?position=52&pageNum=0&refId=nYhx7ypwT42R7fvUpE3FJg%3D%3D&trackingId=icGG5cf8o2IoZ9LpPz7HsA%3D%3D)
 
 ### Qualcomm
 - **Position:** FY25 Intern - Unlock the quality of Data with AI powered tooling and datamining - Summer Worker, Linkoping
