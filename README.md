@@ -4,7 +4,61 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (189 offers)
+## Available positions (237 offers)
+
+### Talent Skull
+- **Position:** Data Science Internship
+- **Location:** Poland
+- **Posted on:** 2025-04-15
+- [Apply here](https://pl.linkedin.com/jobs/view/data-science-internship-at-talent-skull-4210574792?position=53&pageNum=0&refId=KK8lgg%2FoXw8lJEWf%2FzCn8w%3D%3D&trackingId=92Op7o9dH70jKWO%2FJgjwhQ%3D%3D)
+
+### Talent Skull
+- **Position:** Data Science Internship
+- **Location:** Germany
+- **Posted on:** 2025-04-15
+- [Apply here](https://de.linkedin.com/jobs/view/data-science-internship-at-talent-skull-4210563132?position=4&pageNum=0&refId=cucwIIJe1uYZ6TPcai1IxQ%3D%3D&trackingId=1i30lqvC18YA%2BsK6pxd%2Fcg%3D%3D)
+
+### Talent Skull
+- **Position:** Cybersecurity Internship
+- **Location:** Germany
+- **Posted on:** 2025-04-15
+- [Apply here](https://de.linkedin.com/jobs/view/cybersecurity-internship-at-talent-skull-4210561608?position=34&pageNum=0&refId=cucwIIJe1uYZ6TPcai1IxQ%3D%3D&trackingId=sYtbLFeb1xZdhk684oBmzw%3D%3D)
+
+### GenBio AI
+- **Position:** Research Engineer Intern
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2025-04-15
+- [Apply here](https://fr.linkedin.com/jobs/view/research-engineer-intern-at-genbio-ai-4210545221?position=38&pageNum=0&refId=%2F893hIiX65ksZU%2FFG%2FspCw%3D%3D&trackingId=NMyxUOxyWC3jBNZqA%2FGxPQ%3D%3D)
+
+### Boeing
+- **Position:** Intern Software Engineer
+- **Location:** Gdansk Metropolitan Area
+- **Posted on:** 2025-04-14
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-software-engineer-at-boeing-4208429997?position=59&pageNum=0&refId=KK8lgg%2FoXw8lJEWf%2FzCn8w%3D%3D&trackingId=%2FAKFYGtkSoRvfZTQd2MQxw%3D%3D)
+
+### Airbus
+- **Position:** Intern Artificial Intelligence Engineer
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-04-14
+- [Apply here](https://ro.linkedin.com/jobs/view/intern-artificial-intelligence-engineer-at-airbus-4209648537?position=49&pageNum=0&refId=w4KgJ7FPvjzYUfStrWCbHA%3D%3D&trackingId=vgTecleHsJpBbqUas1qOaQ%3D%3D)
+
+### XR Solutions
+- **Position:** Backend Developer Intern
+- **Location:** Stockholm County, Sweden
+- **Posted on:** 2025-04-14
+- [Apply here](https://se.linkedin.com/jobs/view/backend-developer-intern-at-xr-solutions-4206936059?position=8&pageNum=0&refId=TexqkplX9W59lGzBBQOUFg%3D%3D&trackingId=ciJSOkheyizjfXAcz5wNIw%3D%3D)
+
+### myGwork - LGBTQ+ Business Community
+- **Position:** Software Development Intern
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2025-04-12
+- [Apply here](https://se.linkedin.com/jobs/view/software-development-intern-at-mygwork-lgbtq%2B-business-community-4206354082?position=30&pageNum=0&refId=TexqkplX9W59lGzBBQOUFg%3D%3D&trackingId=%2FkuJLuvCaKJ%2Be%2FNhfylFUQ%3D%3D)
+
+### The HEINEKEN Company
+- **Position:** IT Developer Intern
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-04-11
+- [Apply here](https://pl.linkedin.com/jobs/view/it-developer-intern-at-the-heineken-company-4206418772?position=38&pageNum=0&refId=KK8lgg%2FoXw8lJEWf%2FzCn8w%3D%3D&trackingId=WKwo%2FioOgqPXQi%2BftmUg9g%3D%3D)
 
 ### Lofty
 - **Position:** Intern Java Developer
@@ -23,6 +77,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Paris, Île-de-France, France
 - **Posted on:** 2025-04-10
 - [Apply here](https://fr.linkedin.com/jobs/view/crm-data-analyst-assistant-f-h-x-internship-paris-at-le-collectionist-4205798060?position=16&pageNum=0&refId=BtMNnnIOpMt1ysoPUNZNEQ%3D%3D&trackingId=8LpPS00O%2Fb%2FOUZ7f%2BgR3oQ%3D%3D)
+
+### Yotpo
+- **Position:** R&D Software Intern
+- **Location:** Sofia, Sofia City, Bulgaria
+- **Posted on:** 2025-04-10
+- [Apply here](https://bg.linkedin.com/jobs/view/r-d-software-intern-at-yotpo-4119966559?position=55&pageNum=0&refId=TMilka4Dr56KX8dPpUTNtQ%3D%3D&trackingId=IsUwtXgODfwI3fqLlk%2B8tQ%3D%3D)
 
 ### Lofty
 - **Position:** Intern Backend Developer with Node.JS
@@ -54,6 +114,60 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-04-09
 - [Apply here](https://no.linkedin.com/jobs/view/data-science-intern-data-management-at-tgs-4205141863?position=3&pageNum=0&refId=LiCU5gt8O%2BkV8xH8RAbpbw%3D%3D&trackingId=bp31ra9DCbe5dfXYCJaN%2Bw%3D%3D)
 
+### MANGO
+- **Position:** DATA SCIENTIST INTERN
+- **Location:** Palau-solità i Plegamans, Catalonia, Spain
+- **Posted on:** 2025-04-09
+- [Apply here](https://es.linkedin.com/jobs/view/data-scientist-intern-at-mango-4205499783?position=42&pageNum=0&refId=FcqqgkngsG4lwKb9I%2BEFRA%3D%3D&trackingId=CR6Ff%2BEqtuzTlROkE%2Fnfnw%3D%3D)
+
+### Microsoft
+- **Position:** Software Engineering: Internship Opportunities
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-04-09
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-internship-opportunities-at-microsoft-4205073950?position=6&pageNum=0&refId=KK8lgg%2FoXw8lJEWf%2FzCn8w%3D%3D&trackingId=%2BRMDbFMD9iOp9965Xf5hEA%3D%3D)
+
+### Tracer
+- **Position:** Software Engineer Intern
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-04-09
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineer-intern-at-tracer-4204711163?position=10&pageNum=0&refId=KK8lgg%2FoXw8lJEWf%2FzCn8w%3D%3D&trackingId=ymg4wmladRN1zVI3ZgzHnA%3D%3D)
+
+### Microsoft Innovation Center
+- **Position:** Software Engineering: Internship Opportunities
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-04-09
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-internship-opportunities-at-microsoft-innovation-center-4205035723?position=12&pageNum=0&refId=KK8lgg%2FoXw8lJEWf%2FzCn8w%3D%3D&trackingId=viKYdJDruQPYuiWdcsQJGA%3D%3D)
+
+### Microsoft Power Platform Community
+- **Position:** Software Engineering: Internship Opportunities
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-04-09
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-internship-opportunities-at-microsoft-power-platform-community-4203340124?position=30&pageNum=0&refId=KK8lgg%2FoXw8lJEWf%2FzCn8w%3D%3D&trackingId=3Fv01%2BPO3zaCjtusg%2BRmfw%3D%3D)
+
+### PROS
+- **Position:** Software Engineer Intern
+- **Location:** Sofia City, Bulgaria
+- **Posted on:** 2025-04-09
+- [Apply here](https://bg.linkedin.com/jobs/view/software-engineer-intern-at-pros-4204581964?position=10&pageNum=0&refId=TMilka4Dr56KX8dPpUTNtQ%3D%3D&trackingId=PnC1WQ6lrARLn2C9MQFfMA%3D%3D)
+
+### VSG
+- **Position:** Backend Intern
+- **Location:** Plovdiv, Plovdiv, Bulgaria
+- **Posted on:** 2025-04-09
+- [Apply here](https://bg.linkedin.com/jobs/view/backend-intern-at-vsg-4205588383?position=39&pageNum=0&refId=TMilka4Dr56KX8dPpUTNtQ%3D%3D&trackingId=QuA4TSvRM5lSsNS3zmjyzA%3D%3D)
+
+### Mondelēz International
+- **Position:** Taste The Future - Data Analyst Intern
+- **Location:** Sofia, Sofia City, Bulgaria
+- **Posted on:** 2025-04-09
+- [Apply here](https://bg.linkedin.com/jobs/view/taste-the-future-data-analyst-intern-at-mondel%C4%93z-international-4204297904?position=48&pageNum=0&refId=TMilka4Dr56KX8dPpUTNtQ%3D%3D&trackingId=bX92Qb0g8zCIpEfWJitdTw%3D%3D)
+
+### Digibate
+- **Position:** Full-Stack JavaScript Internship
+- **Location:** Copenhagen, Capital Region of Denmark, Denmark
+- **Posted on:** 2025-04-09
+- [Apply here](https://dk.linkedin.com/jobs/view/full-stack-javascript-internship-at-digibate-4205457088?position=6&pageNum=0&refId=R2Ucjv9L98wm8RN1fjYJbA%3D%3D&trackingId=gDbncrM8v4wMnPLPMPuwgQ%3D%3D)
+
 ### Cisco
 - **Position:** Software Development Intern
 - **Location:** Oeiras, Lisbon, Portugal
@@ -78,17 +192,47 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-04-08
 - [Apply here](https://it.linkedin.com/jobs/view/solution-engineering-internship-rome-at-salesforce-developers-4204506420?position=20&pageNum=0&refId=FSTMBJwJoBYFKEDl40KA8w%3D%3D&trackingId=gpu98EpehgUTlZa0jodnXA%3D%3D)
 
+### PROS
+- **Position:** Data Scientist Intern
+- **Location:** Sofia City, Bulgaria
+- **Posted on:** 2025-04-08
+- [Apply here](https://bg.linkedin.com/jobs/view/data-scientist-intern-at-pros-4204370438?position=21&pageNum=0&refId=TMilka4Dr56KX8dPpUTNtQ%3D%3D&trackingId=gJYctFbXHmO3qTQCdor6%2Fw%3D%3D)
+
 ### Vantel (YC W25)
 - **Position:** Software Engineer - Intern
 - **Location:** Stockholm, Stockholm County, Sweden
 - **Posted on:** 2025-04-07
 - [Apply here](https://se.linkedin.com/jobs/view/software-engineer-intern-at-vantel-yc-w25-4201215258?position=2&pageNum=0&refId=gApybPGcoV5PesZNRGrQkg%3D%3D&trackingId=lV1UtpzaOXIzkQZMhKB1Mw%3D%3D)
 
+### Nomagic
+- **Position:** Software Engineering Intern
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-04-07
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-intern-at-nomagic-4203168582?position=16&pageNum=0&refId=KK8lgg%2FoXw8lJEWf%2FzCn8w%3D%3D&trackingId=Jo9hXGF5EmKas7ZpSWPT1g%3D%3D)
+
+### Woodward, Inc.
+- **Position:** Embedded Software Developer Interns
+- **Location:** Sofia, Sofia City, Bulgaria
+- **Posted on:** 2025-04-07
+- [Apply here](https://bg.linkedin.com/jobs/view/embedded-software-developer-interns-at-woodward-inc-4202951173?position=60&pageNum=0&refId=TMilka4Dr56KX8dPpUTNtQ%3D%3D&trackingId=Ttdb3Ic1dak6AolIDATO0Q%3D%3D)
+
+### Regulars
+- **Position:** Full-Stack Development Intern
+- **Location:** Aarhus, Central Denmark Region, Denmark
+- **Posted on:** 2025-04-06
+- [Apply here](https://dk.linkedin.com/jobs/view/full-stack-development-intern-at-regulars-4200609850?position=15&pageNum=0&refId=R2Ucjv9L98wm8RN1fjYJbA%3D%3D&trackingId=yU9Z%2BuRoYYf4TJQH5%2BVoBg%3D%3D)
+
 ### Cloudflare
 - **Position:** Product Security Intern (Summer 2025)
 - **Location:** Lisbon, Portugal
 - **Posted on:** 2025-04-04
 - [Apply here](https://pt.linkedin.com/jobs/view/product-security-intern-summer-2025-at-cloudflare-4180614784?position=6&pageNum=0&refId=NKUZM7ddR9i5NPz5AOjAgQ%3D%3D&trackingId=OQHj%2BIZifmXH%2Ft3jUM67Kg%3D%3D)
+
+### LivePerson
+- **Position:** Software Engineer- Intern
+- **Location:** Sofia, Sofia City, Bulgaria
+- **Posted on:** 2025-04-04
+- [Apply here](https://bg.linkedin.com/jobs/view/software-engineer-intern-at-liveperson-4159194039?position=3&pageNum=0&refId=TMilka4Dr56KX8dPpUTNtQ%3D%3D&trackingId=KD9DwvJFjqwcKVMkXAkk6w%3D%3D)
 
 ### Anchorage Digital
 - **Position:** Masters Software Engineering Internship
@@ -114,6 +258,30 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-04-03
 - [Apply here](https://cz.linkedin.com/jobs/view/summer-intern-junior-qa-engineer-at-gen-4200188183?position=10&pageNum=0&refId=j%2FOaAXA4yQ4XQc7KWZ8Tag%3D%3D&trackingId=WOjXs%2FsFXfps%2Bph3OnIJIw%3D%3D)
 
+### Amazon
+- **Position:** 2025 Software Dev Engineer Intern - Romania
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-04-03
+- [Apply here](https://ro.linkedin.com/jobs/view/2025-software-dev-engineer-intern-romania-at-amazon-4198166138?position=55&pageNum=0&refId=w4KgJ7FPvjzYUfStrWCbHA%3D%3D&trackingId=JzXV2GKNPaCvs2oT7ySsXA%3D%3D)
+
+### Lenus
+- **Position:** Data Science Internship
+- **Location:** Copenhagen, Capital Region of Denmark, Denmark
+- **Posted on:** 2025-04-03
+- [Apply here](https://dk.linkedin.com/jobs/view/data-science-internship-at-lenus-4199997236?position=26&pageNum=0&refId=R2Ucjv9L98wm8RN1fjYJbA%3D%3D&trackingId=D3eSAJ38WAs9yU7K6EtTrQ%3D%3D)
+
+### Lenus
+- **Position:** Data Science Internship
+- **Location:** Copenhagen Municipality, Capital Region of Denmark, Denmark
+- **Posted on:** 2025-04-02
+- [Apply here](https://dk.linkedin.com/jobs/view/data-science-internship-at-lenus-4199806681?position=24&pageNum=0&refId=R2Ucjv9L98wm8RN1fjYJbA%3D%3D&trackingId=jzE7woaDQ79nHTO36UmZTg%3D%3D)
+
+### Gen
+- **Position:** Software Developer (Summer Internship - Full time)
+- **Location:** Brno, South Moravia, Czechia
+- **Posted on:** 2025-04-02
+- [Apply here](https://cz.linkedin.com/jobs/view/software-developer-summer-internship-full-time-at-gen-4198241325?position=12&pageNum=0&refId=9rCO0Mh8Zn56WtmmhkJ36g%3D%3D&trackingId=7zON3W8cwMZ%2Fw8unGQUiFg%3D%3D)
+
 ### Moatable
 - **Position:** Intern Java Developer
 - **Location:** Krakowski, Małopolskie, Poland
@@ -131,6 +299,36 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Sofia, Sofia City, Bulgaria
 - **Posted on:** 2025-04-01
 - [Apply here](https://bg.linkedin.com/jobs/view/software-engineer-intern-at-draftkings-inc-4196510138?position=1&pageNum=0&refId=%2B0NyBxHPun1JU0Z6Ku0QUQ%3D%3D&trackingId=hKwcK8Mp7VpviXXGJqoPRQ%3D%3D)
+
+### Vodafone
+- **Position:** 2025/26 Vodafone Portugal Youth Internship Data Analytics
+- **Location:** Lisboa, Lisbon, Portugal
+- **Posted on:** 2025-04-01
+- [Apply here](https://pt.linkedin.com/jobs/view/2025-26-vodafone-portugal-youth-internship-data-analytics-at-vodafone-4196578984?position=22&pageNum=0&refId=HFaZCZbu%2Ba53bqCR%2BzHoBA%3D%3D&trackingId=%2BeB3YY9wgF4ol61NSnhN0g%3D%3D)
+
+### Reltio
+- **Position:** Intern - Software Engineer
+- **Location:** Lisbon, Lisbon, Portugal
+- **Posted on:** 2025-04-01
+- [Apply here](https://pt.linkedin.com/jobs/view/intern-software-engineer-at-reltio-4196285954?position=49&pageNum=0&refId=HFaZCZbu%2Ba53bqCR%2BzHoBA%3D%3D&trackingId=KjMTE1%2FByUC9oHGl6qqmlg%3D%3D)
+
+### Gen
+- **Position:** Software Developer (Summer Internship)
+- **Location:** Brno, South Moravia, Czechia
+- **Posted on:** 2025-03-31
+- [Apply here](https://cz.linkedin.com/jobs/view/software-developer-summer-internship-at-gen-4197050094?position=10&pageNum=0&refId=9rCO0Mh8Zn56WtmmhkJ36g%3D%3D&trackingId=FHjku5vV2J4HzueLtUfG3w%3D%3D)
+
+### Gen
+- **Position:** Software Engineering Intern
+- **Location:** Brno, South Moravia, Czechia
+- **Posted on:** 2025-03-31
+- [Apply here](https://cz.linkedin.com/jobs/view/software-engineering-intern-at-gen-4197053047?position=34&pageNum=0&refId=9rCO0Mh8Zn56WtmmhkJ36g%3D%3D&trackingId=R5P%2B8MPKw%2FY%2BKHEzCjQx%2Fg%3D%3D)
+
+### United Nations Development Programme (UNDP)
+- **Position:** Software Developer Internship
+- **Location:** Copenhagen, Capital Region of Denmark, Denmark
+- **Posted on:** 2025-03-29
+- [Apply here](https://dk.linkedin.com/jobs/view/software-developer-internship-at-united-nations-development-programme-undp-4196164766?position=10&pageNum=0&refId=R2Ucjv9L98wm8RN1fjYJbA%3D%3D&trackingId=CwbPBo41sS4fgDIAHjy0iA%3D%3D)
 
 ### Dropbox
 - **Position:** Software Engineer Intern (Summer 2025)
@@ -204,6 +402,18 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-03-27
 - [Apply here](https://pl.linkedin.com/jobs/view/summer-internship-2025-qa-at-sabre-poland-4191556121?position=33&pageNum=0&refId=HaPDaSkiSUI%2F1LWjMN4cVg%3D%3D&trackingId=LUhILoh%2FQOKhymZxwBiTMw%3D%3D)
 
+### Honeywell
+- **Position:** Intern - Software Engineer
+- **Location:** Brno - město, South Moravia, Czechia
+- **Posted on:** 2025-03-27
+- [Apply here](https://cz.linkedin.com/jobs/view/intern-software-engineer-at-honeywell-4150384144?position=37&pageNum=0&refId=9rCO0Mh8Zn56WtmmhkJ36g%3D%3D&trackingId=RVfS7g8W7BiFcUCBZIAlcw%3D%3D)
+
+### Oracle
+- **Position:** Intern as Software Engineer - part time
+- **Location:** Prague, Prague, Czechia
+- **Posted on:** 2025-03-27
+- [Apply here](https://cz.linkedin.com/jobs/view/intern-as-software-engineer-part-time-at-oracle-4192759544?position=55&pageNum=0&refId=9rCO0Mh8Zn56WtmmhkJ36g%3D%3D&trackingId=aXVhduQVO7UVzDpc3Tdwzw%3D%3D)
+
 ### Velory
 - **Position:** Data and Analytics summer intern 2025
 - **Location:** Stockholm, Stockholm County, Sweden
@@ -227,6 +437,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Frankfurt Rhine-Main Metropolitan Area
 - **Posted on:** 2025-03-26
 - [Apply here](https://de.linkedin.com/jobs/view/2025-security-specialist-intern-dc-security-at-amazon-4194480285?position=52&pageNum=0&refId=nYhx7ypwT42R7fvUpE3FJg%3D%3D&trackingId=icGG5cf8o2IoZ9LpPz7HsA%3D%3D)
+
+### Renault Group
+- **Position:** Internship Data Scientist (F/M)
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-03-26
+- [Apply here](https://ro.linkedin.com/jobs/view/internship-data-scientist-f-m-at-renault-group-4191493102?position=16&pageNum=0&refId=w4KgJ7FPvjzYUfStrWCbHA%3D%3D&trackingId=RpOQPFZdxU4Uqbma%2FMjD7A%3D%3D)
 
 ### Qualcomm
 - **Position:** FY25 Intern - Unlock the quality of Data with AI powered tooling and datamining - Summer Worker, Linkoping
@@ -264,11 +480,35 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-03-25
 - [Apply here](https://es.linkedin.com/jobs/view/internship-creating-the-basis-of-a-data-warehouse-for-mto-summer-internship-at-sabic-4190875422?position=60&pageNum=0&refId=hwtZ3%2FsYRAAROVuLBbzHQQ%3D%3D&trackingId=uDjxYDCgB0Es2rQASoFqTQ%3D%3D)
 
+### Thales
+- **Position:** INTERNSHIP – Fullstack Engineer (M/F)
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-03-25
+- [Apply here](https://ro.linkedin.com/jobs/view/internship-%E2%80%93-fullstack-engineer-m-f-at-thales-4172359537?position=36&pageNum=0&refId=w4KgJ7FPvjzYUfStrWCbHA%3D%3D&trackingId=lAhd6gtxFtzmJgJM4UuvQg%3D%3D)
+
+### Gen
+- **Position:** Software Developer (Summer Internship - Full Time)
+- **Location:** Brno, South Moravia, Czechia
+- **Posted on:** 2025-03-25
+- [Apply here](https://cz.linkedin.com/jobs/view/software-developer-summer-internship-full-time-at-gen-4193334453?position=7&pageNum=0&refId=9rCO0Mh8Zn56WtmmhkJ36g%3D%3D&trackingId=QlLhlepqKuwk3OAGFsI33A%3D%3D)
+
+### Gen
+- **Position:** Junior Developer (Summer Internship - Full Time)
+- **Location:** Prague, Prague, Czechia
+- **Posted on:** 2025-03-25
+- [Apply here](https://cz.linkedin.com/jobs/view/junior-developer-summer-internship-full-time-at-gen-4193330752?position=13&pageNum=0&refId=9rCO0Mh8Zn56WtmmhkJ36g%3D%3D&trackingId=bsNLL2qI31OJx3Uh57OS7Q%3D%3D)
+
 ### Commerzbank Digital Technology Centre Poland
 - **Position:** Java Developer Intern in Compliance Team - Młodzi w Łodzi 2025
 - **Location:** Łódź, Łódzkie, Poland
 - **Posted on:** 2025-03-24
 - [Apply here](https://pl.linkedin.com/jobs/view/java-developer-intern-in-compliance-team-m%C5%82odzi-w-%C5%82odzi-2025-at-commerzbank-digital-technology-centre-poland-4189958037?position=38&pageNum=0&refId=mLGtdD6UWpg9X3e7GFMt2Q%3D%3D&trackingId=b3Z03LcMiFxPCegHv0pnrg%3D%3D)
+
+### Gen
+- **Position:** Software Engineering Intern
+- **Location:** Prague, Prague, Czechia
+- **Posted on:** 2025-03-24
+- [Apply here](https://cz.linkedin.com/jobs/view/software-engineering-intern-at-gen-4192408130?position=24&pageNum=0&refId=9rCO0Mh8Zn56WtmmhkJ36g%3D%3D&trackingId=r1HeSsixK1YqYKQ2%2FOXpcQ%3D%3D)
 
 ### Relativity
 - **Position:** Product Security Intern
@@ -420,11 +660,29 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-03-10
 - [Apply here](https://pl.linkedin.com/jobs/view/application-operation-intern-market-data-m%C5%82odzi-w-%C5%82odzi-2025-at-commerzbank-digital-technology-centre-poland-4176305726?position=49&pageNum=0&refId=HaPDaSkiSUI%2F1LWjMN4cVg%3D%3D&trackingId=jT5GSID0N2xJbTi1kUXapA%3D%3D)
 
+### Schneider Electric
+- **Position:** Software Engineering Internships (Fall 2025)
+- **Location:** Kolding, Region of Southern Denmark, Denmark
+- **Posted on:** 2025-03-10
+- [Apply here](https://dk.linkedin.com/jobs/view/software-engineering-internships-fall-2025-at-schneider-electric-4177599606?position=17&pageNum=0&refId=R2Ucjv9L98wm8RN1fjYJbA%3D%3D&trackingId=9SLB1mYo4JdodPn%2FwSJYBA%3D%3D)
+
+### UNDP Careers
+- **Position:** Software Developer Internship
+- **Location:** Copenhagen, Capital Region of Denmark, Denmark
+- **Posted on:** 2025-03-10
+- [Apply here](https://dk.linkedin.com/jobs/view/software-developer-internship-at-undp-careers-4180457730?position=21&pageNum=0&refId=R2Ucjv9L98wm8RN1fjYJbA%3D%3D&trackingId=c%2B4QJdWW%2FqxD7lzapvPz6A%3D%3D)
+
 ### Siemens EDA (Siemens Digital Industries Software)
 - **Position:** Software Developer Internship : Silicon Monitoring Solutions
 - **Location:** Warsaw, Mazowieckie, Poland
 - **Posted on:** 2025-03-08
 - [Apply here](https://pl.linkedin.com/jobs/view/software-developer-internship-silicon-monitoring-solutions-at-siemens-eda-siemens-digital-industries-software-4128316377?position=48&pageNum=0&refId=mLGtdD6UWpg9X3e7GFMt2Q%3D%3D&trackingId=xrBHlTJgwj59uwd%2F2tal4Q%3D%3D)
+
+### UNDP in the Arab States region
+- **Position:** Software Developer Internship
+- **Location:** Copenhagen, Capital Region of Denmark, Denmark
+- **Posted on:** 2025-03-08
+- [Apply here](https://dk.linkedin.com/jobs/view/software-developer-internship-at-undp-in-the-arab-states-region-4178988510?position=34&pageNum=0&refId=R2Ucjv9L98wm8RN1fjYJbA%3D%3D&trackingId=bZv2anULsK7lZ46fPdpo3w%3D%3D)
 
 ### Visa
 - **Position:** Software Engineer Intern
@@ -486,6 +744,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-03-05
 - [Apply here](https://pl.linkedin.com/jobs/view/2025-warsaw-mi-data-%E2%80%93-web-scraping-summer-internship-at-point72-4173810282?position=37&pageNum=0&refId=1pvgsOGR%2BptXQj3KMPIUpQ%3D%3D&trackingId=fEt4N2TaxEBuu60RO3QacQ%3D%3D)
 
+### RINA
+- **Position:** Intern Software Developer
+- **Location:** Aalborg, North Denmark Region, Denmark
+- **Posted on:** 2025-03-05
+- [Apply here](https://dk.linkedin.com/jobs/view/intern-software-developer-at-rina-4174802268?position=53&pageNum=0&refId=R2Ucjv9L98wm8RN1fjYJbA%3D%3D&trackingId=wkKqaBUMKtGkEzbKYqpSRg%3D%3D)
+
 ### UiPath
 - **Position:** Software Engineer Intern
 - **Location:** Bucharest, Bucharest, Romania
@@ -533,6 +797,18 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Cluj-Napoca, Cluj, Romania
 - **Posted on:** 2025-03-03
 - [Apply here](https://ro.linkedin.com/jobs/view/data-migration-internship-summer-2025-cluj-napoca-at-undelucram-ro-4174689467?position=16&pageNum=0&refId=VIp4jDXQzJql%2Brvs3VrrDg%3D%3D&trackingId=pwYVoribFFnZtOrkNucFhw%3D%3D)
+
+### Thales Microwave & Imaging Sub-Systems
+- **Position:** INTERNSHIP – Fullstack Engineer (M/F)
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-03-03
+- [Apply here](https://ro.linkedin.com/jobs/view/internship-%E2%80%93-fullstack-engineer-m-f-at-thales-microwave-imaging-sub-systems-4172320207?position=35&pageNum=0&refId=w4KgJ7FPvjzYUfStrWCbHA%3D%3D&trackingId=rrDLdXHhGd8UiG9eS%2F1Y2w%3D%3D)
+
+### twoday
+- **Position:** Software Developer Internship
+- **Location:** Aarhus, Central Denmark Region, Denmark
+- **Posted on:** 2025-03-03
+- [Apply here](https://dk.linkedin.com/jobs/view/software-developer-internship-at-twoday-4174421872?position=14&pageNum=0&refId=R2Ucjv9L98wm8RN1fjYJbA%3D%3D&trackingId=u3bYUeJODPpgHfKCn6KIlw%3D%3D)
 
 ### CrowdStrike
 - **Position:** Cloud AI Engineering Intern (Remote, ROU)
@@ -888,6 +1164,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-02-11
 - [Apply here](https://de.linkedin.com/jobs/view/2025-security-specialist-intern-dc-security-at-amazon-4063835289?position=33&pageNum=0&refId=zRdl%2FKspVDTFfUl95iqtxA%3D%3D&trackingId=xqZca%2B9NXWZZdwh0IA8X1A%3D%3D)
 
+### Montrose Software
+- **Position:** Paid Internship - Software Developer
+- **Location:** Time, Rogaland, Norway
+- **Posted on:** 2025-02-11
+- [Apply here](https://no.linkedin.com/jobs/view/paid-internship-software-developer-at-montrose-software-4147179159?position=8&pageNum=0&refId=MZwxuQtp%2Far6zYv9xW%2BUPg%3D%3D&trackingId=ml1hNruM6VnmR9%2FvHZ72xg%3D%3D)
+
 ### Cloudflare
 - **Position:** Security Compliance Intern (Summer 2025)
 - **Location:** Lisbon, Portugal
@@ -1127,6 +1409,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Linköping, Östergötland County, Sweden
 - **Posted on:** 2024-11-21
 - [Apply here](https://se.linkedin.com/jobs/view/nira-engineering-summer-internship-2025-at-nira-dynamics-ab-4079755837?position=56&pageNum=0&refId=4DmlnZUECKb148TZGyYwJw%3D%3D&trackingId=cJtoAxO9OLzxB2sD820Rsw%3D%3D)
+
+### SurplusMap
+- **Position:** Internship Data Engineer
+- **Location:** Oslo, Oslo, Norway
+- **Posted on:** 2024-11-21
+- [Apply here](https://no.linkedin.com/jobs/view/internship-data-engineer-at-surplusmap-4081875451?position=24&pageNum=0&refId=MZwxuQtp%2Far6zYv9xW%2BUPg%3D%3D&trackingId=QK7PdK2xp3grptTUGtq1Lg%3D%3D)
 
 ### BNY
 - **Position:** 2025 BNY Summer Internship Program - Engineering (Poland)
