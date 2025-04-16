@@ -4,7 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (237 offers)
+## Available positions (247 offers)
+
+### Talent Skull
+- **Position:** Data Analytics Internship
+- **Location:** Germany
+- **Posted on:** 2025-04-16
+- [Apply here](https://de.linkedin.com/jobs/view/data-analytics-internship-at-talent-skull-4211400094?position=2&pageNum=0&refId=a1jN%2BcVvyUJ5CoaJROns4g%3D%3D&trackingId=YE4Aauzh0oJLPOH1i3P9sg%3D%3D)
+
+### NVIDIA
+- **Position:** System Software Engineering Intern, Autonomous Vehicles - 2025
+- **Location:** Berlin, Berlin, Germany
+- **Posted on:** 2025-04-16
+- [Apply here](https://de.linkedin.com/jobs/view/system-software-engineering-intern-autonomous-vehicles-2025-at-nvidia-4211257573?position=42&pageNum=0&refId=a1jN%2BcVvyUJ5CoaJROns4g%3D%3D&trackingId=%2Br6HNKvpOXE%2BhsVkhu4%2BIg%3D%3D)
 
 ### Talent Skull
 - **Position:** Data Science Internship
@@ -30,6 +42,36 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-04-15
 - [Apply here](https://fr.linkedin.com/jobs/view/research-engineer-intern-at-genbio-ai-4210545221?position=38&pageNum=0&refId=%2F893hIiX65ksZU%2FFG%2FspCw%3D%3D&trackingId=NMyxUOxyWC3jBNZqA%2FGxPQ%3D%3D)
 
+### UBS
+- **Position:** Internship- Software Developer with Java in WMPC
+- **Location:** Wrocław, Dolnośląskie, Poland
+- **Posted on:** 2025-04-15
+- [Apply here](https://pl.linkedin.com/jobs/view/internship-software-developer-with-java-in-wmpc-at-ubs-4208984559?position=54&pageNum=0&refId=Ft0iyPEFGVbskuMR8Gm7hA%3D%3D&trackingId=IP51iiX2NfDjw8z1FT%2B8YA%3D%3D)
+
+### PIMCO Prime Real Estate
+- **Position:** Intern Global Data and Analytics (m/f/d)
+- **Location:** Munich, Bavaria, Germany
+- **Posted on:** 2025-04-15
+- [Apply here](https://de.linkedin.com/jobs/view/intern-global-data-and-analytics-m-f-d-at-pimco-prime-real-estate-4210976024?position=8&pageNum=0&refId=a1jN%2BcVvyUJ5CoaJROns4g%3D%3D&trackingId=Z87XdpqR1RbLw5HtFy1z7g%3D%3D)
+
+### Keysight Technologies
+- **Position:** Intern Software Development UI-Application
+- **Location:** Hannover-Braunschweig-Göttingen-Wolfsburg Region
+- **Posted on:** 2025-04-15
+- [Apply here](https://de.linkedin.com/jobs/view/intern-software-development-ui-application-at-keysight-technologies-4208973739?position=16&pageNum=0&refId=a1jN%2BcVvyUJ5CoaJROns4g%3D%3D&trackingId=dXsTPdZeRkav3eP3mGdxuA%3D%3D)
+
+### Tesla
+- **Position:** Supply Chain Data Analyst Internship (m/w/d) - Gigafactory Berlin-Brandenburg
+- **Location:** Grünheide, Brandenburg, Germany
+- **Posted on:** 2025-04-15
+- [Apply here](https://de.linkedin.com/jobs/view/supply-chain-data-analyst-internship-m-w-d-gigafactory-berlin-brandenburg-at-tesla-4210960884?position=35&pageNum=0&refId=a1jN%2BcVvyUJ5CoaJROns4g%3D%3D&trackingId=8SLeRaascyVttld%2BGkjBbQ%3D%3D)
+
+### Keysight Internet Infrastructure
+- **Position:** Intern Software Development UI-Application
+- **Location:** Brunswick, Lower Saxony, Germany
+- **Posted on:** 2025-04-15
+- [Apply here](https://de.linkedin.com/jobs/view/intern-software-development-ui-application-at-keysight-internet-infrastructure-4211029939?position=36&pageNum=0&refId=a1jN%2BcVvyUJ5CoaJROns4g%3D%3D&trackingId=ZSrX7bDgTFQU%2BLXc73qD5g%3D%3D)
+
 ### Boeing
 - **Position:** Intern Software Engineer
 - **Location:** Gdansk Metropolitan Area
@@ -47,6 +89,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Stockholm County, Sweden
 - **Posted on:** 2025-04-14
 - [Apply here](https://se.linkedin.com/jobs/view/backend-developer-intern-at-xr-solutions-4206936059?position=8&pageNum=0&refId=TexqkplX9W59lGzBBQOUFg%3D%3D&trackingId=ciJSOkheyizjfXAcz5wNIw%3D%3D)
+
+### Boeing
+- **Position:** Intern Software Engineer
+- **Location:** Rzeszów, Podkarpackie, Poland
+- **Posted on:** 2025-04-14
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-software-engineer-at-boeing-4208436002?position=50&pageNum=0&refId=Ft0iyPEFGVbskuMR8Gm7hA%3D%3D&trackingId=gGBGzfU6gRjzae3X%2FjN2Yw%3D%3D)
 
 ### myGwork - LGBTQ+ Business Community
 - **Position:** Software Development Intern
@@ -83,6 +131,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Sofia, Sofia City, Bulgaria
 - **Posted on:** 2025-04-10
 - [Apply here](https://bg.linkedin.com/jobs/view/r-d-software-intern-at-yotpo-4119966559?position=55&pageNum=0&refId=TMilka4Dr56KX8dPpUTNtQ%3D%3D&trackingId=IsUwtXgODfwI3fqLlk%2B8tQ%3D%3D)
+
+### Honeywell
+- **Position:** Software Web Application Intern
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-04-10
+- [Apply here](https://pl.linkedin.com/jobs/view/software-web-application-intern-at-honeywell-4206194158?position=59&pageNum=0&refId=Ft0iyPEFGVbskuMR8Gm7hA%3D%3D&trackingId=T3hL4U5Hhatb%2F8QsOREpjw%3D%3D)
 
 ### Lofty
 - **Position:** Intern Backend Developer with Node.JS
@@ -311,6 +365,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Lisbon, Lisbon, Portugal
 - **Posted on:** 2025-04-01
 - [Apply here](https://pt.linkedin.com/jobs/view/intern-software-engineer-at-reltio-4196285954?position=49&pageNum=0&refId=HFaZCZbu%2Ba53bqCR%2BzHoBA%3D%3D&trackingId=KjMTE1%2FByUC9oHGl6qqmlg%3D%3D)
+
+### IBM
+- **Position:** Internship in Software Development
+- **Location:** Sofia, Sofia City, Bulgaria
+- **Posted on:** 2025-04-01
+- [Apply here](https://bg.linkedin.com/jobs/view/internship-in-software-development-at-ibm-4191403324?position=24&pageNum=0&refId=tvTKyiaiGkuR0nwMzgRfNw%3D%3D&trackingId=OePvwuCqHxSjD9sXX4b7Fg%3D%3D)
 
 ### Gen
 - **Position:** Software Developer (Summer Internship)
