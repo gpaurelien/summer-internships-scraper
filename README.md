@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (247 offers)
+## Available positions (251 offers)
 
 ### Talent Skull
 - **Position:** Data Analytics Internship
@@ -17,6 +17,24 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Berlin, Berlin, Germany
 - **Posted on:** 2025-04-16
 - [Apply here](https://de.linkedin.com/jobs/view/system-software-engineering-intern-autonomous-vehicles-2025-at-nvidia-4211257573?position=42&pageNum=0&refId=a1jN%2BcVvyUJ5CoaJROns4g%3D%3D&trackingId=%2Br6HNKvpOXE%2BhsVkhu4%2BIg%3D%3D)
+
+### North Highland
+- **Position:** Software Engineer Intern
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2025-04-16
+- [Apply here](https://ro.linkedin.com/jobs/view/software-engineer-intern-at-north-highland-4209315696?position=3&pageNum=0&refId=NRkqMw4GE3FTaDBk9adYFg%3D%3D&trackingId=Nbf7bmivQ62UzLHXTEdGjA%3D%3D)
+
+### North Highland
+- **Position:** Software Engineer in Test Intern
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2025-04-16
+- [Apply here](https://ro.linkedin.com/jobs/view/software-engineer-in-test-intern-at-north-highland-4209313881?position=23&pageNum=0&refId=NRkqMw4GE3FTaDBk9adYFg%3D%3D&trackingId=VVvmXy0yp1ERGaIj2wptZA%3D%3D)
+
+### Latronix AB
+- **Position:** Student Summer Internship – Software or Mechanical Engineering Proof-of-concept Project
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2025-04-16
+- [Apply here](https://se.linkedin.com/jobs/view/student-summer-internship-%E2%80%93-software-or-mechanical-engineering-proof-of-concept-project-at-latronix-ab-4211713245?position=34&pageNum=0&refId=bGnZfiDvowWln%2Bet0oc65Q%3D%3D&trackingId=4zUp2hkmzEhDnbUToWUDRQ%3D%3D)
 
 ### Talent Skull
 - **Position:** Data Science Internship
@@ -287,6 +305,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Sofia, Sofia City, Bulgaria
 - **Posted on:** 2025-04-04
 - [Apply here](https://bg.linkedin.com/jobs/view/software-engineer-intern-at-liveperson-4159194039?position=3&pageNum=0&refId=TMilka4Dr56KX8dPpUTNtQ%3D%3D&trackingId=KD9DwvJFjqwcKVMkXAkk6w%3D%3D)
+
+### Laveer Engineering
+- **Position:** International Engineering Intern Program
+- **Location:** Sofia, Sofia City, Bulgaria
+- **Posted on:** 2025-04-04
+- [Apply here](https://bg.linkedin.com/jobs/view/international-engineering-intern-program-at-laveer-engineering-4200830620?position=9&pageNum=0&refId=EKELjn2yGBvG9HdZDry7gg%3D%3D&trackingId=8LsaCdMNsWn39dvZLcKoAQ%3D%3D)
 
 ### Anchorage Digital
 - **Position:** Masters Software Engineering Internship
