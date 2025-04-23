@@ -4,7 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (251 offers)
+## Available positions (253 offers)
+
+### NVIDIA
+- **Position:** Networking Architecture Intern, Security Research – Summer 2025
+- **Location:** Germany
+- **Posted on:** 2025-04-23
+- [Apply here](https://de.linkedin.com/jobs/view/networking-architecture-intern-security-research-%E2%80%93-summer-2025-at-nvidia-4214151486?position=23&pageNum=0&refId=fSufkBar2H6h1tga5OfJow%3D%3D&trackingId=AyhEwgNI%2B9ValiSqQ8kGlg%3D%3D)
+
+### Nmbrs
+- **Position:** Software developer - Summer Internship
+- **Location:** Lisbon Metropolitan Area
+- **Posted on:** 2025-04-22
+- [Apply here](https://pt.linkedin.com/jobs/view/software-developer-summer-internship-at-nmbrs-4214660006?position=11&pageNum=0&refId=JHfG%2BIW2gLJneVfEOAETwA%3D%3D&trackingId=gYLunZvZWbFfT372lKApGg%3D%3D)
 
 ### Talent Skull
 - **Position:** Data Analytics Internship
