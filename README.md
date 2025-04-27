@@ -4,7 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (253 offers)
+## Available positions (256 offers)
+
+### inhire.io
+- **Position:** Software Engineering Intern
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-04-27
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-intern-at-inhire-io-4204766691?position=55&pageNum=0&refId=Jfypp4pN0TXhoaSjqmUSdQ%3D%3D&trackingId=sI8CDSPEPA6qsm0Ou6zGjQ%3D%3D)
+
+### MKS Instruments
+- **Position:** 2025 Summer Undergraduate Intern/ Co-op Program Intern Production Engineer Assembly
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-04-25
+- [Apply here](https://ro.linkedin.com/jobs/view/2025-summer-undergraduate-intern-co-op-program-intern-production-engineer-assembly-at-mks-instruments-4217434998?position=33&pageNum=0&refId=X0T40QSanGp2Zb8zuJA0UA%3D%3D&trackingId=0InGxh2dQ7XToWaWVHJdNw%3D%3D)
+
+### MKS Instruments
+- **Position:** 2025 Summer Undergraduate Intern/Co-op Intern Production Engineer CNC&DT
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-04-25
+- [Apply here](https://ro.linkedin.com/jobs/view/2025-summer-undergraduate-intern-co-op-intern-production-engineer-cnc-dt-at-mks-instruments-4217434999?position=43&pageNum=0&refId=X0T40QSanGp2Zb8zuJA0UA%3D%3D&trackingId=bjOUy%2B0r%2Fd9K7EiqUYiZsw%3D%3D)
 
 ### NVIDIA
 - **Position:** Networking Architecture Intern, Security Research – Summer 2025
