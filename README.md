@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (256 offers)
+## Available positions (257 offers)
 
 ### inhire.io
 - **Position:** Software Engineering Intern
@@ -35,6 +35,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Lisbon Metropolitan Area
 - **Posted on:** 2025-04-22
 - [Apply here](https://pt.linkedin.com/jobs/view/software-developer-summer-internship-at-nmbrs-4214660006?position=11&pageNum=0&refId=JHfG%2BIW2gLJneVfEOAETwA%3D%3D&trackingId=gYLunZvZWbFfT372lKApGg%3D%3D)
+
+### Amazon
+- **Position:** 2025 Security Specialist Intern, DC Security
+- **Location:** Mittenwalde, Brandenburg, Germany
+- **Posted on:** 2025-04-19
+- [Apply here](https://de.linkedin.com/jobs/view/2025-security-specialist-intern-dc-security-at-amazon-4213211783?position=59&pageNum=0&refId=3j3xQ3Yx7CUcauYcLzwwYg%3D%3D&trackingId=FkaeFrewcOwFtpplf38KjQ%3D%3D)
 
 ### Talent Skull
 - **Position:** Data Analytics Internship
