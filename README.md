@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (258 offers)
+## Available positions (259 offers)
+
+### Roche
+- **Position:** Deja tu Huella- Data & Analytics Intern
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2025-04-29
+- [Apply here](https://es.linkedin.com/jobs/view/deja-tu-huella-data-analytics-intern-at-roche-4219191933?position=5&pageNum=0&refId=GwOu7WtM0xaxc2Hzy%2F5pfw%3D%3D&trackingId=u1hVxCfT1Ui27KoyBJ8jvg%3D%3D)
 
 ### SPLUNK SERVICES UK LIMITED
 - **Position:** Software Engineering Intern (Backend/Fullstack)
