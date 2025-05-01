@@ -4,13 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (259 offers)
+## Available positions (261 offers)
+
+### AirportLabs
+- **Position:** Fullstack JavaScript Internship
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2025-04-30
+- [Apply here](https://ro.linkedin.com/jobs/view/fullstack-javascript-internship-at-airportlabs-4219660301?position=3&pageNum=0&refId=dLo5JxANqajK9qS%2Flx1M7A%3D%3D&trackingId=kZuiWy2MHXMiMsPP4pks%2BQ%3D%3D)
 
 ### Roche
 - **Position:** Deja tu Huella- Data & Analytics Intern
 - **Location:** Madrid, Community of Madrid, Spain
 - **Posted on:** 2025-04-29
 - [Apply here](https://es.linkedin.com/jobs/view/deja-tu-huella-data-analytics-intern-at-roche-4219191933?position=5&pageNum=0&refId=GwOu7WtM0xaxc2Hzy%2F5pfw%3D%3D&trackingId=u1hVxCfT1Ui27KoyBJ8jvg%3D%3D)
+
+### Roche
+- **Position:** Becas Deja tu Huella- Data & Analytics Intern
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2025-04-29
+- [Apply here](https://es.linkedin.com/jobs/view/becas-deja-tu-huella-data-analytics-intern-at-roche-4219191933?position=6&pageNum=0&refId=F8Nd6jGrkkJ12OXKN8oGQg%3D%3D&trackingId=6BweNER%2Brm0Axj%2BYYoxBOw%3D%3D)
 
 ### SPLUNK SERVICES UK LIMITED
 - **Position:** Software Engineering Intern (Backend/Fullstack)
