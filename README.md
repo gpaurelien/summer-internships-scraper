@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (261 offers)
+## Available positions (262 offers)
 
 ### AirportLabs
 - **Position:** Fullstack JavaScript Internship
@@ -29,6 +29,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Cracow, Małopolskie, Poland
 - **Posted on:** 2025-04-28
 - [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-intern-backend-fullstack-at-splunk-services-uk-limited-4215896105?position=31&pageNum=0&refId=7xj3KYOEUSrvKnXePwnOhg%3D%3D&trackingId=2W6DGcIaqexWn9NxwHVnVw%3D%3D)
+
+### SPLUNK SERVICES UK LIMITED
+- **Position:** Software Engineer Intern (Frontend)
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-04-28
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineer-intern-frontend-at-splunk-services-uk-limited-4215891876?position=56&pageNum=0&refId=qng1Qd3rOJ%2FH7kLUTYycvQ%3D%3D&trackingId=2dFdOQKk9op6FegZ%2B2B03w%3D%3D)
 
 ### inhire.io
 - **Position:** Software Engineering Intern
