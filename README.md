@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (262 offers)
+## Available positions (264 offers)
+
+### Amazon
+- **Position:** 2025 Security Specialist Intern, DC Security
+- **Location:** Frankfurt, Hesse, Germany
+- **Posted on:** 2025-05-07
+- [Apply here](https://de.linkedin.com/jobs/view/2025-security-specialist-intern-dc-security-at-amazon-4063833383?position=55&pageNum=0&refId=1oGBUmzMfhWBDtv7FFrwWg%3D%3D&trackingId=r3S9DqeLyFs2%2BY9ePn79sw%3D%3D)
 
 ### AirportLabs
 - **Position:** Fullstack JavaScript Internship
@@ -59,6 +65,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Germany
 - **Posted on:** 2025-04-23
 - [Apply here](https://de.linkedin.com/jobs/view/networking-architecture-intern-security-research-%E2%80%93-summer-2025-at-nvidia-4214151486?position=23&pageNum=0&refId=fSufkBar2H6h1tga5OfJow%3D%3D&trackingId=AyhEwgNI%2B9ValiSqQ8kGlg%3D%3D)
+
+### Infobip
+- **Position:** Software Engineer Intern - Katowice
+- **Location:** Katowice, Śląskie, Poland
+- **Posted on:** 2025-04-23
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineer-intern-katowice-at-infobip-4214477775?position=58&pageNum=0&refId=GmM5ptDi09PNPbYCUavrHA%3D%3D&trackingId=W5KDljuRgXoXey9FI89zkQ%3D%3D)
 
 ### Nmbrs
 - **Position:** Software developer - Summer Internship
