@@ -4,7 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (264 offers)
+## Available positions (268 offers)
+
+### Siemens Energy
+- **Position:** Summer Internship 2025 (Local Program - Engineering)
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-05-14
+- [Apply here](https://ro.linkedin.com/jobs/view/summer-internship-2025-local-program-engineering-at-siemens-energy-4229386683?position=14&pageNum=0&refId=pzcjhOcWIZni3H9wXsnmcQ%3D%3D&trackingId=35s62fPnY2ZU8CnSKVlICQ%3D%3D)
+
+### Julius Baer
+- **Position:** 2025 Summer Internship – Test Automation Engineer Case and Process Management, 100% (f/m/d)
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2025-05-13
+- [Apply here](https://es.linkedin.com/jobs/view/2025-summer-internship-%E2%80%93-test-automation-engineer-case-and-process-management-100%25-f-m-d-at-julius-baer-4228927828?position=35&pageNum=0&refId=Ou5HMN%2BMN5Swi8XBSDjqSQ%3D%3D&trackingId=yXgqXyfMoRxgjz8j50XhmA%3D%3D)
+
+### Julius Baer
+- **Position:** 2025 Summer Internship – UiPath Automation Developer 100% (f/m/d)
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2025-05-13
+- [Apply here](https://es.linkedin.com/jobs/view/2025-summer-internship-%E2%80%93-uipath-automation-developer-100%25-f-m-d-at-julius-baer-4228932556?position=52&pageNum=0&refId=Ou5HMN%2BMN5Swi8XBSDjqSQ%3D%3D&trackingId=t6d8SODgVQbZ5eFVMc4tBw%3D%3D)
 
 ### Amazon
 - **Position:** 2025 Security Specialist Intern, DC Security
@@ -113,6 +131,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Stockholm, Stockholm County, Sweden
 - **Posted on:** 2025-04-16
 - [Apply here](https://se.linkedin.com/jobs/view/student-summer-internship-%E2%80%93-software-or-mechanical-engineering-proof-of-concept-project-at-latronix-ab-4211713245?position=34&pageNum=0&refId=bGnZfiDvowWln%2Bet0oc65Q%3D%3D&trackingId=4zUp2hkmzEhDnbUToWUDRQ%3D%3D)
+
+### Dolby OptiView
+- **Position:** Intern QA, Core Audio (Summer 2025)
+- **Location:** Wrocław, Dolnośląskie, Poland
+- **Posted on:** 2025-04-16
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-qa-core-audio-summer-2025-at-dolby-optiview-4211299918?position=60&pageNum=0&refId=WtE7ZPW0ICxqiW%2Fpoo0g6w%3D%3D&trackingId=2bOxs%2FtBf8u0oRKPX6jRzg%3D%3D)
 
 ### Talent Skull
 - **Position:** Data Science Internship
