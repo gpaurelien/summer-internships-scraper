@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (268 offers)
+## Available positions (269 offers)
 
 ### Siemens Energy
 - **Position:** Summer Internship 2025 (Local Program - Engineering)
@@ -449,6 +449,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Copenhagen, Capital Region of Denmark, Denmark
 - **Posted on:** 2025-04-03
 - [Apply here](https://dk.linkedin.com/jobs/view/data-science-internship-at-lenus-4199997236?position=26&pageNum=0&refId=R2Ucjv9L98wm8RN1fjYJbA%3D%3D&trackingId=D3eSAJ38WAs9yU7K6EtTrQ%3D%3D)
+
+### Austin Engineering
+- **Position:** Structural Engineering Intern (Summer 2025)
+- **Location:** Sector 2, Bucharest, Romania
+- **Posted on:** 2025-04-03
+- [Apply here](https://ro.linkedin.com/jobs/view/structural-engineering-intern-summer-2025-at-austin-engineering-4198836943?position=15&pageNum=0&refId=Kz4p5YKVpus5osOF1ggr1Q%3D%3D&trackingId=bPsQ35SNjtpixvo45k19FA%3D%3D)
 
 ### Lenus
 - **Position:** Data Science Internship
