@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (269 offers)
+## Available positions (271 offers)
 
 ### Siemens Energy
 - **Position:** Summer Internship 2025 (Local Program - Engineering)
@@ -77,6 +77,18 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Bucharest, Bucharest, Romania
 - **Posted on:** 2025-04-25
 - [Apply here](https://ro.linkedin.com/jobs/view/2025-summer-undergraduate-intern-co-op-intern-production-engineer-cnc-dt-at-mks-instruments-4217434999?position=43&pageNum=0&refId=X0T40QSanGp2Zb8zuJA0UA%3D%3D&trackingId=bjOUy%2B0r%2Fd9K7EiqUYiZsw%3D%3D)
+
+### MKS Inc.
+- **Position:** 2025 Summer Undergraduate Intern/ Co-op Program Intern Production Engineer Assembly
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-04-25
+- [Apply here](https://ro.linkedin.com/jobs/view/2025-summer-undergraduate-intern-co-op-program-intern-production-engineer-assembly-at-mks-inc-4217434998?position=19&pageNum=0&refId=X0jYdP%2BGw0NmbsniLeuy6g%3D%3D&trackingId=rpQeNUoG94SPgmxr9WGffw%3D%3D)
+
+### MKS Inc.
+- **Position:** 2025 Summer Undergraduate Intern/Co-op Intern Production Engineer CNC&DT
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-04-25
+- [Apply here](https://ro.linkedin.com/jobs/view/2025-summer-undergraduate-intern-co-op-intern-production-engineer-cnc-dt-at-mks-inc-4217434999?position=30&pageNum=0&refId=X0jYdP%2BGw0NmbsniLeuy6g%3D%3D&trackingId=GDN2FV7Z%2BY%2FrVfWgpOKIrg%3D%3D)
 
 ### NVIDIA
 - **Position:** Networking Architecture Intern, Security Research – Summer 2025
