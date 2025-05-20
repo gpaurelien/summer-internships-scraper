@@ -4,7 +4,43 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (271 offers)
+## Available positions (277 offers)
+
+### Farside
+- **Position:** AI Developer Summer Internship
+- **Location:** Barcelona, Catalonia, Spain
+- **Posted on:** 2025-05-20
+- [Apply here](https://es.linkedin.com/jobs/view/ai-developer-summer-internship-at-farside-4231288627?position=12&pageNum=0&refId=5OND28H2fWUm%2FQu9sYZZhg%3D%3D&trackingId=M%2F5WsKRrYbNcaflqmbnz1g%3D%3D)
+
+### Uphold
+- **Position:** Summer Internship - Data Science & Analytics
+- **Location:** Porto, Braga, Portugal
+- **Posted on:** 2025-05-19
+- [Apply here](https://pt.linkedin.com/jobs/view/summer-internship-data-science-analytics-at-uphold-4233101613?position=7&pageNum=0&refId=F0lWQ4Hs9ZaxZRQtWlZtEg%3D%3D&trackingId=q0c3XTBKzzXVIpM13%2F%2BzuQ%3D%3D)
+
+### Uphold
+- **Position:** Summer Internship - Frontend Engineering
+- **Location:** Porto, Braga, Portugal
+- **Posted on:** 2025-05-19
+- [Apply here](https://pt.linkedin.com/jobs/view/summer-internship-frontend-engineering-at-uphold-4233105449?position=15&pageNum=0&refId=F0lWQ4Hs9ZaxZRQtWlZtEg%3D%3D&trackingId=kT6lP5R%2FmmKaXnHHc17Tjw%3D%3D)
+
+### Uphold
+- **Position:** Summer Internship - Backend Engineering
+- **Location:** Braga, Braga, Portugal
+- **Posted on:** 2025-05-19
+- [Apply here](https://pt.linkedin.com/jobs/view/summer-internship-backend-engineering-at-uphold-4233106329?position=17&pageNum=0&refId=F0lWQ4Hs9ZaxZRQtWlZtEg%3D%3D&trackingId=gqDa9uumG6EtEWu7iQr7Qg%3D%3D)
+
+### Uphold
+- **Position:** Summer Internship - Data Engineer, Platform
+- **Location:** Braga, Braga, Portugal
+- **Posted on:** 2025-05-19
+- [Apply here](https://pt.linkedin.com/jobs/view/summer-internship-data-engineer-platform-at-uphold-4233105356?position=21&pageNum=0&refId=F0lWQ4Hs9ZaxZRQtWlZtEg%3D%3D&trackingId=%2F4GvxVbQtmehWdkLftybbA%3D%3D)
+
+### Uphold
+- **Position:** Summer Internship - Data Engineer, Ingestion
+- **Location:** Braga, Braga, Portugal
+- **Posted on:** 2025-05-19
+- [Apply here](https://pt.linkedin.com/jobs/view/summer-internship-data-engineer-ingestion-at-uphold-4233100826?position=23&pageNum=0&refId=F0lWQ4Hs9ZaxZRQtWlZtEg%3D%3D&trackingId=xW%2FUYKaUOPoZBS%2Br3RbCRQ%3D%3D)
 
 ### Siemens Energy
 - **Position:** Summer Internship 2025 (Local Program - Engineering)
