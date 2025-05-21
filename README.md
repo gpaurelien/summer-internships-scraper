@@ -4,13 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (277 offers)
+## Available positions (279 offers)
 
 ### Farside
 - **Position:** AI Developer Summer Internship
 - **Location:** Barcelona, Catalonia, Spain
 - **Posted on:** 2025-05-20
 - [Apply here](https://es.linkedin.com/jobs/view/ai-developer-summer-internship-at-farside-4231288627?position=12&pageNum=0&refId=5OND28H2fWUm%2FQu9sYZZhg%3D%3D&trackingId=M%2F5WsKRrYbNcaflqmbnz1g%3D%3D)
+
+### Boeing
+- **Position:** Summer Internship 2025 - Software Developer - Boeing Defense & Space
+- **Location:** Gdansk Metropolitan Area
+- **Posted on:** 2025-05-20
+- [Apply here](https://pl.linkedin.com/jobs/view/summer-internship-2025-software-developer-boeing-defense-space-at-boeing-4232206578?position=54&pageNum=0&refId=pLBMVdDIU43KV2vvST08oA%3D%3D&trackingId=Csz9cBZdWFb13ZWM%2BYnnnA%3D%3D)
+
+### Syncron
+- **Position:** Summer Internship in Software Engineering
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-05-20
+- [Apply here](https://pl.linkedin.com/jobs/view/summer-internship-in-software-engineering-at-syncron-4231885375?position=57&pageNum=0&refId=pLBMVdDIU43KV2vvST08oA%3D%3D&trackingId=oLFqn3u%2FXAYQ2KzHpfdwMw%3D%3D)
 
 ### Uphold
 - **Position:** Summer Internship - Data Science & Analytics
