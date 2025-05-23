@@ -4,7 +4,31 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (279 offers)
+## Available positions (283 offers)
+
+### Uphold
+- **Position:** Summer Internship - Application Security (AppSec)
+- **Location:** Porto, Braga, Portugal
+- **Posted on:** 2025-05-22
+- [Apply here](https://pt.linkedin.com/jobs/view/summer-internship-application-security-appsec-at-uphold-4235353503?position=21&pageNum=0&refId=OkyDOwn5Ca0K3Beg0YZjZA%3D%3D&trackingId=PJWRCrubF98gyiwYUL8gEw%3D%3D)
+
+### NorthGravity
+- **Position:** Software Engineer Intern (Java)
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-05-22
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineer-intern-java-at-northgravity-4233002508?position=33&pageNum=0&refId=zBbzqzLCNiAi9PqJpi8Axw%3D%3D&trackingId=9p9%2B%2BrvLbtZ5Fnvl8Uy9iQ%3D%3D)
+
+### NorthGravity
+- **Position:** Data Science Intern
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-05-22
+- [Apply here](https://pl.linkedin.com/jobs/view/data-science-intern-at-northgravity-4233007087?position=58&pageNum=0&refId=zBbzqzLCNiAi9PqJpi8Axw%3D%3D&trackingId=UxDRsEk4dKmueehf0W0VOA%3D%3D)
+
+### Hipo.ro
+- **Position:** Summer Internship 2025 (Local Program - Engineering)
+- **Location:** Ilfov, Romania
+- **Posted on:** 2025-05-21
+- [Apply here](https://ro.linkedin.com/jobs/view/summer-internship-2025-local-program-engineering-at-hipo-ro-4232588697?position=7&pageNum=0&refId=WAWCVIJijQIrZiQfs3aesA%3D%3D&trackingId=%2BfuK2DkydTX43vC0lHsvaA%3D%3D)
 
 ### Farside
 - **Position:** AI Developer Summer Internship
