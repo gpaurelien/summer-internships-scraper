@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (283 offers)
+## Available positions (284 offers)
 
 ### Uphold
 - **Position:** Summer Internship - Application Security (AppSec)
@@ -23,6 +23,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Cracow, Małopolskie, Poland
 - **Posted on:** 2025-05-22
 - [Apply here](https://pl.linkedin.com/jobs/view/data-science-intern-at-northgravity-4233007087?position=58&pageNum=0&refId=zBbzqzLCNiAi9PqJpi8Axw%3D%3D&trackingId=UxDRsEk4dKmueehf0W0VOA%3D%3D)
+
+### NorthGravity
+- **Position:** Frontend Intern (React)
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-05-22
+- [Apply here](https://pl.linkedin.com/jobs/view/frontend-intern-react-at-northgravity-4232689673?position=58&pageNum=0&refId=oCr3czpf1fKZ5d2shRAobg%3D%3D&trackingId=BGHDURQLIYkP8TGzQd4z1Q%3D%3D)
 
 ### Hipo.ro
 - **Position:** Summer Internship 2025 (Local Program - Engineering)
