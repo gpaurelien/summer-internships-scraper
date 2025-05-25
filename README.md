@@ -4,7 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (284 offers)
+## Available positions (286 offers)
+
+### STATION F
+- **Position:** BACKEND DEVELOPER INTERN (PYTHON)
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2025-05-25
+- [Apply here](https://fr.linkedin.com/jobs/view/backend-developer-intern-python-at-station-f-4234660608?position=5&pageNum=0&refId=waeYEaEjMRotYwpz4xA3TA%3D%3D&trackingId=j3PsGTa89NwgaUkn9u%2FGuw%3D%3D)
+
+### Mago
+- **Position:** Backend Developer Intern (Python)
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2025-05-24
+- [Apply here](https://fr.linkedin.com/jobs/view/backend-developer-intern-python-at-mago-4234181704?position=2&pageNum=0&refId=waeYEaEjMRotYwpz4xA3TA%3D%3D&trackingId=nMwfmET30CLG37eit9V4kQ%3D%3D)
 
 ### Uphold
 - **Position:** Summer Internship - Application Security (AppSec)
