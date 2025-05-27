@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (286 offers)
+## Available positions (291 offers)
+
+### Second Foundation
+- **Position:** Software Engineering Intern
+- **Location:** Prague 1, Prague, Czechia
+- **Posted on:** 2025-05-26
+- [Apply here](https://cz.linkedin.com/jobs/view/software-engineering-intern-at-second-foundation-4237977404?position=2&pageNum=0&refId=f9GuI7oMeKmRuodvGVP0Eg%3D%3D&trackingId=oGS0Yn57u7F52HhgXT2ESQ%3D%3D)
 
 ### STATION F
 - **Position:** BACKEND DEVELOPER INTERN (PYTHON)
@@ -47,6 +53,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Ilfov, Romania
 - **Posted on:** 2025-05-21
 - [Apply here](https://ro.linkedin.com/jobs/view/summer-internship-2025-local-program-engineering-at-hipo-ro-4232588697?position=7&pageNum=0&refId=WAWCVIJijQIrZiQfs3aesA%3D%3D&trackingId=%2BfuK2DkydTX43vC0lHsvaA%3D%3D)
+
+### Uphold
+- **Position:** Summer Internship - Core Banking Engineer
+- **Location:** Porto, Braga, Portugal
+- **Posted on:** 2025-05-21
+- [Apply here](https://pt.linkedin.com/jobs/view/summer-internship-core-banking-engineer-at-uphold-4234253675?position=18&pageNum=0&refId=WviNXd%2ByPMhqy5MuFlvsPQ%3D%3D&trackingId=oUwSfUcg3z1vpq81EAgaZg%3D%3D)
 
 ### Farside
 - **Position:** AI Developer Summer Internship
@@ -95,6 +107,18 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Braga, Braga, Portugal
 - **Posted on:** 2025-05-19
 - [Apply here](https://pt.linkedin.com/jobs/view/summer-internship-data-engineer-ingestion-at-uphold-4233100826?position=23&pageNum=0&refId=F0lWQ4Hs9ZaxZRQtWlZtEg%3D%3D&trackingId=xW%2FUYKaUOPoZBS%2Br3RbCRQ%3D%3D)
+
+### Boeing
+- **Position:** SUMMER INTERNSHIP 2025: Boeing Engineering Production and Defense
+- **Location:** Gdansk Metropolitan Area
+- **Posted on:** 2025-05-18
+- [Apply here](https://pl.linkedin.com/jobs/view/summer-internship-2025-boeing-engineering-production-and-defense-at-boeing-4215689326?position=43&pageNum=0&refId=3bkQ8uuNh3pWwjaUAZlDkQ%3D%3D&trackingId=9oAqJ7O1wCYGAWQ%2FaPZp%2BQ%3D%3D)
+
+### Boeing
+- **Position:** SUMMER INTERNSHIP 2025: Boeing Engineering Aircraft Systems Team
+- **Location:** Gdansk Metropolitan Area
+- **Posted on:** 2025-05-18
+- [Apply here](https://pl.linkedin.com/jobs/view/summer-internship-2025-boeing-engineering-aircraft-systems-team-at-boeing-4215691127?position=55&pageNum=0&refId=3bkQ8uuNh3pWwjaUAZlDkQ%3D%3D&trackingId=JVDNxiB1u3zHNp7otUgiAg%3D%3D)
 
 ### Siemens Energy
 - **Position:** Summer Internship 2025 (Local Program - Engineering)
@@ -239,6 +263,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Wrocław, Dolnośląskie, Poland
 - **Posted on:** 2025-04-16
 - [Apply here](https://pl.linkedin.com/jobs/view/intern-qa-core-audio-summer-2025-at-dolby-optiview-4211299918?position=60&pageNum=0&refId=WtE7ZPW0ICxqiW%2Fpoo0g6w%3D%3D&trackingId=2bOxs%2FtBf8u0oRKPX6jRzg%3D%3D)
+
+### Dolby OptiView
+- **Position:** Intern, QA in Dolby Vision (Summer 2025)
+- **Location:** Wrocław, Dolnośląskie, Poland
+- **Posted on:** 2025-04-16
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-qa-in-dolby-vision-summer-2025-at-dolby-optiview-4211298912?position=34&pageNum=0&refId=3bkQ8uuNh3pWwjaUAZlDkQ%3D%3D&trackingId=5HcdlDigYBTvnJ5BQN0qIQ%3D%3D)
 
 ### Talent Skull
 - **Position:** Data Science Internship
