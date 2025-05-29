@@ -4,7 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (291 offers)
+## Available positions (302 offers)
+
+### Loewe
+- **Position:** Security Analyst Internship
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2025-05-27
+- [Apply here](https://es.linkedin.com/jobs/view/security-analyst-internship-at-loewe-4235672223?position=50&pageNum=0&refId=SprRp%2FMn4ZhWw10vT3yJ6A%3D%3D&trackingId=gMxbaEUrDzuH1XsNGtlajQ%3D%3D)
+
+### Dalux
+- **Position:** Intern - Software developer
+- **Location:** Copenhagen Municipality, Capital Region of Denmark, Denmark
+- **Posted on:** 2025-05-27
+- [Apply here](https://dk.linkedin.com/jobs/view/intern-software-developer-at-dalux-4233669110?position=37&pageNum=0&refId=UaSYos5QVWIURAXtfU2uQQ%3D%3D&trackingId=GKftWQEzgZUvMBbzF5LU3A%3D%3D)
+
+### Montrose Software
+- **Position:** Paid Internship - Data and AI Intern
+- **Location:** Time, Rogaland, Norway
+- **Posted on:** 2025-05-27
+- [Apply here](https://no.linkedin.com/jobs/view/paid-internship-data-and-ai-intern-at-montrose-software-4235865839?position=8&pageNum=0&refId=lO7DFxKICz%2BMHpMX%2BospFw%3D%3D&trackingId=oD%2FkoiX1fkFCXEr2yFVyuA%3D%3D)
 
 ### Second Foundation
 - **Position:** Software Engineering Intern
@@ -23,6 +41,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Paris, Île-de-France, France
 - **Posted on:** 2025-05-24
 - [Apply here](https://fr.linkedin.com/jobs/view/backend-developer-intern-python-at-mago-4234181704?position=2&pageNum=0&refId=waeYEaEjMRotYwpz4xA3TA%3D%3D&trackingId=nMwfmET30CLG37eit9V4kQ%3D%3D)
+
+### myPOS
+- **Position:** Intern C++ Developer
+- **Location:** Varna, Varna, Bulgaria
+- **Posted on:** 2025-05-23
+- [Apply here](https://bg.linkedin.com/jobs/view/intern-c%2B%2B-developer-at-mypos-4233958884?position=58&pageNum=0&refId=vb0c4%2F3u5jEcahUCMVSAUw%3D%3D&trackingId=UIjjT5HXpRXhzTuAbdWtkQ%3D%3D)
 
 ### Uphold
 - **Position:** Summer Internship - Application Security (AppSec)
@@ -59,6 +83,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Porto, Braga, Portugal
 - **Posted on:** 2025-05-21
 - [Apply here](https://pt.linkedin.com/jobs/view/summer-internship-core-banking-engineer-at-uphold-4234253675?position=18&pageNum=0&refId=WviNXd%2ByPMhqy5MuFlvsPQ%3D%3D&trackingId=oUwSfUcg3z1vpq81EAgaZg%3D%3D)
+
+### Axway
+- **Position:** Java Engineering Intern
+- **Location:** Sofia, Sofia City, Bulgaria
+- **Posted on:** 2025-05-21
+- [Apply here](https://bg.linkedin.com/jobs/view/java-engineering-intern-at-axway-4234267319?position=49&pageNum=0&refId=vb0c4%2F3u5jEcahUCMVSAUw%3D%3D&trackingId=C4V5F6mBRJrMN5W9Dhtv3A%3D%3D)
 
 ### Farside
 - **Position:** AI Developer Summer Internship
@@ -108,6 +138,18 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-05-19
 - [Apply here](https://pt.linkedin.com/jobs/view/summer-internship-data-engineer-ingestion-at-uphold-4233100826?position=23&pageNum=0&refId=F0lWQ4Hs9ZaxZRQtWlZtEg%3D%3D&trackingId=xW%2FUYKaUOPoZBS%2Br3RbCRQ%3D%3D)
 
+### Mercedes-Benz.io
+- **Position:** Summer Internship - Frontend Engineer (f/m/x)
+- **Location:** Lisboa, Lisbon, Portugal
+- **Posted on:** 2025-05-19
+- [Apply here](https://pt.linkedin.com/jobs/view/summer-internship-frontend-engineer-f-m-x-at-mercedes-benz-io-4230661316?position=31&pageNum=0&refId=KuQxE9R3r6RdvG89kB9uPg%3D%3D&trackingId=yk2VqA%2B48MRujZU7hax1iA%3D%3D)
+
+### the LEGO Group
+- **Position:** Intern, Vision Engineer
+- **Location:** Billund, Region of Southern Denmark, Denmark
+- **Posted on:** 2025-05-19
+- [Apply here](https://dk.linkedin.com/jobs/view/intern-vision-engineer-at-the-lego-group-4230597489?position=22&pageNum=0&refId=UaSYos5QVWIURAXtfU2uQQ%3D%3D&trackingId=1KG3tYOiZSOimsBy0LPc7Q%3D%3D)
+
 ### Boeing
 - **Position:** SUMMER INTERNSHIP 2025: Boeing Engineering Production and Defense
 - **Location:** Gdansk Metropolitan Area
@@ -120,11 +162,29 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Posted on:** 2025-05-18
 - [Apply here](https://pl.linkedin.com/jobs/view/summer-internship-2025-boeing-engineering-aircraft-systems-team-at-boeing-4215691127?position=55&pageNum=0&refId=3bkQ8uuNh3pWwjaUAZlDkQ%3D%3D&trackingId=JVDNxiB1u3zHNp7otUgiAg%3D%3D)
 
+### Mercedes-Benz.io
+- **Position:** Summer Internship - Backend Engineer (f/m/x)
+- **Location:** Lisboa, Lisbon, Portugal
+- **Posted on:** 2025-05-16
+- [Apply here](https://pt.linkedin.com/jobs/view/summer-internship-backend-engineer-f-m-x-at-mercedes-benz-io-4229255879?position=42&pageNum=0&refId=KuQxE9R3r6RdvG89kB9uPg%3D%3D&trackingId=hIey5NNBWwpGZa3mK6u2Nw%3D%3D)
+
+### Mercedes-Benz.io
+- **Position:** Summer Internship - Data Engineer (f/m/x)
+- **Location:** Lisboa, Lisbon, Portugal
+- **Posted on:** 2025-05-16
+- [Apply here](https://pt.linkedin.com/jobs/view/summer-internship-data-engineer-f-m-x-at-mercedes-benz-io-4229258575?position=54&pageNum=0&refId=KuQxE9R3r6RdvG89kB9uPg%3D%3D&trackingId=I1PZwwLyt%2BqTyS553oI%2Bjg%3D%3D)
+
 ### Siemens Energy
 - **Position:** Summer Internship 2025 (Local Program - Engineering)
 - **Location:** Bucharest, Bucharest, Romania
 - **Posted on:** 2025-05-14
 - [Apply here](https://ro.linkedin.com/jobs/view/summer-internship-2025-local-program-engineering-at-siemens-energy-4229386683?position=14&pageNum=0&refId=pzcjhOcWIZni3H9wXsnmcQ%3D%3D&trackingId=35s62fPnY2ZU8CnSKVlICQ%3D%3D)
+
+### SumUp
+- **Position:** Internship Backend Engineer
+- **Location:** Sofia, Sofia City, Bulgaria
+- **Posted on:** 2025-05-14
+- [Apply here](https://bg.linkedin.com/jobs/view/internship-backend-engineer-at-sumup-4218857421?position=10&pageNum=0&refId=vb0c4%2F3u5jEcahUCMVSAUw%3D%3D&trackingId=%2F8IqbiwjtcWKdPclSvQn2w%3D%3D)
 
 ### Julius Baer
 - **Position:** 2025 Summer Internship – Test Automation Engineer Case and Process Management, 100% (f/m/d)
@@ -203,6 +263,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Bucharest, Bucharest, Romania
 - **Posted on:** 2025-04-25
 - [Apply here](https://ro.linkedin.com/jobs/view/2025-summer-undergraduate-intern-co-op-intern-production-engineer-cnc-dt-at-mks-inc-4217434999?position=30&pageNum=0&refId=X0jYdP%2BGw0NmbsniLeuy6g%3D%3D&trackingId=GDN2FV7Z%2BY%2FrVfWgpOKIrg%3D%3D)
+
+### AdPlenty - Local Marketing software
+- **Position:** Internship - Frontend Developer in Startup
+- **Location:** Copenhagen, Capital Region of Denmark, Denmark
+- **Posted on:** 2025-04-25
+- [Apply here](https://dk.linkedin.com/jobs/view/internship-frontend-developer-in-startup-at-adplenty-local-marketing-software-4214289515?position=39&pageNum=0&refId=UaSYos5QVWIURAXtfU2uQQ%3D%3D&trackingId=UUm1HRw9voZoSKb31pM%2BRQ%3D%3D)
 
 ### NVIDIA
 - **Position:** Networking Architecture Intern, Security Research – Summer 2025
