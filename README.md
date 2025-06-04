@@ -4,7 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (302 offers)
+## Available positions (305 offers)
+
+### Lufthansa
+- **Position:** Internship Data Science in Data and Analytics Department
+- **Location:** Frankfurt, Hesse, Germany
+- **Posted on:** 2025-06-03
+- [Apply here](https://de.linkedin.com/jobs/view/internship-data-science-in-data-and-analytics-department-at-lufthansa-4240065166?position=1&pageNum=0&refId=Ftqj%2Fb%2F%2BBJy2z6fSJieRCA%3D%3D&trackingId=Ytmu9lvWiU%2BHfPKveAUuzg%3D%3D)
+
+### CYVI
+- **Position:** AI Engineer Internship
+- **Location:** Sweden
+- **Posted on:** 2025-06-03
+- [Apply here](https://se.linkedin.com/jobs/view/ai-engineer-internship-at-cyvi-4243804199?position=1&pageNum=0&refId=mHAN8061vCRIB%2FoAxXCL4Q%3D%3D&trackingId=KqgDa%2BHyGPBgI0s1S9IdEA%3D%3D)
+
+### Solar Turbines
+- **Position:** Engineering Intern (SPE)-2
+- **Location:** Praha-Dubeč, Prague, Czechia
+- **Posted on:** 2025-06-03
+- [Apply here](https://cz.linkedin.com/jobs/view/engineering-intern-spe-2-at-solar-turbines-4243808562?position=15&pageNum=0&refId=%2BlRB%2FvJTkX1PWGYWE7ENsw%3D%3D&trackingId=erItug6D4LPNVY7uhRqBdA%3D%3D)
 
 ### Loewe
 - **Position:** Security Analyst Internship
