@@ -4,7 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (305 offers)
+## Available positions (309 offers)
+
+### Siemens EDA (Siemens Digital Industries Software)
+- **Position:** EBS Software Development Intern - Strategic Student Program Poland
+- **Location:** Katowice, Śląskie, Poland
+- **Posted on:** 2025-06-04
+- [Apply here](https://pl.linkedin.com/jobs/view/ebs-software-development-intern-strategic-student-program-poland-at-siemens-eda-siemens-digital-industries-software-4227318405?position=44&pageNum=0&refId=RwhX79aOxv5tg1G9Sj7qTA%3D%3D&trackingId=%2FFxKWlOR0PSBe2wf6D6%2FGQ%3D%3D)
+
+### Dolby Laboratories
+- **Position:** Intern QA, Core Audio (Summer 2025)
+- **Location:** Wrocław, Dolnośląskie, Poland
+- **Posted on:** 2025-06-04
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-qa-core-audio-summer-2025-at-dolby-laboratories-4181072431?position=47&pageNum=0&refId=RwhX79aOxv5tg1G9Sj7qTA%3D%3D&trackingId=w0VLr8uN5AN1oO30ghPm3Q%3D%3D)
 
 ### Lufthansa
 - **Position:** Internship Data Science in Data and Analytics Department
@@ -23,6 +35,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Praha-Dubeč, Prague, Czechia
 - **Posted on:** 2025-06-03
 - [Apply here](https://cz.linkedin.com/jobs/view/engineering-intern-spe-2-at-solar-turbines-4243808562?position=15&pageNum=0&refId=%2BlRB%2FvJTkX1PWGYWE7ENsw%3D%3D&trackingId=erItug6D4LPNVY7uhRqBdA%3D%3D)
+
+### Siemens EDA (Siemens Digital Industries Software)
+- **Position:** Java Developer Intern - Strategic Student Program Poland
+- **Location:** Katowice, Śląskie, Poland
+- **Posted on:** 2025-06-03
+- [Apply here](https://pl.linkedin.com/jobs/view/java-developer-intern-strategic-student-program-poland-at-siemens-eda-siemens-digital-industries-software-4241104086?position=19&pageNum=0&refId=RwhX79aOxv5tg1G9Sj7qTA%3D%3D&trackingId=QfnyWQgFFHFvLn19fgkRPg%3D%3D)
 
 ### Loewe
 - **Position:** Security Analyst Internship
@@ -179,6 +197,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Gdansk Metropolitan Area
 - **Posted on:** 2025-05-18
 - [Apply here](https://pl.linkedin.com/jobs/view/summer-internship-2025-boeing-engineering-aircraft-systems-team-at-boeing-4215691127?position=55&pageNum=0&refId=3bkQ8uuNh3pWwjaUAZlDkQ%3D%3D&trackingId=JVDNxiB1u3zHNp7otUgiAg%3D%3D)
+
+### Boeing
+- **Position:** SUMMER INTERNSHIP 2025: Boeing Engineering Production and Defense
+- **Location:** Rzeszów, Podkarpackie, Poland
+- **Posted on:** 2025-05-18
+- [Apply here](https://pl.linkedin.com/jobs/view/summer-internship-2025-boeing-engineering-production-and-defense-at-boeing-4215689327?position=56&pageNum=0&refId=RwhX79aOxv5tg1G9Sj7qTA%3D%3D&trackingId=kEXcd31vd0jIhVjnlMwNgA%3D%3D)
 
 ### Mercedes-Benz.io
 - **Position:** Summer Internship - Backend Engineer (f/m/x)
