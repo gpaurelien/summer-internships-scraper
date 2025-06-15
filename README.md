@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (309 offers)
+## Available positions (310 offers)
 
 ### Siemens EDA (Siemens Digital Industries Software)
 - **Position:** EBS Software Development Intern - Strategic Student Program Poland
@@ -41,6 +41,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Katowice, Śląskie, Poland
 - **Posted on:** 2025-06-03
 - [Apply here](https://pl.linkedin.com/jobs/view/java-developer-intern-strategic-student-program-poland-at-siemens-eda-siemens-digital-industries-software-4241104086?position=19&pageNum=0&refId=RwhX79aOxv5tg1G9Sj7qTA%3D%3D&trackingId=QfnyWQgFFHFvLn19fgkRPg%3D%3D)
+
+### Amazon
+- **Position:** 2025 Security Specialist Intern, DC Security
+- **Location:** Frankfurt/Oder, Brandenburg, Germany
+- **Posted on:** 2025-05-28
+- [Apply here](https://de.linkedin.com/jobs/view/2025-security-specialist-intern-dc-security-at-amazon-4239754849?position=22&pageNum=0&refId=Ewe9os%2F4VAS299nWJQRRyQ%3D%3D&trackingId=seWIcVocKWkkFtQ66rhTaw%3D%3D)
 
 ### Loewe
 - **Position:** Security Analyst Internship
